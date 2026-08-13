@@ -1,0 +1,461 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SMWS Outturn - Category 26</title>
+<style>
+ @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500;600&display=swap');
+ :root{--navy:#202448;--ink:#0e1322;--rule:#e4e4e4;--muted:#6f6f6f;--tint:#f5f6f9;--cond:'Oswald','Arial Narrow',Arial,sans-serif;--serif:Georgia,'Times New Roman',serif;}
+ *{box-sizing:border-box;}
+ body{margin:0;background:#fff;color:var(--ink);font-family:var(--serif);}
+ .topbar{background:var(--navy);color:#fff;text-align:center;font-family:var(--cond);text-transform:uppercase;letter-spacing:3px;font-size:13px;padding:12px;}
+ .wrap{max-width:1280px;margin:0 auto;padding:28px 24px 40px;}
+ .pagehead{border-bottom:2px solid var(--navy);padding-bottom:12px;margin-bottom:22px;}
+ .pagehead h1{font-family:var(--cond);text-transform:uppercase;color:var(--navy);font-weight:600;letter-spacing:1px;margin:0;font-size:30px;}
+ .pagehead h1 span{font-weight:300;color:var(--muted);}
+ .pagehead .count{font-family:var(--cond);text-transform:uppercase;letter-spacing:1px;color:var(--muted);font-size:13px;margin-top:4px;}
+ .note{font-size:13.5px;line-height:1.55;color:#333;font-family:var(--serif);margin:0 0 22px;padding-left:14px;border-left:3px solid var(--navy);}
+ .note b{color:var(--navy);}
+ .toggle{display:flex;margin-bottom:22px;}
+ .toggle button{font-family:var(--cond);text-transform:uppercase;letter-spacing:1.5px;font-size:13px;padding:9px 22px;border:1px solid var(--navy);background:#fff;color:var(--navy);cursor:pointer;}
+ .toggle button+button{border-left:none;}
+ .toggle button.active{background:var(--navy);color:#fff;}
+ .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:24px;}
+ .card{background:#fff;border:1px solid var(--rule);display:flex;flex-direction:column;}
+ .imgwrap{text-align:center;padding:22px 14px 6px;}
+ .imgwrap img{height:230px;width:auto;object-fit:contain;}
+ .titlebar{background:var(--navy);color:#fff;padding:12px 16px;text-shadow:0 1px 2px rgba(0,0,0,.28);}
+ .titlebar .cask{display:block;font-family:var(--cond);letter-spacing:2px;font-size:12px;opacity:.85;}
+ .titlebar h2{font-family:var(--cond);text-transform:uppercase;font-weight:500;letter-spacing:.5px;font-size:19px;margin:2px 0 0;line-height:1.12;}
+ .body{padding:0 16px 16px;display:flex;flex-direction:column;flex:1;}
+ .specs{display:grid;grid-template-columns:1fr 1fr;column-gap:16px;}
+ .cell{display:flex;justify-content:space-between;gap:10px;padding:9px 0;border-bottom:1px solid var(--rule);font-size:14px;}
+ .cell.full{grid-column:1/-1;}
+ .cell .k{font-family:var(--cond);text-transform:uppercase;letter-spacing:.5px;font-size:12px;color:var(--muted);white-space:nowrap;}
+ .cell .v{font-family:var(--cond);font-weight:500;color:var(--ink);text-align:right;}
+ .codeblock{background:var(--tint);border-left:3px solid var(--navy);padding:4px 12px;margin-top:14px;}
+ .codeblock-cap{font-family:var(--cond);text-transform:uppercase;letter-spacing:1px;font-size:10.5px;color:var(--navy);padding:7px 0 1px;}
+ .codeblock .cell{border-bottom:1px solid #dfe1ea;}
+ .codeblock .cell:last-child{border-bottom:none;}
+ a.wiki{color:var(--navy);text-decoration:none;border-bottom:1px solid var(--navy);}
+ a.wiki:hover{opacity:.6;}
+ a.wiki::after{content:" \2197";font-size:.8em;opacity:.6;}
+ .desc{font-family:var(--serif);font-size:14px;line-height:1.6;color:#3a3a3a;margin:14px 0 4px;}
+ .desc p{margin:0 0 6px;}
+ .more{font-family:var(--cond);text-transform:uppercase;letter-spacing:1px;font-size:12px;color:var(--navy);background:none;border:none;padding:0;cursor:pointer;border-bottom:1px solid var(--navy);}
+ .tag{font-family:var(--cond);text-transform:uppercase;letter-spacing:1.5px;font-size:12px;color:var(--navy);margin:16px 0 2px;}
+ .na{color:#a0a0a0;font-style:italic;}
+ .foot{margin-top:auto;padding-top:14px;display:flex;align-items:center;justify-content:space-between;gap:12px;}
+ .price{font-family:var(--cond);font-weight:600;font-size:24px;color:var(--ink);}
+ .btn{font-family:var(--cond);text-transform:uppercase;letter-spacing:2px;font-size:12px;background:var(--navy);color:#fff;text-decoration:none;padding:11px 16px;white-space:nowrap;}
+ .btn:hover{background:var(--ink);}
+ table.tbl{width:100%;border-collapse:collapse;font-size:14px;display:none;}
+ table.tbl th,table.tbl td{text-align:left;padding:11px 12px;border-bottom:1px solid var(--rule);}
+ table.tbl th{background:var(--navy);color:#fff;font-family:var(--cond);text-transform:uppercase;letter-spacing:1px;font-size:12px;font-weight:400;}
+ table.tbl td{font-family:var(--cond);}
+ table.tbl tr:nth-child(even) td{background:#fafafa;}
+ .swatch{display:inline-block;width:12px;height:12px;border-radius:2px;margin-right:8px;vertical-align:-1px;border:1px solid rgba(0,0,0,.15);}
+ footer.ft{border-top:1px solid var(--rule);text-align:center;font-family:var(--cond);text-transform:uppercase;letter-spacing:1px;font-size:11px;color:var(--muted);padding:24px;margin-top:20px;}
+</style></head><body>
+<div class="topbar">The Scotch Malt Whisky Society</div>
+<div class="wrap">
+ <div class="pagehead"><h1>Outturn <span>&mdash; Category 26</span></h1><div class="count">18 bottles</div></div>
+ <div class="note"><b>Distillery</b> and <b>Region</b> are added from the number before the dot in each cask code (e.g. <b>4</b>.403 &rarr; Highland Park / Islands), mapped via the Whisky Saga SMWS code list, and each distillery links to Wikipedia. Multi-bottle bundles have no single code, so they show a blurb instead.</div>
+ <div class="toggle"><button id="bCards" class="active" onclick="show('cards')">Cards</button><button id="bTable" onclick="show('table')">Table</button></div>
+ <section id="cards" class="grid">
+    <article class="card">
+      <div class="imgwrap"><img loading="lazy" src="https://cdn11.bigcommerce.com/s-vagfena5nz/products/7962/images/13558/Batch_42_Highland_Peaty_Potion_GX_web__12375.1784642020.386.513.png?c=1" alt="Highland peaty potion"></div>
+      <div class="titlebar" style="background:#202448"><span class="cask">batch 42</span><h2>Highland peaty potion</h2></div>
+      <div class="body">
+        <div class="specs">
+          <div class="cell"><span class="k">Region</span><span class="v">Highland</span></div>
+          <div class="cell"><span class="k">Age</span><span class="v">10 years</span></div>
+          <div class="cell"><span class="k">ABV</span><span class="v">50%</span></div>
+          <div class="cell"><span class="k">Profile</span><span class="v">&mdash;</span></div>
+          <div class="cell full"><span class="k">Cask</span><span class="v">1st fill barrels and oloroso &amp; pedro ximenez butts</span></div>
+          <div class="cell full"><span class="k">Spirit</span><span class="v">Malt Whisky</span></div>
+        </div>
+        <div class="codeblock">
+          <div class="codeblock-cap">Added &middot; from SMWS code ?</div>
+          <div class="cell"><span class="k">Distillery</span><span class="v"><span class="na">No code match</span></span></div>
+          <div class="cell"><span class="k">Region</span><span class="v"><span class="na">No code match</span></span></div>
+        </div>
+        <div class="desc"><p class="desc-preview">Batch 42: Highland peaty potion  is the first smoky, peated Highland single malt Scotch whisky to grace our clear glass ‘Heresy’ releases. If the name sounds familiar, it…</p><p class="desc-full" hidden>Batch 42: Highland peaty potion  is the first smoky, peated Highland single malt Scotch whisky to grace our clear glass ‘Heresy’ releases. If the name sounds familiar, it’s because it’s not been so very long since we released  Batch 32: Fife peaty potion . If you enjoyed that release, you may already have an idea of where we’re headed with Batch 42…   To bring this 10-year-old small-batch single malt to life, we matured peated and unpeated whiskies from the same Highland distillery separately in first-fill bourbon barrels for seven years, providing texture, creaminess and marzipan. After that, we blended those whiskies and filled our new potion into a combination of fresh oloroso and Pedro Ximenez sherry butts, bringing layered dried fruits and molasses into the mix. Read more about  Batch 42 .   This bottling is one of our ‘Heresy’ releases, our small-batch experimental range of whiskies. Expect innovative blends and intriguing cask combinations.  Get into more ‘Heresy’ . Tasting Notes We created this flavour packed small batch single malt by combining peated and unpeated whiskies from the same Highland distillery. They had matured for seven years in first fill bourbon barrels before being blended and returned to a combination of oloroso and Pedro Ximenez butts. We are proud to present to you this resulting Highland peaty potion. Leather and dried fruits roared from the glass, tangled with dried figs, dates and smoked ginger beer, while chewy toffees, marzipan and gingerbread rode the gusts like embers from a storm-beaten orchard fire. Lightning bolts of chipotle and black pepper flashed over a tsunami of lapsang souchong and miso, as caramel swirled through haunting smoke. On the palate, dark and stormy ginger-laced coal smoke and rich sherry collided with barbecue-scorched bramley apple sausages and maple pancakes. A splash of water unleashed medicinal waves against dandelion and burdock rocks, sending oak-smoked marzipan, dark chocolate and toffee apples crashing over a bonfire to leave a lingering cloud of charred fruit and ash.</p><button class="more" onclick="tg(this)">Read more</button></div>
+        <div class="foot"><span class="price">&pound;58</span>
+          <a class="btn" href="https://smws.com/highland-peaty-potion/" target="_blank" rel="noopener">View on SMWS</a></div>
+      </div>
+    </article>
+    <article class="card bundle">
+      <div class="imgwrap"><img loading="lazy" src="https://cdn11.bigcommerce.com/s-vagfena5nz/products/7987/images/13581/Across_the_Spey_Duo__17131.1785242352.386.513.png?c=1" alt="Across the Spey Duo"></div>
+      <div class="titlebar"><h2>Across the Spey Duo</h2></div>
+      <div class="body">
+        <div class="tag">Multi-bottle bundle</div>
+        <div class="desc"><p class="desc-preview">We&#x27;re taking you to the north of Scotland this month with two well-known distilleries from the Speyside region. This exclusive duo brings together our Dried Fruits &amp; Spic…</p><p class="desc-full" hidden>We&#x27;re taking you to the north of Scotland this month with two well-known distilleries from the Speyside region. This exclusive duo brings together our Dried Fruits &amp; Spices and Toasted Oak &amp; Vanilla flavour profiles, celebrating two distilleries separated by the River Spey. Tasting Notes Cask No. 39.311: A barrique on a barque Dried Fruits &amp; Spices | Speyside | 1st fill ex-madeira barrique | 11 y/o | 60.5% ABV After nine years in ex-bourbon wood, this first fill madeira barrique produced a complex, interesting dram with blood orange hues. The nose had berry tones and floral notes, with cola bottle sweets, pine cones and toasted almonds, liquorice, tobacco and orange oil. The palate delivered thick-cut orange marmalade, fig jam and dried apples, which then developed into Polish Christmas compote, ginger, cinnamon and clove. The reduced nose gave us rich fruit cake and madeira wine spilled on the deck of a sailing ship returning from the equator. To taste, we dined on candied orange, rum-soaked pineapple and dried apricots, ginger snaps, salted liquorice and balsamic vinegar. Cask No. 73.176: Nonchalant nibbles Toasted Oak &amp; Vanilla| Speyside| 2nd fill ex-bourbon barrel | 14 y/o | 55.7% ABV We took a ladle of Caribbean rum punch to the nose, followed by a sophisticated stroll through a perfumery before running our nostrils along a packet of fruit pastilles. The palate began with a nonchalant nibble on a marmalade-laden digestive biscuit, with burnt vanilla a precursor to various cordials, barley sugars and a splash of cream soda cooled with frozen cubes of Turkish delight. Water gave the nose a spoon-bendingly thick vanilla milkshake, chunks of madeira cake, rum baba and caramel. The palate finished much like the nose, but with an upfront splash of riesling and a topping of blackcurrant jam with a sprig of mint.</p><button class="more" onclick="tg(this)">Read more</button></div>
+        <div class="foot"><span class="price">&pound;145</span>
+          <a class="btn" href="https://smws.com/across-the-spey-duo/" target="_blank" rel="noopener">View on SMWS</a></div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="imgwrap"><img loading="lazy" src="https://cdn11.bigcommerce.com/s-vagfena5nz/products/7957/images/13540/4.403-GX-web__95340.1784640851.386.513.png?c=1" alt="An autolytic Orcadian"></div>
+      <div class="titlebar" style="background:#1c75bb"><span class="cask">4.403</span><h2>An autolytic Orcadian</h2></div>
+      <div class="body">
+        <div class="specs">
+          <div class="cell"><span class="k">Region</span><span class="v">Highland</span></div>
+          <div class="cell"><span class="k">Age</span><span class="v">20 years</span></div>
+          <div class="cell"><span class="k">ABV</span><span class="v">59.6%</span></div>
+          <div class="cell"><span class="k">Profile</span><span class="v">Coastal &amp; Maritime</span></div>
+          <div class="cell full"><span class="k">Cask</span><span class="v">2nd fill ex-bourbon barrel</span></div>
+          <div class="cell full"><span class="k">Spirit</span><span class="v">Malt Whisky</span></div>
+        </div>
+        <div class="codeblock">
+          <div class="codeblock-cap">Added &middot; from SMWS code 4</div>
+          <div class="cell"><span class="k">Distillery</span><span class="v"><a class="wiki" href="https://en.wikipedia.org/w/index.php?title=Special:Search&search=Highland+Park+distillery&go=Go" target="_blank" rel="noopener">Highland Park</a></span></div>
+          <div class="cell"><span class="k">Region</span><span class="v">Islands</span></div>
+        </div>
+        <div class="desc"><p class="desc-preview">This one was superbly coastal, salty, crisp and full of bone-dry peat smoke from the get-go. We also noted herbal teas, cough drops, rich heather ales and crystallised fl…</p><p class="desc-full" hidden>This one was superbly coastal, salty, crisp and full of bone-dry peat smoke from the get-go. We also noted herbal teas, cough drops, rich heather ales and crystallised flower honey. Water enhanced these heathery qualities while adding more complex salty and umami impressions such as salt-baked fish and pasta water. The neat palate was like a dazzling hot toddy: lemony, waxy, gently smoky and warming. It displayed wonderful purity and power, we agreed. With water it gave us mineral oil, subtle tarry notes, seawater, preserved lemons and a brittle, thready peat smoke. We also felt there was something autolytic, like an aged, dry champagne. This was matured in an ex-bourbon hogshead for 18 years before being transferred to a second fill bourbon barrel.</p><button class="more" onclick="tg(this)">Read more</button></div>
+        <div class="foot"><span class="price">&pound;160</span>
+          <a class="btn" href="https://smws.com/an-autolytic-orcadian/" target="_blank" rel="noopener">View on SMWS</a></div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="imgwrap"><img loading="lazy" src="https://cdn11.bigcommerce.com/s-vagfena5nz/products/7961/images/13561/41.191__47184.1784647589.386.513.png?c=1" alt="Zingy stardust"></div>
+      <div class="titlebar" style="background:#92278f"><span class="cask">41.191</span><h2>Zingy stardust</h2></div>
+      <div class="body">
+        <div class="specs">
+          <div class="cell"><span class="k">Region</span><span class="v">Speyside</span></div>
+          <div class="cell"><span class="k">Age</span><span class="v">13 years</span></div>
+          <div class="cell"><span class="k">ABV</span><span class="v">57.2%</span></div>
+          <div class="cell"><span class="k">Profile</span><span class="v">Ripe Fruits &amp; Honey</span></div>
+          <div class="cell full"><span class="k">Cask</span><span class="v">1st fill ex- bourbon hogshead &amp; 1st fill american oak ex-oloroso hogshead </span></div>
+          <div class="cell full"><span class="k">Spirit</span><span class="v">Malt Whisky</span></div>
+        </div>
+        <div class="codeblock">
+          <div class="codeblock-cap">Added &middot; from SMWS code 41</div>
+          <div class="cell"><span class="k">Distillery</span><span class="v"><a class="wiki" href="https://en.wikipedia.org/w/index.php?title=Special:Search&search=Dailuaine+distillery&go=Go" target="_blank" rel="noopener">Dailuaine</a></span></div>
+          <div class="cell"><span class="k">Region</span><span class="v">Speyside</span></div>
+        </div>
+        <div class="desc"><p class="desc-preview">Two to One is the combination of two casks of single malt from the same distillery that are married before bottling. Each Two to One bottling demonstrates the Whisky Team…</p><p class="desc-full" hidden>Two to One is the combination of two casks of single malt from the same distillery that are married before bottling. Each Two to One bottling demonstrates the Whisky Team’s skills in experimentation, flavour creation and innovation, with the whisky in each bottle coming from a different maturation journey through a range of cask types to create something unique and delicious. These cask strength offerings are bottled in our traditional green bottles and follow the usual Society bottle code format.   Read more about  Two to One . Tasting Notes The aroma was like a slice of warm, dark and sticky honey ginger tea loaf, spread with a silky smooth, slightly tart apple molasses. This was followed by a zingy mouth-coating texture with plenty of ginger, nutmeg, cinnamon and allspice. After reduction we opened a bottle of dandelion and burdock cordial to which we added an icy mint tea, accompanied by buttery fudge and a moist orange loaf cake with chocolate chunks. The starting point for this small batch was two bourbon hogsheads of single malt Scotch whisky. One cask was transferred at 10 years old to a first fill American oak oloroso hogshead, while the other was left to mature in ex-bourbon wood. The casks were then married together before bottling.</p><button class="more" onclick="tg(this)">Read more</button></div>
+        <div class="foot"><span class="price">&pound;65</span>
+          <a class="btn" href="https://smws.com/zingy-stardust/" target="_blank" rel="noopener">View on SMWS</a></div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="imgwrap"><img loading="lazy" src="https://cdn11.bigcommerce.com/s-vagfena5nz/products/7963/images/13544/44.200-GX-web__00141.1784641069.386.513.png?c=1" alt="Masala dabba"></div>
+      <div class="titlebar" style="background:#e9963b"><span class="cask">44.200</span><h2>Masala dabba</h2></div>
+      <div class="body">
+        <div class="specs">
+          <div class="cell"><span class="k">Region</span><span class="v">Speyside</span></div>
+          <div class="cell"><span class="k">Age</span><span class="v">10 years</span></div>
+          <div class="cell"><span class="k">ABV</span><span class="v">58.4%</span></div>
+          <div class="cell"><span class="k">Profile</span><span class="v">Toasted Oak &amp; Vanilla</span></div>
+          <div class="cell full"><span class="k">Cask</span><span class="v">1st fill ex-bourbon hogshead</span></div>
+          <div class="cell full"><span class="k">Spirit</span><span class="v">Malt Whisky</span></div>
+        </div>
+        <div class="codeblock">
+          <div class="codeblock-cap">Added &middot; from SMWS code 44</div>
+          <div class="cell"><span class="k">Distillery</span><span class="v"><a class="wiki" href="https://en.wikipedia.org/w/index.php?title=Special:Search&search=Craigellachie+distillery&go=Go" target="_blank" rel="noopener">Craigellachie</a></span></div>
+          <div class="cell"><span class="k">Region</span><span class="v">Speyside</span></div>
+        </div>
+        <div class="desc"><p class="desc-preview">On the nose, a gentle wisp of chalky smoke rose above golden barley sugars and crusty sourdough. Then, peanut brittle and ripe bananas met glazed hot cross buns and poppy…</p><p class="desc-full" hidden>On the nose, a gentle wisp of chalky smoke rose above golden barley sugars and crusty sourdough. Then, peanut brittle and ripe bananas met glazed hot cross buns and poppy seeds, with bursts of lemon and pear. The palate offered flavours of sweet pipe tobacco and a wooden spice box filled with cardamom, cumin and turmeric. A thick, mouth-coating texture carried notes of juicy plums, melon and fudge-laced butter, before a warm finish of salty mace and fennel. With water, things relaxed into fresh hedgerows and butter biscuits drizzled with salted caramel, toasted nuts and honeyed cornflakes. A further sip revealed raspberries and lily pollen, boiled citrus sweets and a wave of wood spice and berries right to the end, for an easy-going, session dram.</p><button class="more" onclick="tg(this)">Read more</button></div>
+        <div class="foot"><span class="price">&pound;65</span>
+          <a class="btn" href="https://smws.com/masala-dabba/" target="_blank" rel="noopener">View on SMWS</a></div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="imgwrap"><img loading="lazy" src="https://cdn11.bigcommerce.com/s-vagfena5nz/products/7965/images/13545/48.188-GX-web__36442.1784641085.386.513.png?c=1" alt="Knickerbocker glory story"></div>
+      <div class="titlebar" style="background:#f2a2c0"><span class="cask">48.188</span><h2>Knickerbocker glory story</h2></div>
+      <div class="body">
+        <div class="specs">
+          <div class="cell"><span class="k">Region</span><span class="v">Speyside</span></div>
+          <div class="cell"><span class="k">Age</span><span class="v">8 years</span></div>
+          <div class="cell"><span class="k">ABV</span><span class="v">56.9%</span></div>
+          <div class="cell"><span class="k">Profile</span><span class="v">Fragrant &amp; Floral</span></div>
+          <div class="cell full"><span class="k">Cask</span><span class="v">1st fill ex-bourbon barrel</span></div>
+          <div class="cell full"><span class="k">Spirit</span><span class="v">Malt Whisky</span></div>
+        </div>
+        <div class="codeblock">
+          <div class="codeblock-cap">Added &middot; from SMWS code 48</div>
+          <div class="cell"><span class="k">Distillery</span><span class="v"><a class="wiki" href="https://en.wikipedia.org/w/index.php?title=Special:Search&search=Balmenach+distillery&go=Go" target="_blank" rel="noopener">Balmenach</a></span></div>
+          <div class="cell"><span class="k">Region</span><span class="v">Speyside</span></div>
+        </div>
+        <div class="desc"><p class="desc-preview">The nose was immediately creamy and sweet, with vanilla and loads of fruit (peaches, raspberries and plums) – basically a knickerbocker glory (with the emphasis on ‘glory…</p><p class="desc-full" hidden>The nose was immediately creamy and sweet, with vanilla and loads of fruit (peaches, raspberries and plums) – basically a knickerbocker glory (with the emphasis on ‘glory’). Tasting it, we were transported to a holiday hotel in the sun – sipping cocktails and bellinis by the pool, surrounded by bougainvilleas; followed eventually by sherbet lemon, stewed apple and plum tongue tingles. The reduced nose discovered cherry-flavoured sweets, Turkish delight, Eton mess and ‘flower arranging after decorating a new home’. On the palate, we now found a banana and coconut smoothie, raspberry ripple ice cream and sherbet straw tartness, before a sweet, nutty, nougat finish.</p><button class="more" onclick="tg(this)">Read more</button></div>
+        <div class="foot"><span class="price">&pound;52</span>
+          <a class="btn" href="https://smws.com/knickerbocker-glory-story/" target="_blank" rel="noopener">View on SMWS</a></div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="imgwrap"><img loading="lazy" src="https://cdn11.bigcommerce.com/s-vagfena5nz/products/7969/images/13546/50.124-GX-web__51647.1784641105.386.513.png?c=1" alt="Vitality and maturity"></div>
+      <div class="titlebar" style="background:#d71920"><span class="cask">50.124</span><h2>Vitality and maturity</h2></div>
+      <div class="body">
+        <div class="specs">
+          <div class="cell"><span class="k">Region</span><span class="v">Lowland</span></div>
+          <div class="cell"><span class="k">Age</span><span class="v">7 years</span></div>
+          <div class="cell"><span class="k">ABV</span><span class="v">59.4%</span></div>
+          <div class="cell"><span class="k">Profile</span><span class="v">Dried Fruits &amp; Spices</span></div>
+          <div class="cell full"><span class="k">Cask</span><span class="v">1st fill ex-oloroso hogshead</span></div>
+          <div class="cell full"><span class="k">Spirit</span><span class="v">Malt Whisky</span></div>
+        </div>
+        <div class="codeblock">
+          <div class="codeblock-cap">Added &middot; from SMWS code 50</div>
+          <div class="cell"><span class="k">Distillery</span><span class="v"><a class="wiki" href="https://en.wikipedia.org/w/index.php?title=Special:Search&search=Bladnoch+distillery&go=Go" target="_blank" rel="noopener">Bladnoch</a></span></div>
+          <div class="cell"><span class="k">Region</span><span class="v">Lowland</span></div>
+        </div>
+        <div class="desc"><p class="desc-preview">This one was clearly sherry, influenced in a highly classical way. We immediately noted things such as cedarwood boxes full of unlit cigars, winter mulling spices and imp…</p><p class="desc-full" hidden>This one was clearly sherry, influenced in a highly classical way. We immediately noted things such as cedarwood boxes full of unlit cigars, winter mulling spices and impressions of roast pheasant, cranberry sauce and black pepper. Water enhanced the savoury richness of the nose, bringing out brown bread spread with treacle, sea-salted dark chocolate and caramelised muscovado sugar on prunes. The palate was wonderfully rich, gamey, nutty and peppery. It was full of dense, classical sherry characteristics and displaying, we all felt, a really impressive level of maturity for the age. Water brought a touch more sweetness, with caramel, salted toffee, butterscotch and crème brûlée all present.</p><button class="more" onclick="tg(this)">Read more</button></div>
+        <div class="foot"><span class="price">&pound;55</span>
+          <a class="btn" href="https://smws.com/vitality-and-maturity/" target="_blank" rel="noopener">View on SMWS</a></div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="imgwrap"><img loading="lazy" src="https://cdn11.bigcommerce.com/s-vagfena5nz/products/7967/images/13547/53.532-GX-web__06574.1784641124.386.513.png?c=1" alt="What’s not to like?"></div>
+      <div class="titlebar" style="background:#8cc63e"><span class="cask">53.532</span><h2>What’s not to like?</h2></div>
+      <div class="body">
+        <div class="specs">
+          <div class="cell"><span class="k">Region</span><span class="v">Islay</span></div>
+          <div class="cell"><span class="k">Age</span><span class="v">11 years</span></div>
+          <div class="cell"><span class="k">ABV</span><span class="v">58.8%</span></div>
+          <div class="cell"><span class="k">Profile</span><span class="v">Smoky &amp; Fruity</span></div>
+          <div class="cell full"><span class="k">Cask</span><span class="v">1st fill ex-bourbon barrel</span></div>
+          <div class="cell full"><span class="k">Spirit</span><span class="v">Malt Whisky</span></div>
+        </div>
+        <div class="codeblock">
+          <div class="codeblock-cap">Added &middot; from SMWS code 53</div>
+          <div class="cell"><span class="k">Distillery</span><span class="v"><a class="wiki" href="https://en.wikipedia.org/w/index.php?title=Special:Search&search=Caol+Ila+distillery&go=Go" target="_blank" rel="noopener">Caol Ila</a></span></div>
+          <div class="cell"><span class="k">Region</span><span class="v">Islay</span></div>
+        </div>
+        <div class="desc"><p class="desc-preview">We prepared a dish of smoked salmon and sweet spicy shrimps on a bed of lamb’s lettuce, rocket salad, red onion and cabbage, which we served with grissini alle olive. To…</p><p class="desc-full" hidden>We prepared a dish of smoked salmon and sweet spicy shrimps on a bed of lamb’s lettuce, rocket salad, red onion and cabbage, which we served with grissini alle olive. To taste, we found brown sugar smoked salmon, salt-crusted seabass in a lemon garlic herb sauce and aquavit-cured venison with sweet pickled juniper berries. Following the addition of water a sea breeze started to blow carrying the scent of a distant beach bonfire and mussels being cooked in a creamy, smoky, herbal butter sauce. On the palate we got chargrilled prawns, smoked salmon and lemony soft cheese blinis next to candied and smoked pink lemons.</p><button class="more" onclick="tg(this)">Read more</button></div>
+        <div class="foot"><span class="price">&pound;82</span>
+          <a class="btn" href="https://smws.com/what-s-not-to-like/" target="_blank" rel="noopener">View on SMWS</a></div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="imgwrap"><img loading="lazy" src="https://cdn11.bigcommerce.com/s-vagfena5nz/products/7971/images/13548/58.65-GX-web__38221.1784641216.386.513.png?c=1" alt="A roly-poly in the hay loft"></div>
+      <div class="titlebar" style="background:#d71920"><span class="cask">58.65</span><h2>A roly-poly in the hay loft</h2></div>
+      <div class="body">
+        <div class="specs">
+          <div class="cell"><span class="k">Region</span><span class="v">Speyside</span></div>
+          <div class="cell"><span class="k">Age</span><span class="v">14 years</span></div>
+          <div class="cell"><span class="k">ABV</span><span class="v">57%</span></div>
+          <div class="cell"><span class="k">Profile</span><span class="v">Dried Fruits &amp; Spices</span></div>
+          <div class="cell full"><span class="k">Cask</span><span class="v">1st fill ex-oloroso hogshead</span></div>
+          <div class="cell full"><span class="k">Spirit</span><span class="v">Malt Whisky</span></div>
+        </div>
+        <div class="codeblock">
+          <div class="codeblock-cap">Added &middot; from SMWS code 58</div>
+          <div class="cell"><span class="k">Distillery</span><span class="v"><a class="wiki" href="https://en.wikipedia.org/w/index.php?title=Special:Search&search=Strathisla+distillery&go=Go" target="_blank" rel="noopener">Strathisla</a></span></div>
+          <div class="cell"><span class="k">Region</span><span class="v">Speyside</span></div>
+        </div>
+        <div class="desc"><p class="desc-preview">A deeply evocative nose of apricot wine, sticky gulab jamun and fruit waxes led to a hay loft in the summer sun. The palate held a wonderfully rich texture, reminiscent o…</p><p class="desc-full" hidden>A deeply evocative nose of apricot wine, sticky gulab jamun and fruit waxes led to a hay loft in the summer sun. The palate held a wonderfully rich texture, reminiscent of a jam roly-poly with strawberry ice cream, followed by sherry-soaked sultanas and a warming spice of cassia and clove. With a drop of water the nose was a bustling bakery, presenting notes of cantuccini and Welsh cakes, accompanied by a pumpkin-spiced latte. The palate then surprised us with jerk seasoning and toasted coconut on fresh mango, followed by a hot, honeyed rhubarb pressé and a final flourish of crystallised orange in a dark chocolate bar. After 10 years in an ex-bourbon hogshead, we transferred this to a first fill American oak oloroso hogshead for the remainder of its maturation.</p><button class="more" onclick="tg(this)">Read more</button></div>
+        <div class="foot"><span class="price">&pound;85</span>
+          <a class="btn" href="https://smws.com/a-roly-poly-in-the-hay-loft/" target="_blank" rel="noopener">View on SMWS</a></div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="imgwrap"><img loading="lazy" src="https://cdn11.bigcommerce.com/s-vagfena5nz/products/7973/images/13559/59.108__37086.1784647564.386.513.png?c=1" alt="Veritably vivacious"></div>
+      <div class="titlebar" style="background:#92278f"><span class="cask">59.108</span><h2>Veritably vivacious</h2></div>
+      <div class="body">
+        <div class="specs">
+          <div class="cell"><span class="k">Region</span><span class="v">Highland</span></div>
+          <div class="cell"><span class="k">Age</span><span class="v">14 years</span></div>
+          <div class="cell"><span class="k">ABV</span><span class="v">57.4%</span></div>
+          <div class="cell"><span class="k">Profile</span><span class="v">Ripe Fruits &amp; Honey</span></div>
+          <div class="cell full"><span class="k">Cask</span><span class="v">1st fill ex- bourbon hogshead &amp; 1st fill american oak ex-oloroso hogshead </span></div>
+          <div class="cell full"><span class="k">Spirit</span><span class="v">Malt Whisky</span></div>
+        </div>
+        <div class="codeblock">
+          <div class="codeblock-cap">Added &middot; from SMWS code 59</div>
+          <div class="cell"><span class="k">Distillery</span><span class="v"><a class="wiki" href="https://en.wikipedia.org/w/index.php?title=Special:Search&search=Teaninich+distillery&go=Go" target="_blank" rel="noopener">Teaninich</a></span></div>
+          <div class="cell"><span class="k">Region</span><span class="v">Highland</span></div>
+        </div>
+        <div class="desc"><p class="desc-preview">Two to One is the combination of two casks of single malt from the same distillery that are married before bottling. Each Two to One bottling demonstrates the Whisky Team…</p><p class="desc-full" hidden>Two to One is the combination of two casks of single malt from the same distillery that are married before bottling. Each Two to One bottling demonstrates the Whisky Team’s skills in experimentation, flavour creation and innovation, with the whisky in each bottle coming from a different maturation journey through a range of cask types to create something unique and delicious. These cask strength offerings are bottled in our traditional green bottles and follow the usual Society bottle code format.   Read more about  Two to One . Tasting Notes We tossed a fresh mango and walnut salad in honey vinaigrette alongside quince jelly with apple and sweet chilli. On the palate it was more like a slice of wholemeal toast with butter and heather honey or a spoonful of baked pear porridge with candied walnuts. Water added elderflower pastilles, blackcurrant cordial and millionaire&#x27;s shortbread on the nose, while to taste we found a thirst-quenching herbal tea made from whole dried blackcurrants, berries and hibiscus flowers. The starting point for this small batch was two bourbon hogsheads of single malt Scotch whisky. One cask was transferred at 10 years old to a first fill American oak oloroso hogshead, while the other was left to mature in bourbon wood. The casks were then married together before bottling.</p><button class="more" onclick="tg(this)">Read more</button></div>
+        <div class="foot"><span class="price">&pound;80</span>
+          <a class="btn" href="https://smws.com/veritably-vivacious/" target="_blank" rel="noopener">View on SMWS</a></div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="imgwrap"><img loading="lazy" src="https://cdn11.bigcommerce.com/s-vagfena5nz/products/7975/images/13580/64.177__38603.1785226407.386.513.png?c=1" alt="Taste of summer"></div>
+      <div class="titlebar" style="background:#f2a2c0"><span class="cask">64.177</span><h2>Taste of summer</h2></div>
+      <div class="body">
+        <div class="specs">
+          <div class="cell"><span class="k">Region</span><span class="v">Speyside</span></div>
+          <div class="cell"><span class="k">Age</span><span class="v">9 years</span></div>
+          <div class="cell"><span class="k">ABV</span><span class="v">48%</span></div>
+          <div class="cell"><span class="k">Profile</span><span class="v">Fragrant &amp; Floral</span></div>
+          <div class="cell full"><span class="k">Cask</span><span class="v">1st fill ex-bourbon barrel</span></div>
+          <div class="cell full"><span class="k">Spirit</span><span class="v">Malt Whisky</span></div>
+        </div>
+        <div class="codeblock">
+          <div class="codeblock-cap">Added &middot; from SMWS code 64</div>
+          <div class="cell"><span class="k">Distillery</span><span class="v"><a class="wiki" href="https://en.wikipedia.org/w/index.php?title=Special:Search&search=Mannochmore+distillery&go=Go" target="_blank" rel="noopener">Mannochmore</a></span></div>
+          <div class="cell"><span class="k">Region</span><span class="v">Speyside</span></div>
+        </div>
+        <div class="desc"><p class="desc-preview">We imagined the early-morning sun rising over a grass meadow as the dew drops sparkled in the first rays of light. This calm and relaxing atmosphere carried on, almost se…</p><p class="desc-full" hidden>We imagined the early-morning sun rising over a grass meadow as the dew drops sparkled in the first rays of light. This calm and relaxing atmosphere carried on, almost seamlessly, to the palate with a cup of camomile and manuka honey tea, some lemon meringue pie and a banana milkshake. After careful reduction, an array of tropical fruits such as mango, kiwi and star fruit came to the fore, followed by Greek-style honeyed yoghurt and toasted almonds. Now truly a taste of summer, we enjoyed a mint daiquiri cocktail, a wheat beer and rooibos-honeybush iced tea. Following six years in an ex-bourbon hogshead, we transferred this whisky into a first fill ex-bourbon barrel.</p><button class="more" onclick="tg(this)">Read more</button></div>
+        <div class="foot"><span class="price">&pound;48</span>
+          <a class="btn" href="https://smws.com/taste-of-summer/" target="_blank" rel="noopener">View on SMWS</a></div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="imgwrap"><img loading="lazy" src="https://cdn11.bigcommerce.com/s-vagfena5nz/products/7976/images/13593/The_cooper_and_the_croze__96473.1785846147.386.513.png?c=1" alt="The cooper and the croze"></div>
+      <div class="titlebar" style="background:#d71920"><span class="cask">68.141</span><h2>The cooper and the croze</h2></div>
+      <div class="body">
+        <div class="specs">
+          <div class="cell"><span class="k">Region</span><span class="v">Highland</span></div>
+          <div class="cell"><span class="k">Age</span><span class="v">14 years</span></div>
+          <div class="cell"><span class="k">ABV</span><span class="v">54.3%</span></div>
+          <div class="cell"><span class="k">Profile</span><span class="v">Dried Fruits &amp; Spices</span></div>
+          <div class="cell full"><span class="k">Cask</span><span class="v">1st fill american oak toasted barrique</span></div>
+          <div class="cell full"><span class="k">Spirit</span><span class="v">Malt Whisky</span></div>
+        </div>
+        <div class="codeblock">
+          <div class="codeblock-cap">Added &middot; from SMWS code 68</div>
+          <div class="cell"><span class="k">Distillery</span><span class="v"><a class="wiki" href="https://en.wikipedia.org/w/index.php?title=Special:Search&search=Blair+Athol+distillery&go=Go" target="_blank" rel="noopener">Blair Athol</a></span></div>
+          <div class="cell"><span class="k">Region</span><span class="v">Highland</span></div>
+        </div>
+        <div class="desc"><p class="desc-preview">The Society is known for exploring unusual and characterful cask maturations that shape distinctive flavour profiles. After spending 10 years in an ex-bourbon hogshead, t…</p><p class="desc-full" hidden>The Society is known for exploring unusual and characterful cask maturations that shape distinctive flavour profiles. After spending 10 years in an ex-bourbon hogshead, the whisky was transferred to a first fill toasted barrique for the remainder of its maturation, adding warm notes of vanilla and marzipan, with fragrances of leather and tobacco, layering extra richness and texture into the spirit.   Explore more cask threads with  Cask No. 48.185: The cooper and the craft  and  Cask No. 12.91: The cooper and the croc   Join Julien Willems, our Whisky Quality Manager, as he retraces some of the most  unusual casks and flavours  the SMWS has shared. Tasting Notes The scent of leather armchairs and freshly polished floors set the scene of a cooper in a Viennese café where cherry schnapps and clotted cream accompanied a plate of sticky stewed plum crumble. Mango, charred banana and pineapple cubes tumbled in like exotic guests, bringing jam and gingery parkin to the table amid the fragrance of leather and tobacco. A dash of water revealed marzipan, black forest gâteau, cocoa powder and chocolate mousse, with a sly sprinkle of ash. Peach syrup and orange marmalade filled the air, softening into apricot jam-stuffed doughnuts and crème anglaise kissed with orange blossom. After spending 10 years in an ex-bourbon hogshead this was transferred to a first fill toasted barrique for the remainder of its maturation.</p><button class="more" onclick="tg(this)">Read more</button></div>
+        <div class="foot"><span class="price">&pound;80</span>
+          <a class="btn" href="https://smws.com/the-cooper-and-the-croze/" target="_blank" rel="noopener">View on SMWS</a></div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="imgwrap"><img loading="lazy" src="https://cdn11.bigcommerce.com/s-vagfena5nz/products/7966/images/13550/76.166-GX-web__83884.1784641372.386.513.png?c=1" alt="Anyone for cricket?"></div>
+      <div class="titlebar" style="background:#f2a2c0"><span class="cask">76.166</span><h2>Anyone for cricket?</h2></div>
+      <div class="body">
+        <div class="specs">
+          <div class="cell"><span class="k">Region</span><span class="v">Speyside</span></div>
+          <div class="cell"><span class="k">Age</span><span class="v">20 years</span></div>
+          <div class="cell"><span class="k">ABV</span><span class="v">50.9%</span></div>
+          <div class="cell"><span class="k">Profile</span><span class="v">Fragrant &amp; Floral</span></div>
+          <div class="cell full"><span class="k">Cask</span><span class="v">1st fill ex-bourbon barrel</span></div>
+          <div class="cell full"><span class="k">Spirit</span><span class="v">Malt Whisky</span></div>
+        </div>
+        <div class="codeblock">
+          <div class="codeblock-cap">Added &middot; from SMWS code 76</div>
+          <div class="cell"><span class="k">Distillery</span><span class="v"><a class="wiki" href="https://en.wikipedia.org/w/index.php?title=Special:Search&search=Mortlach+distillery&go=Go" target="_blank" rel="noopener">Mortlach</a></span></div>
+          <div class="cell"><span class="k">Region</span><span class="v">Speyside</span></div>
+        </div>
+        <div class="desc"><p class="desc-preview">Down at the cricket field, things opened at first nosing with a bouquet of rose petals, peach blossom, and elderflower and meadowsweet liqueur. Fresh tobacco and wood sap…</p><p class="desc-full" hidden>Down at the cricket field, things opened at first nosing with a bouquet of rose petals, peach blossom, and elderflower and meadowsweet liqueur. Fresh tobacco and wood sap took to the crease, before a tail of charred and ashy cedar wood. The palate yielded tempting desserts of passion fruit sorbet, peach juice from the tin and orange pâte de fruits. A light rain shower stopped play fleetingly and liberated more delicately floral gin-like aromas, alongside apricot butter biscuits and lime marmalade. The cricketers then took tea in the pavilion to enjoy gallons of spritzy lemonade, summer ale, wheat beer and gin-based fruit cup. Play drew to a close with a spread of lemon drizzle cake and Victoria sponge on a table strewn with elderflower blossom and more meadowsweet. The Panel declared it was a crowd pleaser – howzat! Limited to 1 per Member</p><button class="more" onclick="tg(this)">Read more</button></div>
+        <div class="foot"><span class="price">&pound;170</span>
+          <a class="btn" href="https://smws.com/anyone-for-cricket/" target="_blank" rel="noopener">View on SMWS</a></div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="imgwrap"><img loading="lazy" src="https://cdn11.bigcommerce.com/s-vagfena5nz/products/7977/images/13551/78.101-GX-web__11523.1784641415.386.513.png?c=1" alt="Apples dumped on hay bales"></div>
+      <div class="titlebar" style="background:#f37e20"><span class="cask">78.101</span><h2>Apples dumped on hay bales</h2></div>
+      <div class="body">
+        <div class="specs">
+          <div class="cell"><span class="k">Region</span><span class="v">Highland</span></div>
+          <div class="cell"><span class="k">Age</span><span class="v">8 years</span></div>
+          <div class="cell"><span class="k">ABV</span><span class="v">61.1%</span></div>
+          <div class="cell"><span class="k">Profile</span><span class="v">Sweet &amp; Zesty</span></div>
+          <div class="cell full"><span class="k">Cask</span><span class="v">2nd fill ex-bourbon barrel</span></div>
+          <div class="cell full"><span class="k">Spirit</span><span class="v">Malt Whisky</span></div>
+        </div>
+        <div class="codeblock">
+          <div class="codeblock-cap">Added &middot; from SMWS code 78</div>
+          <div class="cell"><span class="k">Distillery</span><span class="v"><a class="wiki" href="https://en.wikipedia.org/w/index.php?title=Special:Search&search=Ben+Nevis+distillery&go=Go" target="_blank" rel="noopener">Ben Nevis</a></span></div>
+          <div class="cell"><span class="k">Region</span><span class="v">Highland</span></div>
+        </div>
+        <div class="desc"><p class="desc-preview">The nose offered spun sugar, toffee, foamy bananas and myriad manifestations of fruit. The palate, smooth yet invigorating (if that’s not a contradiction), combined stewe…</p><p class="desc-full" hidden>The nose offered spun sugar, toffee, foamy bananas and myriad manifestations of fruit. The palate, smooth yet invigorating (if that’s not a contradiction), combined stewed rhubarb, kiwi and soor ploom zestiness with vanilla custard slice and strawberry jam; then an afterglow of clove and toasted oak. The reduced nose was basically a ton of apples dumped on a pyramid of hay bales, plus hints of treacle tart, molasses and sultanas. With water, the palate became more playful, delivering plum, peach and perfumed pear, salted caramel and honeycomb. Ginger biscuits, pink peppercorns and sweet chilli provided warmth that lasted long into the finish.</p><button class="more" onclick="tg(this)">Read more</button></div>
+        <div class="foot"><span class="price">&pound;58</span>
+          <a class="btn" href="https://smws.com/apples-dumped-on-hay-bales/" target="_blank" rel="noopener">View on SMWS</a></div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="imgwrap"><img loading="lazy" src="https://cdn11.bigcommerce.com/s-vagfena5nz/products/7979/images/13563/100.54__16006.1784647625.386.513.png?c=1" alt="Breakfast aftershave"></div>
+      <div class="titlebar" style="background:#92278f"><span class="cask">100.54</span><h2>Breakfast aftershave</h2></div>
+      <div class="body">
+        <div class="specs">
+          <div class="cell"><span class="k">Region</span><span class="v">Speyside</span></div>
+          <div class="cell"><span class="k">Age</span><span class="v">14 years</span></div>
+          <div class="cell"><span class="k">ABV</span><span class="v">56.7%</span></div>
+          <div class="cell"><span class="k">Profile</span><span class="v">Ripe Fruits &amp; Honey</span></div>
+          <div class="cell full"><span class="k">Cask</span><span class="v">1st fill ex- bourbon barrel &amp; 1st fill american oak ex-px hogshead </span></div>
+          <div class="cell full"><span class="k">Spirit</span><span class="v">Malt Whisky</span></div>
+        </div>
+        <div class="codeblock">
+          <div class="codeblock-cap">Added &middot; from SMWS code 100</div>
+          <div class="cell"><span class="k">Distillery</span><span class="v"><a class="wiki" href="https://en.wikipedia.org/w/index.php?title=Special:Search&search=Strathmill+distillery&go=Go" target="_blank" rel="noopener">Strathmill</a></span></div>
+          <div class="cell"><span class="k">Region</span><span class="v">Speyside</span></div>
+        </div>
+        <div class="desc"><p class="desc-preview">Two to One is the combination of two casks of single malt from the same distillery that are married before bottling. Each Two to One bottling demonstrates the Whisky Team…</p><p class="desc-full" hidden>Two to One is the combination of two casks of single malt from the same distillery that are married before bottling. Each Two to One bottling demonstrates the Whisky Team’s skills in experimentation, flavour creation and innovation, with the whisky in each bottle coming from a different maturation journey through a range of cask types to create something unique and delicious. These cask strength offerings are bottled in our traditional green bottles and follow the usual Society bottle code format.   Read more about  Two to One . Tasting Notes The aroma was a designer breakfast aftershave, with bass notes of exotic wood and rye bread, and top notes of cherry and blackcurrants. The palate continued in this vein: sweet and peachy, with sloe gin, bergamot and brambles. Water gave maple and citrus to the nose, pain aux raisins and papaya to the palate. The starting point for this small batch was an ex-bourbon barrel and an ex-bourbon hogshead of single malt Scotch whisky. One cask was transferred at 12 years old to a first fill American oak ex-PX hogshead and the other was left in the original barrel. The casks were then married together before bottling.</p><button class="more" onclick="tg(this)">Read more</button></div>
+        <div class="foot"><span class="price">&pound;75</span>
+          <a class="btn" href="https://smws.com/breakfast-aftershave/" target="_blank" rel="noopener">View on SMWS</a></div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="imgwrap"><img loading="lazy" src="https://cdn11.bigcommerce.com/s-vagfena5nz/products/7956/images/13556/149.23-GX-web__76959.1784641971.386.513.png?c=1" alt="Beware the lurkin&#x27; gherkin"></div>
+      <div class="titlebar" style="background:#8cc63e"><span class="cask">149.23</span><h2>Beware the lurkin&#x27; gherkin</h2></div>
+      <div class="body">
+        <div class="specs">
+          <div class="cell"><span class="k">Region</span><span class="v">Highland</span></div>
+          <div class="cell"><span class="k">Age</span><span class="v">10 years</span></div>
+          <div class="cell"><span class="k">ABV</span><span class="v">64.3%</span></div>
+          <div class="cell"><span class="k">Profile</span><span class="v">Smoky &amp; Fruity</span></div>
+          <div class="cell full"><span class="k">Cask</span><span class="v">1st fill ex-bourbon barrel</span></div>
+          <div class="cell full"><span class="k">Spirit</span><span class="v">Malt Whisky</span></div>
+        </div>
+        <div class="codeblock">
+          <div class="codeblock-cap">Added &middot; from SMWS code 149</div>
+          <div class="cell"><span class="k">Distillery</span><span class="v"><a class="wiki" href="https://en.wikipedia.org/w/index.php?title=Special:Search&search=Ardnamurchan+distillery&go=Go" target="_blank" rel="noopener">Ardnamurchan</a></span></div>
+          <div class="cell"><span class="k">Region</span><span class="v">Highland</span></div>
+        </div>
+        <div class="desc"><p class="desc-preview">At first nosing we detected pickled gherkins dipped in iodine, camphor, antiseptic cream and peat fire hearth embers. On top of that we also found smoky bacon crisps, pur…</p><p class="desc-full" hidden>At first nosing we detected pickled gherkins dipped in iodine, camphor, antiseptic cream and peat fire hearth embers. On top of that we also found smoky bacon crisps, pure tar and creosote. Reduction brought a dense, oily and emphatic smokiness, with a wonderful impression of texture. The neat palate opened with lashings of more tar, iodine, thick peat smoke and a few farmyard characteristics. We also got strong impressions of malt vinegar on salty chips and smoked olive oil. Adding water revealed cornichons pickled with tarragon in brine, preserved lemons, bandages, squid ink and a lovely mix of seawater and lemon juice.</p><button class="more" onclick="tg(this)">Read more</button></div>
+        <div class="foot"><span class="price">&pound;88</span>
+          <a class="btn" href="https://smws.com/beware-the-lurkin-gherkin/" target="_blank" rel="noopener">View on SMWS</a></div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="imgwrap"><img loading="lazy" src="https://cdn11.bigcommerce.com/s-vagfena5nz/products/7958/images/13557/164.3-GX-web__23008.1784642008.386.513.png?c=1" alt="Strawberry sweetshop implosion"></div>
+      <div class="titlebar" style="background:#92278f"><span class="cask">164.3</span><h2>Strawberry sweetshop implosion</h2></div>
+      <div class="body">
+        <div class="specs">
+          <div class="cell"><span class="k">Region</span><span class="v">Wales</span></div>
+          <div class="cell"><span class="k">Age</span><span class="v">7 years</span></div>
+          <div class="cell"><span class="k">ABV</span><span class="v">59.8%</span></div>
+          <div class="cell"><span class="k">Profile</span><span class="v">Ripe Fruits &amp; Honey</span></div>
+          <div class="cell full"><span class="k">Cask</span><span class="v">1st fill str barrique</span></div>
+          <div class="cell full"><span class="k">Spirit</span><span class="v">Malt Whisky</span></div>
+        </div>
+        <div class="codeblock">
+          <div class="codeblock-cap">Added &middot; from SMWS code 164</div>
+          <div class="cell"><span class="k">Distillery</span><span class="v"><a class="wiki" href="https://en.wikipedia.org/w/index.php?title=Special:Search&search=Penderyn+distillery&go=Go" target="_blank" rel="noopener">Penderyn (double distilled)</a></span></div>
+          <div class="cell"><span class="k">Region</span><span class="v">Wales</span></div>
+        </div>
+        <div class="desc"><p class="desc-preview">An outburst of pear drops and strawberry sweets scattered scrumptious deliciousness over mango slices stewed in red wine, accompanied by balsamic-glazed fresh strawberrie…</p><p class="desc-full" hidden>An outburst of pear drops and strawberry sweets scattered scrumptious deliciousness over mango slices stewed in red wine, accompanied by balsamic-glazed fresh strawberries and habanero chilli peppers. Candied ginger then detonated a wave of tropical juice and spice, closely followed by the soft caress of coconut milk and ripe guava. Water unleashed an aromatic eruption of juicy sweets, caipirinha cocktails and chamomile and lime flowers. The palate transformed into thick cream flavoured with orange peel and mint leaves, and poured over fizzy candy-topped marzipan sponge cake, plus a cup of fragrant green tea.</p><button class="more" onclick="tg(this)">Read more</button></div>
+        <div class="foot"><span class="price">&pound;62</span>
+          <a class="btn" href="https://smws.com/strawberry-sweetshop-implosion/" target="_blank" rel="noopener">View on SMWS</a></div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="imgwrap"><img loading="lazy" src="https://cdn11.bigcommerce.com/s-vagfena5nz/products/7960/images/13553/B5.22-GX-web__57513.1784641612.386.513.png?c=1" alt="The sweet trolley and the herb basket"></div>
+      <div class="titlebar" style="background:#202448"><span class="cask">B5.22</span><h2>The sweet trolley and the herb basket</h2></div>
+      <div class="body">
+        <div class="specs">
+          <div class="cell"><span class="k">Region</span><span class="v">Tennessee</span></div>
+          <div class="cell"><span class="k">Age</span><span class="v">9 years</span></div>
+          <div class="cell"><span class="k">ABV</span><span class="v">62.6%</span></div>
+          <div class="cell"><span class="k">Profile</span><span class="v">&mdash;</span></div>
+          <div class="cell full"><span class="k">Cask</span><span class="v">new charred oak barrel</span></div>
+          <div class="cell full"><span class="k">Spirit</span><span class="v">Bourbon</span></div>
+        </div>
+        <div class="codeblock">
+          <div class="codeblock-cap">Added &middot; from SMWS code B5</div>
+          <div class="cell"><span class="k">Distillery</span><span class="v"><a class="wiki" href="https://en.wikipedia.org/w/index.php?title=Special:Search&search=George+Dickel+distillery&go=Go" target="_blank" rel="noopener">George Dickel (Cascade Hollow)</a></span></div>
+          <div class="cell"><span class="k">Region</span><span class="v">Tennessee, USA</span></div>
+        </div>
+        <div class="desc"><p class="desc-preview">Aromas of teas and stone fruits alongside hazelnuts, cassia and candied orange arrived on the neat nose. This was followed by a palate of contrasting produce from the swe…</p><p class="desc-full" hidden>Aromas of teas and stone fruits alongside hazelnuts, cassia and candied orange arrived on the neat nose. This was followed by a palate of contrasting produce from the sweet trolley and herb basket. Flavours included cream soda with liquorice, herby popcorn, spiced rum and toffee apples, almonds and prunes, cola and cherry lips. Reduction brought a oilier feel with a continuation of the unreduced narrative: castor oil, barley sugars, travel sweets, orange fruit pastilles, micro herbs, Edinburgh rock, liquorice root and lemon thyme. The palate was very thick and mouth coating, delivering banana split, banoffee pie, dulce de leche, orange custard, pastel de nata, ginger cookies, lotus biscuits, popcorn honey, icing sugar and cedar wood.</p><button class="more" onclick="tg(this)">Read more</button></div>
+        <div class="foot"><span class="price">&pound;79</span>
+          <a class="btn" href="https://smws.com/the-sweet-trolley-and-the-herb-basket/" target="_blank" rel="noopener">View on SMWS</a></div>
+      </div>
+    </article>
+ </section>
+ <table id="table" class="tbl"><thead><tr><th>Cask No.</th><th>Name</th><th>Distillery (code)</th><th>Region (code)</th><th>SMWS region</th><th>Age</th><th>ABV</th><th>Price</th></tr></thead>
+ <tbody><tr><td><span class="swatch" style="background:#202448" title=""></span>batch 42</td><td>Highland peaty potion</td><td><strong><span class=na>&mdash;</span></strong></td><td><span class=na>&mdash;</span></td><td>Highland</td><td>10 years</td><td>50%</td><td>&pound;58</td></tr><tr><td>&mdash;</td><td>Across the Spey Duo</td><td colspan=2><em>Multi-bottle bundle</em></td><td>&mdash;</td><td>&mdash;</td><td>&mdash;</td><td>&pound;145</td></tr><tr><td><span class="swatch" style="background:#1c75bb" title="Coastal &amp; Maritime"></span>4.403</td><td>An autolytic Orcadian</td><td><strong><a class="wiki" href="https://en.wikipedia.org/w/index.php?title=Special:Search&search=Highland+Park+distillery&go=Go" target="_blank" rel="noopener">Highland Park</a></strong></td><td>Islands</td><td>Highland</td><td>20 years</td><td>59.6%</td><td>&pound;160</td></tr><tr><td><span class="swatch" style="background:#92278f" title="Ripe Fruits &amp; Honey"></span>41.191</td><td>Zingy stardust</td><td><strong><a class="wiki" href="https://en.wikipedia.org/w/index.php?title=Special:Search&search=Dailuaine+distillery&go=Go" target="_blank" rel="noopener">Dailuaine</a></strong></td><td>Speyside</td><td>Speyside</td><td>13 years</td><td>57.2%</td><td>&pound;65</td></tr><tr><td><span class="swatch" style="background:#e9963b" title="Toasted Oak &amp; Vanilla"></span>44.200</td><td>Masala dabba</td><td><strong><a class="wiki" href="https://en.wikipedia.org/w/index.php?title=Special:Search&search=Craigellachie+distillery&go=Go" target="_blank" rel="noopener">Craigellachie</a></strong></td><td>Speyside</td><td>Speyside</td><td>10 years</td><td>58.4%</td><td>&pound;65</td></tr><tr><td><span class="swatch" style="background:#f2a2c0" title="Fragrant &amp; Floral"></span>48.188</td><td>Knickerbocker glory story</td><td><strong><a class="wiki" href="https://en.wikipedia.org/w/index.php?title=Special:Search&search=Balmenach+distillery&go=Go" target="_blank" rel="noopener">Balmenach</a></strong></td><td>Speyside</td><td>Speyside</td><td>8 years</td><td>56.9%</td><td>&pound;52</td></tr><tr><td><span class="swatch" style="background:#d71920" title="Dried Fruits &amp; Spices"></span>50.124</td><td>Vitality and maturity</td><td><strong><a class="wiki" href="https://en.wikipedia.org/w/index.php?title=Special:Search&search=Bladnoch+distillery&go=Go" target="_blank" rel="noopener">Bladnoch</a></strong></td><td>Lowland</td><td>Lowland</td><td>7 years</td><td>59.4%</td><td>&pound;55</td></tr><tr><td><span class="swatch" style="background:#8cc63e" title="Smoky &amp; Fruity"></span>53.532</td><td>What’s not to like?</td><td><strong><a class="wiki" href="https://en.wikipedia.org/w/index.php?title=Special:Search&search=Caol+Ila+distillery&go=Go" target="_blank" rel="noopener">Caol Ila</a></strong></td><td>Islay</td><td>Islay</td><td>11 years</td><td>58.8%</td><td>&pound;82</td></tr><tr><td><span class="swatch" style="background:#d71920" title="Dried Fruits &amp; Spices"></span>58.65</td><td>A roly-poly in the hay loft</td><td><strong><a class="wiki" href="https://en.wikipedia.org/w/index.php?title=Special:Search&search=Strathisla+distillery&go=Go" target="_blank" rel="noopener">Strathisla</a></strong></td><td>Speyside</td><td>Speyside</td><td>14 years</td><td>57%</td><td>&pound;85</td></tr><tr><td><span class="swatch" style="background:#92278f" title="Ripe Fruits &amp; Honey"></span>59.108</td><td>Veritably vivacious</td><td><strong><a class="wiki" href="https://en.wikipedia.org/w/index.php?title=Special:Search&search=Teaninich+distillery&go=Go" target="_blank" rel="noopener">Teaninich</a></strong></td><td>Highland</td><td>Highland</td><td>14 years</td><td>57.4%</td><td>&pound;80</td></tr><tr><td><span class="swatch" style="background:#f2a2c0" title="Fragrant &amp; Floral"></span>64.177</td><td>Taste of summer</td><td><strong><a class="wiki" href="https://en.wikipedia.org/w/index.php?title=Special:Search&search=Mannochmore+distillery&go=Go" target="_blank" rel="noopener">Mannochmore</a></strong></td><td>Speyside</td><td>Speyside</td><td>9 years</td><td>48%</td><td>&pound;48</td></tr><tr><td><span class="swatch" style="background:#d71920" title="Dried Fruits &amp; Spices"></span>68.141</td><td>The cooper and the croze</td><td><strong><a class="wiki" href="https://en.wikipedia.org/w/index.php?title=Special:Search&search=Blair+Athol+distillery&go=Go" target="_blank" rel="noopener">Blair Athol</a></strong></td><td>Highland</td><td>Highland</td><td>14 years</td><td>54.3%</td><td>&pound;80</td></tr><tr><td><span class="swatch" style="background:#f2a2c0" title="Fragrant &amp; Floral"></span>76.166</td><td>Anyone for cricket?</td><td><strong><a class="wiki" href="https://en.wikipedia.org/w/index.php?title=Special:Search&search=Mortlach+distillery&go=Go" target="_blank" rel="noopener">Mortlach</a></strong></td><td>Speyside</td><td>Speyside</td><td>20 years</td><td>50.9%</td><td>&pound;170</td></tr><tr><td><span class="swatch" style="background:#f37e20" title="Sweet &amp; Zesty"></span>78.101</td><td>Apples dumped on hay bales</td><td><strong><a class="wiki" href="https://en.wikipedia.org/w/index.php?title=Special:Search&search=Ben+Nevis+distillery&go=Go" target="_blank" rel="noopener">Ben Nevis</a></strong></td><td>Highland</td><td>Highland</td><td>8 years</td><td>61.1%</td><td>&pound;58</td></tr><tr><td><span class="swatch" style="background:#92278f" title="Ripe Fruits &amp; Honey"></span>100.54</td><td>Breakfast aftershave</td><td><strong><a class="wiki" href="https://en.wikipedia.org/w/index.php?title=Special:Search&search=Strathmill+distillery&go=Go" target="_blank" rel="noopener">Strathmill</a></strong></td><td>Speyside</td><td>Speyside</td><td>14 years</td><td>56.7%</td><td>&pound;75</td></tr><tr><td><span class="swatch" style="background:#8cc63e" title="Smoky &amp; Fruity"></span>149.23</td><td>Beware the lurkin&#x27; gherkin</td><td><strong><a class="wiki" href="https://en.wikipedia.org/w/index.php?title=Special:Search&search=Ardnamurchan+distillery&go=Go" target="_blank" rel="noopener">Ardnamurchan</a></strong></td><td>Highland</td><td>Highland</td><td>10 years</td><td>64.3%</td><td>&pound;88</td></tr><tr><td><span class="swatch" style="background:#92278f" title="Ripe Fruits &amp; Honey"></span>164.3</td><td>Strawberry sweetshop implosion</td><td><strong><a class="wiki" href="https://en.wikipedia.org/w/index.php?title=Special:Search&search=Penderyn+distillery&go=Go" target="_blank" rel="noopener">Penderyn (double distilled)</a></strong></td><td>Wales</td><td>Wales</td><td>7 years</td><td>59.8%</td><td>&pound;62</td></tr><tr><td><span class="swatch" style="background:#202448" title=""></span>B5.22</td><td>The sweet trolley and the herb basket</td><td><strong><a class="wiki" href="https://en.wikipedia.org/w/index.php?title=Special:Search&search=George+Dickel+distillery&go=Go" target="_blank" rel="noopener">George Dickel (Cascade Hollow)</a></strong></td><td>Tennessee, USA</td><td>Tennessee</td><td>9 years</td><td>62.6%</td><td>&pound;79</td></tr></tbody></table>
+</div>
+<footer class="ft">Source: smws.com/all-whisky (category 26) &middot; mapping: whiskysaga.com/smws-codes &middot; generated 2026-08-13</footer>
+<script>
+function tg(b){var d=b.parentNode,f=d.querySelector('.desc-full'),p=d.querySelector('.desc-preview');
+ if(f.hidden){f.hidden=false;p.hidden=true;b.textContent='Read less';}else{f.hidden=true;p.hidden=false;b.textContent='Read more';}}
+function show(v){document.getElementById('cards').style.display=v==='cards'?'grid':'none';
+ document.getElementById('table').style.display=v==='table'?'table':'none';
+ document.getElementById('bCards').classList.toggle('active',v==='cards');
+ document.getElementById('bTable').classList.toggle('active',v==='table');}
+</script></body></html>
