@@ -12,7 +12,7 @@
  *{box-sizing:border-box;}
  body{margin:0;background:#fff;color:var(--ink);font-family:var(--serif);}
  .topbar{background:var(--navy);color:#fff;text-align:center;font-family:var(--cond);text-transform:uppercase;letter-spacing:3px;font-size:13px;padding:12px;}
- .logo-bar{padding:0;line-height:0;}
+ .logo-bar{background:#131d41;padding:0;line-height:0;}
  .logo{display:block;margin:0 auto;max-width:100%;max-height:300px;height:auto;}
  .wrap{max-width:1280px;margin:0 auto;padding:28px 24px 40px;}
  .pagehead{border-bottom:2px solid var(--navy);padding-bottom:12px;margin-bottom:22px;}
@@ -62,7 +62,7 @@
  .swatch{display:inline-block;width:12px;height:12px;border-radius:2px;margin-right:8px;vertical-align:-1px;border:1px solid rgba(0,0,0,.15);}
  footer.ft{border-top:1px solid var(--rule);text-align:center;font-family:var(--cond);text-transform:uppercase;letter-spacing:1px;font-size:11px;color:var(--muted);padding:24px;margin-top:20px;}
 </style></head><body>
-<div class="topbar logo-bar"><img class="logo" src="SMWS-WhineLogo.png" alt="SMWS Outturn"></div>
+<div class="topbar logo-bar"><img class="logo" decoding="async" src="SMWS-WhineLogo.png" alt="SMWS Outturn"></div>
 <div class="wrap">
  <div class="pagehead"><h1>Outturn <span>&mdash; Category 26</span></h1><div class="count">19 bottles</div></div>
  <div class="note"><b>Distillery</b> and <b>Region</b> are added from the number before the dot in each cask code (e.g. <b>4</b>.403 &rarr; Highland Park / Islands), mapped via the Whisky Saga SMWS code list, and each distillery links to Wikipedia. Multi-bottle bundles have no single code, so they show a blurb instead.</div>
@@ -468,6 +468,8 @@
 </div>
 <footer class="ft">Source: smws.com/all-whisky (category 26) &middot; mapping: whiskysaga.com/smws-codes &middot; generated 2026-08-13</footer>
 <script>
+// Match the masthead bar to the logo's own edge colour so the sides blend in.
+(function(){var l=document.querySelector('.logo');if(!l)return;function m(){try{var c=document.createElement('canvas');c.width=c.height=4;var x=c.getContext('2d');x.drawImage(l,0,0,4,4,0,0,4,4);var d=x.getImageData(0,0,1,1).data;var bar=document.querySelector('.logo-bar');if(bar)bar.style.background='rgb('+d[0]+','+d[1]+','+d[2]+')';}catch(e){}}if(l.complete)m();else l.addEventListener('load',m);})();
 function tg(b){var d=b.parentNode,f=d.querySelector('.desc-full'),p=d.querySelector('.desc-preview');
  if(f.hidden){f.hidden=false;p.hidden=true;b.textContent='Read less';}else{f.hidden=true;p.hidden=false;b.textContent='Read more';}}
 function show(v){document.getElementById('cards').style.display=v==='cards'?'grid':'none';
