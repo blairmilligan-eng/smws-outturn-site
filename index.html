@@ -13,7 +13,8 @@
  body{margin:0;background:#fff;color:var(--ink);font-family:var(--serif);}
  .topbar{background:var(--navy);color:#fff;text-align:center;font-family:var(--cond);text-transform:uppercase;letter-spacing:3px;font-size:13px;padding:12px;}
  .logo-bar{background:#131c40;padding:0;line-height:0;}
- .logo{display:block;margin:0 auto;max-width:100%;max-height:205px;height:auto;}
+ .logo{display:block;margin:0 auto;max-width:100%;max-height:205px;height:auto;opacity:0;transition:opacity .6s ease;}
+ .logo.loaded{opacity:1;}
  .wrap{max-width:1280px;margin:0 auto;padding:28px 24px 40px;}
  .pagehead{border-bottom:2px solid var(--navy);padding-bottom:12px;margin-bottom:22px;}
  .pagehead h1{font-family:var(--cond);text-transform:uppercase;color:var(--navy);font-weight:600;letter-spacing:1px;margin:0;font-size:30px;}
@@ -27,8 +28,11 @@
  .toggle button.active{background:var(--navy);color:#fff;}
  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:24px;}
  .card{background:#fff;border:1px solid var(--rule);display:flex;flex-direction:column;}
- .imgwrap{text-align:center;padding:22px 14px 6px;}
- .imgwrap img{height:230px;width:auto;object-fit:contain;}
+ .imgwrap{position:relative;min-height:236px;text-align:center;padding:22px 14px 6px;background:linear-gradient(100deg,#f5f6f8 30%,#eceef2 50%,#f5f6f8 70%);background-size:200% 100%;background-position:200% 0;animation:shim 1.3s linear infinite;}
+ .imgwrap.loaded{animation:none;background:#fff;}
+ .imgwrap img{height:230px;width:auto;object-fit:contain;opacity:0;transition:opacity .55s ease;}
+ .imgwrap img.loaded{opacity:1;}
+ @keyframes shim{to{background-position:-200% 0;}}
  .titlebar{background:var(--navy);color:#fff;padding:12px 16px;text-shadow:0 1px 2px rgba(0,0,0,.28);}
  .titlebar .cask{display:block;font-family:var(--cond);letter-spacing:2px;font-size:12px;opacity:.85;}
  .titlebar h2{font-family:var(--cond);text-transform:uppercase;font-weight:500;letter-spacing:.5px;font-size:19px;margin:2px 0 0;line-height:1.12;}
@@ -69,7 +73,7 @@
  <div class="toggle"><button id="bCards" class="active" onclick="show('cards')">Cards</button><button id="bTable" onclick="show('table')">Table</button></div>
  <section id="cards" class="grid">
     <article class="card">
-      <div class="imgwrap"><img loading="lazy" decoding="async" width="386" height="513" src="https://cdn11.bigcommerce.com/s-vagfena5nz/products/7962/images/13558/Batch_42_Highland_Peaty_Potion_GX_web__12375.1784642020.386.513.png?c=1" alt="Highland peaty potion"></div>
+      <div class="imgwrap"><img loading="lazy" decoding="async" fetchpriority="low" width="386" height="513" src="https://cdn11.bigcommerce.com/s-vagfena5nz/products/7962/images/13558/Batch_42_Highland_Peaty_Potion_GX_web__12375.1784642020.386.513.png?c=1" alt="Highland peaty potion"></div>
       <div class="titlebar" style="background:#202448"><span class="cask">batch 42</span><h2>Highland peaty potion</h2></div>
       <div class="body">
         <div class="specs">
@@ -91,7 +95,7 @@
       </div>
     </article>
     <article class="card bundle">
-      <div class="imgwrap"><img loading="lazy" decoding="async" width="386" height="513" src="https://cdn11.bigcommerce.com/s-vagfena5nz/products/7987/images/13581/Across_the_Spey_Duo__17131.1785242352.386.513.png?c=1" alt="Across the Spey Duo"></div>
+      <div class="imgwrap"><img loading="lazy" decoding="async" fetchpriority="low" width="386" height="513" src="https://cdn11.bigcommerce.com/s-vagfena5nz/products/7987/images/13581/Across_the_Spey_Duo__17131.1785242352.386.513.png?c=1" alt="Across the Spey Duo"></div>
       <div class="titlebar"><h2>Across the Spey Duo</h2></div>
       <div class="body">
         <div class="tag">Multi-bottle bundle</div>
@@ -101,7 +105,7 @@
       </div>
     </article>
     <article class="card bundle">
-      <div class="imgwrap"><img loading="lazy" decoding="async" width="386" height="513" src="https://cdn11.bigcommerce.com/s-vagfena5nz/products/7989/images/13589/Smoke_Symphony_Pair__06850.1785762640.386.513.png?c=1" alt="Smoke &amp; Symphony Pair"></div>
+      <div class="imgwrap"><img loading="lazy" decoding="async" fetchpriority="low" width="386" height="513" src="https://cdn11.bigcommerce.com/s-vagfena5nz/products/7989/images/13589/Smoke_Symphony_Pair__06850.1785762640.386.513.png?c=1" alt="Smoke &amp; Symphony Pair"></div>
       <div class="titlebar"><h2>Smoke &amp; Symphony Pair</h2></div>
       <div class="body">
         <div class="tag">Multi-bottle bundle</div>
@@ -111,7 +115,7 @@
       </div>
     </article>
     <article class="card">
-      <div class="imgwrap"><img loading="lazy" decoding="async" width="386" height="513" src="https://cdn11.bigcommerce.com/s-vagfena5nz/products/7957/images/13540/4.403-GX-web__95340.1784640851.386.513.png?c=1" alt="An autolytic Orcadian"></div>
+      <div class="imgwrap"><img loading="lazy" decoding="async" fetchpriority="low" width="386" height="513" src="https://cdn11.bigcommerce.com/s-vagfena5nz/products/7957/images/13540/4.403-GX-web__95340.1784640851.386.513.png?c=1" alt="An autolytic Orcadian"></div>
       <div class="titlebar" style="background:#1c75bb"><span class="cask">4.403</span><h2>An autolytic Orcadian</h2></div>
       <div class="body">
         <div class="specs">
@@ -133,7 +137,7 @@
       </div>
     </article>
     <article class="card">
-      <div class="imgwrap"><img loading="lazy" decoding="async" width="386" height="513" src="https://cdn11.bigcommerce.com/s-vagfena5nz/products/7961/images/13561/41.191__47184.1784647589.386.513.png?c=1" alt="Zingy stardust"></div>
+      <div class="imgwrap"><img loading="lazy" decoding="async" fetchpriority="low" width="386" height="513" src="https://cdn11.bigcommerce.com/s-vagfena5nz/products/7961/images/13561/41.191__47184.1784647589.386.513.png?c=1" alt="Zingy stardust"></div>
       <div class="titlebar" style="background:#92278f"><span class="cask">41.191</span><h2>Zingy stardust</h2></div>
       <div class="body">
         <div class="specs">
@@ -155,7 +159,7 @@
       </div>
     </article>
     <article class="card">
-      <div class="imgwrap"><img loading="lazy" decoding="async" width="386" height="513" src="https://cdn11.bigcommerce.com/s-vagfena5nz/products/7963/images/13544/44.200-GX-web__00141.1784641069.386.513.png?c=1" alt="Masala dabba"></div>
+      <div class="imgwrap"><img loading="lazy" decoding="async" fetchpriority="low" width="386" height="513" src="https://cdn11.bigcommerce.com/s-vagfena5nz/products/7963/images/13544/44.200-GX-web__00141.1784641069.386.513.png?c=1" alt="Masala dabba"></div>
       <div class="titlebar" style="background:#e9963b"><span class="cask">44.200</span><h2>Masala dabba</h2></div>
       <div class="body">
         <div class="specs">
@@ -177,7 +181,7 @@
       </div>
     </article>
     <article class="card">
-      <div class="imgwrap"><img loading="lazy" decoding="async" width="386" height="513" src="https://cdn11.bigcommerce.com/s-vagfena5nz/products/7965/images/13545/48.188-GX-web__36442.1784641085.386.513.png?c=1" alt="Knickerbocker glory story"></div>
+      <div class="imgwrap"><img loading="lazy" decoding="async" fetchpriority="low" width="386" height="513" src="https://cdn11.bigcommerce.com/s-vagfena5nz/products/7965/images/13545/48.188-GX-web__36442.1784641085.386.513.png?c=1" alt="Knickerbocker glory story"></div>
       <div class="titlebar" style="background:#f2a2c0"><span class="cask">48.188</span><h2>Knickerbocker glory story</h2></div>
       <div class="body">
         <div class="specs">
@@ -199,7 +203,7 @@
       </div>
     </article>
     <article class="card">
-      <div class="imgwrap"><img loading="lazy" decoding="async" width="386" height="513" src="https://cdn11.bigcommerce.com/s-vagfena5nz/products/7969/images/13546/50.124-GX-web__51647.1784641105.386.513.png?c=1" alt="Vitality and maturity"></div>
+      <div class="imgwrap"><img loading="lazy" decoding="async" fetchpriority="low" width="386" height="513" src="https://cdn11.bigcommerce.com/s-vagfena5nz/products/7969/images/13546/50.124-GX-web__51647.1784641105.386.513.png?c=1" alt="Vitality and maturity"></div>
       <div class="titlebar" style="background:#d71920"><span class="cask">50.124</span><h2>Vitality and maturity</h2></div>
       <div class="body">
         <div class="specs">
@@ -221,7 +225,7 @@
       </div>
     </article>
     <article class="card">
-      <div class="imgwrap"><img loading="lazy" decoding="async" width="386" height="513" src="https://cdn11.bigcommerce.com/s-vagfena5nz/products/7967/images/13547/53.532-GX-web__06574.1784641124.386.513.png?c=1" alt="What’s not to like?"></div>
+      <div class="imgwrap"><img loading="lazy" decoding="async" fetchpriority="low" width="386" height="513" src="https://cdn11.bigcommerce.com/s-vagfena5nz/products/7967/images/13547/53.532-GX-web__06574.1784641124.386.513.png?c=1" alt="What’s not to like?"></div>
       <div class="titlebar" style="background:#8cc63e"><span class="cask">53.532</span><h2>What’s not to like?</h2></div>
       <div class="body">
         <div class="specs">
@@ -243,7 +247,7 @@
       </div>
     </article>
     <article class="card">
-      <div class="imgwrap"><img loading="lazy" decoding="async" width="386" height="513" src="https://cdn11.bigcommerce.com/s-vagfena5nz/products/7971/images/13548/58.65-GX-web__38221.1784641216.386.513.png?c=1" alt="A roly-poly in the hay loft"></div>
+      <div class="imgwrap"><img loading="lazy" decoding="async" fetchpriority="low" width="386" height="513" src="https://cdn11.bigcommerce.com/s-vagfena5nz/products/7971/images/13548/58.65-GX-web__38221.1784641216.386.513.png?c=1" alt="A roly-poly in the hay loft"></div>
       <div class="titlebar" style="background:#d71920"><span class="cask">58.65</span><h2>A roly-poly in the hay loft</h2></div>
       <div class="body">
         <div class="specs">
@@ -265,7 +269,7 @@
       </div>
     </article>
     <article class="card">
-      <div class="imgwrap"><img loading="lazy" decoding="async" width="386" height="513" src="https://cdn11.bigcommerce.com/s-vagfena5nz/products/7973/images/13559/59.108__37086.1784647564.386.513.png?c=1" alt="Veritably vivacious"></div>
+      <div class="imgwrap"><img loading="lazy" decoding="async" fetchpriority="low" width="386" height="513" src="https://cdn11.bigcommerce.com/s-vagfena5nz/products/7973/images/13559/59.108__37086.1784647564.386.513.png?c=1" alt="Veritably vivacious"></div>
       <div class="titlebar" style="background:#92278f"><span class="cask">59.108</span><h2>Veritably vivacious</h2></div>
       <div class="body">
         <div class="specs">
@@ -287,7 +291,7 @@
       </div>
     </article>
     <article class="card">
-      <div class="imgwrap"><img loading="lazy" decoding="async" width="386" height="513" src="https://cdn11.bigcommerce.com/s-vagfena5nz/products/7975/images/13580/64.177__38603.1785226407.386.513.png?c=1" alt="Taste of summer"></div>
+      <div class="imgwrap"><img loading="lazy" decoding="async" fetchpriority="low" width="386" height="513" src="https://cdn11.bigcommerce.com/s-vagfena5nz/products/7975/images/13580/64.177__38603.1785226407.386.513.png?c=1" alt="Taste of summer"></div>
       <div class="titlebar" style="background:#f2a2c0"><span class="cask">64.177</span><h2>Taste of summer</h2></div>
       <div class="body">
         <div class="specs">
@@ -309,7 +313,7 @@
       </div>
     </article>
     <article class="card">
-      <div class="imgwrap"><img loading="lazy" decoding="async" width="386" height="513" src="https://cdn11.bigcommerce.com/s-vagfena5nz/products/7976/images/13593/The_cooper_and_the_croze__96473.1785846147.386.513.png?c=1" alt="The cooper and the croze"></div>
+      <div class="imgwrap"><img loading="lazy" decoding="async" fetchpriority="low" width="386" height="513" src="https://cdn11.bigcommerce.com/s-vagfena5nz/products/7976/images/13593/The_cooper_and_the_croze__96473.1785846147.386.513.png?c=1" alt="The cooper and the croze"></div>
       <div class="titlebar" style="background:#d71920"><span class="cask">68.141</span><h2>The cooper and the croze</h2></div>
       <div class="body">
         <div class="specs">
@@ -331,7 +335,7 @@
       </div>
     </article>
     <article class="card">
-      <div class="imgwrap"><img loading="lazy" decoding="async" width="386" height="513" src="https://cdn11.bigcommerce.com/s-vagfena5nz/products/7966/images/13550/76.166-GX-web__83884.1784641372.386.513.png?c=1" alt="Anyone for cricket?"></div>
+      <div class="imgwrap"><img loading="lazy" decoding="async" fetchpriority="low" width="386" height="513" src="https://cdn11.bigcommerce.com/s-vagfena5nz/products/7966/images/13550/76.166-GX-web__83884.1784641372.386.513.png?c=1" alt="Anyone for cricket?"></div>
       <div class="titlebar" style="background:#f2a2c0"><span class="cask">76.166</span><h2>Anyone for cricket?</h2></div>
       <div class="body">
         <div class="specs">
@@ -353,7 +357,7 @@
       </div>
     </article>
     <article class="card">
-      <div class="imgwrap"><img loading="lazy" decoding="async" width="386" height="513" src="https://cdn11.bigcommerce.com/s-vagfena5nz/products/7977/images/13551/78.101-GX-web__11523.1784641415.386.513.png?c=1" alt="Apples dumped on hay bales"></div>
+      <div class="imgwrap"><img loading="lazy" decoding="async" fetchpriority="low" width="386" height="513" src="https://cdn11.bigcommerce.com/s-vagfena5nz/products/7977/images/13551/78.101-GX-web__11523.1784641415.386.513.png?c=1" alt="Apples dumped on hay bales"></div>
       <div class="titlebar" style="background:#f37e20"><span class="cask">78.101</span><h2>Apples dumped on hay bales</h2></div>
       <div class="body">
         <div class="specs">
@@ -375,7 +379,7 @@
       </div>
     </article>
     <article class="card">
-      <div class="imgwrap"><img loading="lazy" decoding="async" width="386" height="513" src="https://cdn11.bigcommerce.com/s-vagfena5nz/products/7979/images/13563/100.54__16006.1784647625.386.513.png?c=1" alt="Breakfast aftershave"></div>
+      <div class="imgwrap"><img loading="lazy" decoding="async" fetchpriority="low" width="386" height="513" src="https://cdn11.bigcommerce.com/s-vagfena5nz/products/7979/images/13563/100.54__16006.1784647625.386.513.png?c=1" alt="Breakfast aftershave"></div>
       <div class="titlebar" style="background:#92278f"><span class="cask">100.54</span><h2>Breakfast aftershave</h2></div>
       <div class="body">
         <div class="specs">
@@ -397,7 +401,7 @@
       </div>
     </article>
     <article class="card">
-      <div class="imgwrap"><img loading="lazy" decoding="async" width="386" height="513" src="https://cdn11.bigcommerce.com/s-vagfena5nz/products/7956/images/13556/149.23-GX-web__76959.1784641971.386.513.png?c=1" alt="Beware the lurkin&#x27; gherkin"></div>
+      <div class="imgwrap"><img loading="lazy" decoding="async" fetchpriority="low" width="386" height="513" src="https://cdn11.bigcommerce.com/s-vagfena5nz/products/7956/images/13556/149.23-GX-web__76959.1784641971.386.513.png?c=1" alt="Beware the lurkin&#x27; gherkin"></div>
       <div class="titlebar" style="background:#8cc63e"><span class="cask">149.23</span><h2>Beware the lurkin&#x27; gherkin</h2></div>
       <div class="body">
         <div class="specs">
@@ -419,7 +423,7 @@
       </div>
     </article>
     <article class="card">
-      <div class="imgwrap"><img loading="lazy" decoding="async" width="386" height="513" src="https://cdn11.bigcommerce.com/s-vagfena5nz/products/7958/images/13557/164.3-GX-web__23008.1784642008.386.513.png?c=1" alt="Strawberry sweetshop implosion"></div>
+      <div class="imgwrap"><img loading="lazy" decoding="async" fetchpriority="low" width="386" height="513" src="https://cdn11.bigcommerce.com/s-vagfena5nz/products/7958/images/13557/164.3-GX-web__23008.1784642008.386.513.png?c=1" alt="Strawberry sweetshop implosion"></div>
       <div class="titlebar" style="background:#92278f"><span class="cask">164.3</span><h2>Strawberry sweetshop implosion</h2></div>
       <div class="body">
         <div class="specs">
@@ -441,7 +445,7 @@
       </div>
     </article>
     <article class="card">
-      <div class="imgwrap"><img loading="lazy" decoding="async" width="386" height="513" src="https://cdn11.bigcommerce.com/s-vagfena5nz/products/7960/images/13553/B5.22-GX-web__57513.1784641612.386.513.png?c=1" alt="The sweet trolley and the herb basket"></div>
+      <div class="imgwrap"><img loading="lazy" decoding="async" fetchpriority="low" width="386" height="513" src="https://cdn11.bigcommerce.com/s-vagfena5nz/products/7960/images/13553/B5.22-GX-web__57513.1784641612.386.513.png?c=1" alt="The sweet trolley and the herb basket"></div>
       <div class="titlebar" style="background:#202448"><span class="cask">B5.22</span><h2>The sweet trolley and the herb basket</h2></div>
       <div class="body">
         <div class="specs">
@@ -468,6 +472,12 @@
 </div>
 <footer class="ft">Source: smws.com/all-whisky (category 26) &middot; mapping: whiskysaga.com/smws-codes &middot; generated 2026-08-13</footer>
 <script>
+// Fade each photo in as it arrives and clear its shimmer placeholder, so the page
+// is fully readable instantly and images stream in gracefully (works without JS too).
+(function(){document.querySelectorAll('.imgwrap img,.logo').forEach(function(im){
+  function done(){im.classList.add('loaded');var w=im.closest('.imgwrap');if(w)w.classList.add('loaded');}
+  if(im.complete&&im.naturalWidth){done();}else{im.addEventListener('load',done);im.addEventListener('error',function(){var w=im.closest('.imgwrap');if(w)w.classList.add('loaded');});}
+});})();
 function tg(b){var d=b.parentNode,f=d.querySelector('.desc-full'),p=d.querySelector('.desc-preview');
  if(f.hidden){f.hidden=false;p.hidden=true;b.textContent='Read less';}else{f.hidden=true;p.hidden=false;b.textContent='Read more';}}
 function show(v){document.getElementById('cards').style.display=v==='cards'?'grid':'none';
