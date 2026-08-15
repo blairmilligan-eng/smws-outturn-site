@@ -33,4 +33,4 @@ Allow: /
 User-agent: YouBot
 Allow: /
 
-Sitemap: https://blairmilligan-eng.github.io/smws-outturn-site/sitemap.xml
+Sitemap: https://caskcode.co.uk/sitemap.xml
