@@ -1,0 +1,1228 @@
+{
+ "license": "CC BY 4.0",
+ "license_url": "https://creativecommons.org/licenses/by/4.0/",
+ "source": "OUTTURN by Whine",
+ "updated": "2026-08-15",
+ "codes": [
+  {
+   "code": "1",
+   "distillery": "Glenfarclas",
+   "region": "Speyside"
+  },
+  {
+   "code": "2",
+   "distillery": "Glenlivet",
+   "region": "Speyside"
+  },
+  {
+   "code": "3",
+   "distillery": "Bowmore",
+   "region": "Islay"
+  },
+  {
+   "code": "4",
+   "distillery": "Highland Park",
+   "region": "Islands"
+  },
+  {
+   "code": "5",
+   "distillery": "Auchentoshan",
+   "region": "Lowland"
+  },
+  {
+   "code": "6",
+   "distillery": "Macduff",
+   "region": "Highland"
+  },
+  {
+   "code": "7",
+   "distillery": "Longmorn",
+   "region": "Speyside"
+  },
+  {
+   "code": "8",
+   "distillery": "Tamdhu",
+   "region": "Speyside"
+  },
+  {
+   "code": "9",
+   "distillery": "Glen Grant",
+   "region": "Speyside"
+  },
+  {
+   "code": "10",
+   "distillery": "Bunnahabhain",
+   "region": "Islay"
+  },
+  {
+   "code": "11",
+   "distillery": "Tomatin",
+   "region": "Highland"
+  },
+  {
+   "code": "12",
+   "distillery": "BenRiach",
+   "region": "Speyside"
+  },
+  {
+   "code": "13",
+   "distillery": "Dalmore",
+   "region": "Highland"
+  },
+  {
+   "code": "14",
+   "distillery": "Talisker",
+   "region": "Islands"
+  },
+  {
+   "code": "15",
+   "distillery": "Glenfiddich",
+   "region": "Speyside"
+  },
+  {
+   "code": "16",
+   "distillery": "Glenturret",
+   "region": "Highland"
+  },
+  {
+   "code": "17",
+   "distillery": "Scapa",
+   "region": "Islands"
+  },
+  {
+   "code": "18",
+   "distillery": "Inchgower",
+   "region": "Speyside"
+  },
+  {
+   "code": "19",
+   "distillery": "Glen Garioch",
+   "region": "Highland"
+  },
+  {
+   "code": "20",
+   "distillery": "Inverleven",
+   "region": "Lowland"
+  },
+  {
+   "code": "21",
+   "distillery": "Glenglassaugh",
+   "region": "Highland"
+  },
+  {
+   "code": "22",
+   "distillery": "Glenkinchie",
+   "region": "Lowland"
+  },
+  {
+   "code": "23",
+   "distillery": "Bruichladdich",
+   "region": "Islay"
+  },
+  {
+   "code": "24",
+   "distillery": "Macallan",
+   "region": "Speyside"
+  },
+  {
+   "code": "25",
+   "distillery": "Rosebank",
+   "region": "Lowland"
+  },
+  {
+   "code": "26",
+   "distillery": "Clynelish",
+   "region": "Highland"
+  },
+  {
+   "code": "27",
+   "distillery": "Springbank",
+   "region": "Campbeltown"
+  },
+  {
+   "code": "28",
+   "distillery": "Tullibardine",
+   "region": "Highland"
+  },
+  {
+   "code": "29",
+   "distillery": "Laphroaig",
+   "region": "Islay"
+  },
+  {
+   "code": "30",
+   "distillery": "Glenrothes",
+   "region": "Speyside"
+  },
+  {
+   "code": "31",
+   "distillery": "Isle of Jura",
+   "region": "Islands"
+  },
+  {
+   "code": "32",
+   "distillery": "Edradour",
+   "region": "Highland"
+  },
+  {
+   "code": "33",
+   "distillery": "Ardbeg",
+   "region": "Islay"
+  },
+  {
+   "code": "34",
+   "distillery": "Tamnavulin",
+   "region": "Speyside"
+  },
+  {
+   "code": "35",
+   "distillery": "Glen Moray",
+   "region": "Speyside"
+  },
+  {
+   "code": "36",
+   "distillery": "Benrinnes",
+   "region": "Speyside"
+  },
+  {
+   "code": "37",
+   "distillery": "Cragganmore",
+   "region": "Speyside"
+  },
+  {
+   "code": "38",
+   "distillery": "Caperdonich",
+   "region": "Speyside"
+  },
+  {
+   "code": "39",
+   "distillery": "Linkwood",
+   "region": "Speyside"
+  },
+  {
+   "code": "40",
+   "distillery": "Balvenie",
+   "region": "Speyside"
+  },
+  {
+   "code": "41",
+   "distillery": "Dailuaine",
+   "region": "Speyside"
+  },
+  {
+   "code": "42",
+   "distillery": "Tobermory",
+   "region": "Islands"
+  },
+  {
+   "code": "43",
+   "distillery": "Port Ellen",
+   "region": "Islay"
+  },
+  {
+   "code": "44",
+   "distillery": "Craigellachie",
+   "region": "Speyside"
+  },
+  {
+   "code": "45",
+   "distillery": "Dallas Dhu",
+   "region": "Speyside"
+  },
+  {
+   "code": "46",
+   "distillery": "Glenlossie",
+   "region": "Speyside"
+  },
+  {
+   "code": "47",
+   "distillery": "Benromach",
+   "region": "Speyside"
+  },
+  {
+   "code": "48",
+   "distillery": "Balmenach",
+   "region": "Speyside"
+  },
+  {
+   "code": "49",
+   "distillery": "St. Magdalene",
+   "region": "Lowland"
+  },
+  {
+   "code": "50",
+   "distillery": "Bladnoch",
+   "region": "Lowland"
+  },
+  {
+   "code": "51",
+   "distillery": "Bushmills",
+   "region": "Northern Ireland"
+  },
+  {
+   "code": "52",
+   "distillery": "Old Pulteney",
+   "region": "Highland"
+  },
+  {
+   "code": "53",
+   "distillery": "Caol Ila",
+   "region": "Islay"
+  },
+  {
+   "code": "54",
+   "distillery": "Aberlour",
+   "region": "Speyside"
+  },
+  {
+   "code": "55",
+   "distillery": "Royal Brackla",
+   "region": "Highland"
+  },
+  {
+   "code": "56",
+   "distillery": "Coleburn",
+   "region": "Speyside"
+  },
+  {
+   "code": "57",
+   "distillery": "Glen Mhor",
+   "region": "Highland"
+  },
+  {
+   "code": "58",
+   "distillery": "Strathisla",
+   "region": "Speyside"
+  },
+  {
+   "code": "59",
+   "distillery": "Teaninich",
+   "region": "Highland"
+  },
+  {
+   "code": "60",
+   "distillery": "Aberfeldy",
+   "region": "Highland"
+  },
+  {
+   "code": "61",
+   "distillery": "Brora",
+   "region": "Highland"
+  },
+  {
+   "code": "62",
+   "distillery": "Glenlochy",
+   "region": "Highland"
+  },
+  {
+   "code": "63",
+   "distillery": "Glentauchers",
+   "region": "Speyside"
+  },
+  {
+   "code": "64",
+   "distillery": "Mannochmore",
+   "region": "Speyside"
+  },
+  {
+   "code": "65",
+   "distillery": "Imperial",
+   "region": "Speyside"
+  },
+  {
+   "code": "66",
+   "distillery": "Ardmore",
+   "region": "Highland"
+  },
+  {
+   "code": "67",
+   "distillery": "Banff",
+   "region": "Speyside"
+  },
+  {
+   "code": "68",
+   "distillery": "Blair Athol",
+   "region": "Highland"
+  },
+  {
+   "code": "69",
+   "distillery": "Glen Albyn",
+   "region": "Highland"
+  },
+  {
+   "code": "70",
+   "distillery": "Balblair",
+   "region": "Highland"
+  },
+  {
+   "code": "71",
+   "distillery": "Glenburgie",
+   "region": "Speyside"
+  },
+  {
+   "code": "72",
+   "distillery": "Miltonduff",
+   "region": "Speyside"
+  },
+  {
+   "code": "73",
+   "distillery": "Aultmore",
+   "region": "Speyside"
+  },
+  {
+   "code": "74",
+   "distillery": "North Port",
+   "region": "Highland"
+  },
+  {
+   "code": "75",
+   "distillery": "Glenury / Glenury Royal",
+   "region": "Highland"
+  },
+  {
+   "code": "76",
+   "distillery": "Mortlach",
+   "region": "Speyside"
+  },
+  {
+   "code": "77",
+   "distillery": "Glen Ord",
+   "region": "Highland"
+  },
+  {
+   "code": "78",
+   "distillery": "Ben Nevis",
+   "region": "Highland"
+  },
+  {
+   "code": "79",
+   "distillery": "Deanston",
+   "region": "Highland"
+  },
+  {
+   "code": "80",
+   "distillery": "Glen Spey",
+   "region": "Speyside"
+  },
+  {
+   "code": "81",
+   "distillery": "Glen Keith",
+   "region": "Speyside"
+  },
+  {
+   "code": "82",
+   "distillery": "Glencadam",
+   "region": "Highland"
+  },
+  {
+   "code": "83",
+   "distillery": "Convalmore",
+   "region": "Speyside"
+  },
+  {
+   "code": "84",
+   "distillery": "Glendullan",
+   "region": "Speyside"
+  },
+  {
+   "code": "85",
+   "distillery": "Glen Elgin",
+   "region": "Speyside"
+  },
+  {
+   "code": "86",
+   "distillery": "Glenesk",
+   "region": "Highland"
+  },
+  {
+   "code": "87",
+   "distillery": "Millburn",
+   "region": "Highland"
+  },
+  {
+   "code": "88",
+   "distillery": "Speyburn",
+   "region": "Speyside"
+  },
+  {
+   "code": "89",
+   "distillery": "Tomintoul",
+   "region": "Speyside"
+  },
+  {
+   "code": "90",
+   "distillery": "Pittyvaich",
+   "region": "Speyside"
+  },
+  {
+   "code": "91",
+   "distillery": "Dufftown",
+   "region": "Speyside"
+  },
+  {
+   "code": "92",
+   "distillery": "Lochside",
+   "region": "Highland"
+  },
+  {
+   "code": "93",
+   "distillery": "Glen Scotia",
+   "region": "Campbeltown"
+  },
+  {
+   "code": "94",
+   "distillery": "Fettercairn",
+   "region": "Highland"
+  },
+  {
+   "code": "95",
+   "distillery": "Auchroisk",
+   "region": "Speyside"
+  },
+  {
+   "code": "96",
+   "distillery": "GlenDronach",
+   "region": "Highland"
+  },
+  {
+   "code": "97",
+   "distillery": "Littlemill",
+   "region": "Lowland"
+  },
+  {
+   "code": "98",
+   "distillery": "Inverleven",
+   "region": "Lowland"
+  },
+  {
+   "code": "99",
+   "distillery": "Glenugie",
+   "region": "Highland"
+  },
+  {
+   "code": "100",
+   "distillery": "Strathmill",
+   "region": "Speyside"
+  },
+  {
+   "code": "101",
+   "distillery": "Knockando",
+   "region": "Speyside"
+  },
+  {
+   "code": "102",
+   "distillery": "Dalwhinnie",
+   "region": "Highland"
+  },
+  {
+   "code": "103",
+   "distillery": "Royal Lochnagar",
+   "region": "Highland"
+  },
+  {
+   "code": "104",
+   "distillery": "Glenburgie (Glencraig)",
+   "region": "Speyside"
+  },
+  {
+   "code": "105",
+   "distillery": "Tormore",
+   "region": "Speyside"
+  },
+  {
+   "code": "106",
+   "distillery": "Cardhu",
+   "region": "Speyside"
+  },
+  {
+   "code": "107",
+   "distillery": "Glenallachie",
+   "region": "Speyside"
+  },
+  {
+   "code": "108",
+   "distillery": "Allt-a-Bhainne",
+   "region": "Speyside"
+  },
+  {
+   "code": "109",
+   "distillery": "Miltonduff (Mosstowie)",
+   "region": "Speyside"
+  },
+  {
+   "code": "110",
+   "distillery": "Oban",
+   "region": "Highland"
+  },
+  {
+   "code": "111",
+   "distillery": "Lagavulin",
+   "region": "Islay"
+  },
+  {
+   "code": "112",
+   "distillery": "Loch Lomond (Inchmurrin / Inchmoan)",
+   "region": "Highland"
+  },
+  {
+   "code": "113",
+   "distillery": "Braeval (Braes of Glenlivet)",
+   "region": "Speyside"
+  },
+  {
+   "code": "114",
+   "distillery": "Springbank (Longrow)",
+   "region": "Campbeltown"
+  },
+  {
+   "code": "115",
+   "distillery": "Knockdhu (AnCnoc)",
+   "region": "Speyside"
+  },
+  {
+   "code": "116",
+   "distillery": "Yoichi",
+   "region": "Japan"
+  },
+  {
+   "code": "117",
+   "distillery": "Cooley (Unpeated)",
+   "region": "Ireland"
+  },
+  {
+   "code": "118",
+   "distillery": "Cooley / Connemara (Peated)",
+   "region": "Ireland"
+  },
+  {
+   "code": "119",
+   "distillery": "Yamazaki",
+   "region": "Japan"
+  },
+  {
+   "code": "120",
+   "distillery": "Hakushu",
+   "region": "Japan"
+  },
+  {
+   "code": "121",
+   "distillery": "Isle of Arran",
+   "region": "Islands"
+  },
+  {
+   "code": "122",
+   "distillery": "Loch Lomond (Croftengea)",
+   "region": "Highland"
+  },
+  {
+   "code": "123",
+   "distillery": "Glengoyne",
+   "region": "Highland"
+  },
+  {
+   "code": "124",
+   "distillery": "Miyagikyo",
+   "region": "Japan"
+  },
+  {
+   "code": "125",
+   "distillery": "Glenmorangie",
+   "region": "Highland"
+  },
+  {
+   "code": "126",
+   "distillery": "Springbank (Hazelburn)",
+   "region": "Campbeltown"
+  },
+  {
+   "code": "127",
+   "distillery": "Bruichladdich (Port Charlotte)",
+   "region": "Islay"
+  },
+  {
+   "code": "128",
+   "distillery": "Penderyn",
+   "region": "Wales"
+  },
+  {
+   "code": "129",
+   "distillery": "Kilchoman",
+   "region": "Islay"
+  },
+  {
+   "code": "130",
+   "distillery": "Chichibu",
+   "region": "Japan"
+  },
+  {
+   "code": "131",
+   "distillery": "Hanyu",
+   "region": "Japan"
+  },
+  {
+   "code": "132",
+   "distillery": "Karuizawa",
+   "region": "Japan"
+  },
+  {
+   "code": "133",
+   "distillery": "Westland",
+   "region": "Washington, USA"
+  },
+  {
+   "code": "134",
+   "distillery": "Paul John",
+   "region": "India"
+  },
+  {
+   "code": "135",
+   "distillery": "Loch Lomond",
+   "region": "Highland"
+  },
+  {
+   "code": "136",
+   "distillery": "Eden Mill",
+   "region": "Lowland"
+  },
+  {
+   "code": "137",
+   "distillery": "St. George’s (The English Whisky Co.)",
+   "region": "England"
+  },
+  {
+   "code": "138",
+   "distillery": "Nantou",
+   "region": "Taiwan"
+  },
+  {
+   "code": "139",
+   "distillery": "Kavalan",
+   "region": "Taiwan"
+  },
+  {
+   "code": "140",
+   "distillery": "Balcones",
+   "region": "Texas, USA"
+  },
+  {
+   "code": "141",
+   "distillery": "Fary Lochan",
+   "region": "Denmark"
+  },
+  {
+   "code": "142",
+   "distillery": "Breuckelen Distilling",
+   "region": "New York, USA"
+  },
+  {
+   "code": "143",
+   "distillery": "Copperworks Distilling Co.",
+   "region": "Washington, USA"
+  },
+  {
+   "code": "144",
+   "distillery": "High Coast Distillery",
+   "region": "Sweden"
+  },
+  {
+   "code": "145",
+   "distillery": "Smögen Whisky",
+   "region": "Sweden"
+  },
+  {
+   "code": "146",
+   "distillery": "Cotswolds",
+   "region": "England"
+  },
+  {
+   "code": "147",
+   "distillery": "Archie Rose",
+   "region": "Australia"
+  },
+  {
+   "code": "148",
+   "distillery": "Starward",
+   "region": "Australia"
+  },
+  {
+   "code": "149",
+   "distillery": "Ardnamurchan",
+   "region": "Highland"
+  },
+  {
+   "code": "150",
+   "distillery": "West Cork Distillers",
+   "region": "Ireland"
+  },
+  {
+   "code": "151",
+   "distillery": "Mackmyra",
+   "region": "Sweden"
+  },
+  {
+   "code": "152",
+   "distillery": "Shelter Point",
+   "region": "Canada"
+  },
+  {
+   "code": "153",
+   "distillery": "Thy Whisky",
+   "region": "Denmark"
+  },
+  {
+   "code": "154",
+   "distillery": "Mosgaard Whisky",
+   "region": "Denmark"
+  },
+  {
+   "code": "155",
+   "distillery": "Milk & Honey Distillery",
+   "region": "Israel"
+  },
+  {
+   "code": "156",
+   "distillery": "Glasgow Distillery",
+   "region": "Lowland"
+  },
+  {
+   "code": "157",
+   "distillery": "Distillerie de Warenghem",
+   "region": "France"
+  },
+  {
+   "code": "158",
+   "distillery": "Yuza Distillery",
+   "region": "Japan"
+  },
+  {
+   "code": "159",
+   "distillery": "Mars Shinshu",
+   "region": "Japan"
+  },
+  {
+   "code": "160",
+   "distillery": "Mars Tsunuki",
+   "region": "Japan"
+  },
+  {
+   "code": "161",
+   "distillery": "Nc'nean Distillery",
+   "region": "Scotland"
+  },
+  {
+   "code": "162",
+   "distillery": "Isle of Raasay",
+   "region": "Scotland"
+  },
+  {
+   "code": "163",
+   "distillery": "Isle of Harris Distillery",
+   "region": "Scotland"
+  },
+  {
+   "code": "164",
+   "distillery": "Penderyn (double distilled)",
+   "region": "Wales"
+  },
+  {
+   "code": "165",
+   "distillery": "Wolfburn (peated)",
+   "region": "Scotland"
+  },
+  {
+   "code": "166",
+   "distillery": "Torabhaig Distillery",
+   "region": "Scotland"
+  },
+  {
+   "code": "167",
+   "distillery": "Clydeside Distillery",
+   "region": "Scotland"
+  },
+  {
+   "code": "168",
+   "distillery": "InchDairnie Distillery (KinGlassie)",
+   "region": "Scotland"
+  },
+  {
+   "code": "A1",
+   "distillery": "Chateau de Lacaze",
+   "region": "France"
+  },
+  {
+   "code": "A2",
+   "distillery": "Domaine Laguille",
+   "region": "France"
+  },
+  {
+   "code": "A3",
+   "distillery": "J. Goudoulin (Veuve Goudoulin)",
+   "region": "France"
+  },
+  {
+   "code": "A4",
+   "distillery": "Domaine d’Espérance",
+   "region": "France"
+  },
+  {
+   "code": "A5",
+   "distillery": "Chateau de Laubade",
+   "region": "France"
+  },
+  {
+   "code": "A6",
+   "distillery": "Domaine Lasalle",
+   "region": "France"
+  },
+  {
+   "code": "A7",
+   "distillery": "Domaine Lasalle",
+   "region": "France"
+  },
+  {
+   "code": "A8",
+   "distillery": "Domaine de Cavaillon",
+   "region": "France"
+  },
+  {
+   "code": "A9",
+   "distillery": "Domaine de Saurine",
+   "region": "France"
+  },
+  {
+   "code": "B1",
+   "distillery": "Heaven Hill",
+   "region": "Kentucky, USA"
+  },
+  {
+   "code": "B2",
+   "distillery": "New Bernheim",
+   "region": "Kentucky, USA"
+  },
+  {
+   "code": "B3",
+   "distillery": "Rock Town",
+   "region": "Arkansas, USA"
+  },
+  {
+   "code": "B4",
+   "distillery": "FEW Spirits",
+   "region": "Illinois, USA"
+  },
+  {
+   "code": "B5",
+   "distillery": "George Dickel (Cascade Hollow)",
+   "region": "Tennessee, USA"
+  },
+  {
+   "code": "B6",
+   "distillery": "Finger Lakes Distilling",
+   "region": "New York, USA"
+  },
+  {
+   "code": "B7",
+   "distillery": "MGP (Midwest Grain Products)",
+   "region": "Indiana, USA"
+  },
+  {
+   "code": "B8",
+   "distillery": "Woodinville Whiskey Co.",
+   "region": "Washington, USA"
+  },
+  {
+   "code": "B9",
+   "distillery": "Wilderness Trail Distillery",
+   "region": "Kentucky, USA"
+  },
+  {
+   "code": "C1",
+   "distillery": "Camus",
+   "region": "France"
+  },
+  {
+   "code": "C2",
+   "distillery": "Domaine de Chez Guérive",
+   "region": "France"
+  },
+  {
+   "code": "C3",
+   "distillery": "Louis Royer",
+   "region": "France"
+  },
+  {
+   "code": "C4",
+   "distillery": "Distillery D’Aumagne",
+   "region": "France"
+  },
+  {
+   "code": "C5",
+   "distillery": "Tiffon Cognac",
+   "region": "France"
+  },
+  {
+   "code": "C6",
+   "distillery": "M & H Bonneau",
+   "region": "France"
+  },
+  {
+   "code": "C7",
+   "distillery": "Guy Rateau",
+   "region": "France"
+  },
+  {
+   "code": "C8",
+   "distillery": "Marie C. Bodit",
+   "region": "France"
+  },
+  {
+   "code": "C9",
+   "distillery": "Robert Audebeau",
+   "region": "France"
+  },
+  {
+   "code": "CW1",
+   "distillery": "Heaven Hill Distillery",
+   "region": "Kentucky, USA"
+  },
+  {
+   "code": "CW2",
+   "distillery": "Balcones",
+   "region": "Texas, USA"
+  },
+  {
+   "code": "G1",
+   "distillery": "North British",
+   "region": "Lowland"
+  },
+  {
+   "code": "G2",
+   "distillery": "Carsebridge",
+   "region": "Lowland"
+  },
+  {
+   "code": "G3",
+   "distillery": "Caledonian",
+   "region": "Lowland"
+  },
+  {
+   "code": "G4",
+   "distillery": "Cameronbridge",
+   "region": "Lowland"
+  },
+  {
+   "code": "G5",
+   "distillery": "Invergordon",
+   "region": "Highland"
+  },
+  {
+   "code": "G6",
+   "distillery": "Port Dundas",
+   "region": "Lowland"
+  },
+  {
+   "code": "G7",
+   "distillery": "Girvan",
+   "region": "Lowland"
+  },
+  {
+   "code": "G8",
+   "distillery": "Cambus",
+   "region": "Lowland"
+  },
+  {
+   "code": "G9",
+   "distillery": "Loch Lomond",
+   "region": "Highland"
+  },
+  {
+   "code": "G10",
+   "distillery": "Strathclyde",
+   "region": "Lowland"
+  },
+  {
+   "code": "G11",
+   "distillery": "Nikka Coffey Grain",
+   "region": "Japan"
+  },
+  {
+   "code": "G12",
+   "distillery": "Nikka Coffey Malt",
+   "region": "Japan"
+  },
+  {
+   "code": "G13",
+   "distillery": "Chita",
+   "region": "Japan"
+  },
+  {
+   "code": "G14",
+   "distillery": "Dumbarton",
+   "region": "Lowland"
+  },
+  {
+   "code": "G15",
+   "distillery": "Loch Lomond (Rhosdhu)",
+   "region": "Highland"
+  },
+  {
+   "code": "G16",
+   "distillery": "Glasgow Distillery",
+   "region": "Lowland"
+  },
+  {
+   "code": "G17",
+   "distillery": "Starlaw",
+   "region": "Lowland"
+  },
+  {
+   "code": "GN1",
+   "distillery": "Glasgow Distillery Company",
+   "region": "Scotland"
+  },
+  {
+   "code": "GN2",
+   "distillery": "Strathearn Distillers",
+   "region": "Scotland"
+  },
+  {
+   "code": "GN3",
+   "distillery": "The Borders Distillery",
+   "region": "Scotland"
+  },
+  {
+   "code": "GN4",
+   "distillery": "Boatyard Distillery",
+   "region": "Northern Ireland"
+  },
+  {
+   "code": "GN5",
+   "distillery": "Glenrinnes",
+   "region": "Scotland"
+  },
+  {
+   "code": "GN6",
+   "distillery": "Holyrood Distillery",
+   "region": "Edinburgh, Scotland"
+  },
+  {
+   "code": "GN7",
+   "distillery": "Cotswolds",
+   "region": "England"
+  },
+  {
+   "code": "R1",
+   "distillery": "Monymusk",
+   "region": "Jamaica"
+  },
+  {
+   "code": "R2",
+   "distillery": "Demerara Distillers (El Dorado)",
+   "region": "Guyana"
+  },
+  {
+   "code": "R3",
+   "distillery": "West Indies Rum",
+   "region": "Barbados"
+  },
+  {
+   "code": "R4",
+   "distillery": "Trinidad Distillers (Angostura)",
+   "region": "Trinidad"
+  },
+  {
+   "code": "R5",
+   "distillery": "Long Pond",
+   "region": "Jamaica"
+  },
+  {
+   "code": "R6",
+   "distillery": "Foursquare",
+   "region": "Barbados"
+  },
+  {
+   "code": "R7",
+   "distillery": "Hampden",
+   "region": "Jamaica"
+  },
+  {
+   "code": "R8",
+   "distillery": "Compañía Licorera de Nicaragua (Flor de Caña)",
+   "region": "Nicaragua"
+  },
+  {
+   "code": "R9",
+   "distillery": "Varela Hermanos (Ron Abuelo)",
+   "region": "Panama"
+  },
+  {
+   "code": "R10",
+   "distillery": "Trinidad Distiller’s",
+   "region": "Trinidad"
+  },
+  {
+   "code": "R11",
+   "distillery": "Worthy Park",
+   "region": "Jamaica"
+  },
+  {
+   "code": "R12",
+   "distillery": "Travellers",
+   "region": "Belize"
+  },
+  {
+   "code": "R13",
+   "distillery": "Caroni",
+   "region": "Trinidad"
+  },
+  {
+   "code": "R14",
+   "distillery": "Uitvlugt",
+   "region": "Guyana"
+  },
+  {
+   "code": "RW1",
+   "distillery": "FEW Spirits",
+   "region": "Illinois, USA"
+  },
+  {
+   "code": "RW2",
+   "distillery": "Finger Lakes Distilling",
+   "region": "New York, USA"
+  },
+  {
+   "code": "RW3",
+   "distillery": "New York Distilling Co.",
+   "region": "New York, USA"
+  },
+  {
+   "code": "RW4",
+   "distillery": "Peerless Distillery",
+   "region": "Kentucky, USA"
+  },
+  {
+   "code": "RW5",
+   "distillery": "MGP",
+   "region": "Indiana, USA"
+  },
+  {
+   "code": "RW6",
+   "distillery": "Kyrö Distillery",
+   "region": "Finland"
+  },
+  {
+   "code": "RW7",
+   "distillery": "Journeyman Distillery",
+   "region": "Michigan, USA"
+  },
+  {
+   "code": "RW8",
+   "distillery": "Catoctin Creek Distilling Co.",
+   "region": "Virginia, USA"
+  },
+  {
+   "code": "RW9",
+   "distillery": "Wilderness Trail Distillery",
+   "region": "Kentucky, USA"
+  }
+ ]
+}

@@ -1,276 +1,278 @@
-# OUTTURN by Whine — SMWS distillery code lookup
+# OUTTURN by Whine - SMWS distillery code lookup
 
-> Independent, community-sourced reference that decodes Scotch Malt Whisky Society (SMWS) cask codes to their distillery and region, with this month's Outturn releases. Not affiliated with SMWS. Buy bottles or join the Society at https://smws.com
+> Independent, community-sourced reference that decodes Scotch Malt Whisky Society (SMWS) cask codes to their distillery and region, with the current Outturn releases. Not affiliated with SMWS. Buy bottles or join at https://smws.com
+
+Open data (CC BY 4.0): https://blairmilligan-eng.github.io/smws-outturn-site/data/smws-codes.json
 
 ## How SMWS codes work
 
-An SMWS code like 4.403 means distillery 4 (the number before the dot) and cask 403 (after the dot). SMWS does not print distillery names on its labels.
+An SMWS code like 4.403 means distillery 4 (before the dot) and cask 403 (after the dot). SMWS does not print distillery names on its labels.
 
-## This month's Outturn (Category 26)
+## Current Outturn (Category 26)
 
-- batch 42 "Highland peaty potion" — unknown distillery, 10y, 50% — https://smws.com/highland-peaty-potion/
-- Across the Spey Duo (multi-bottle bundle) — https://smws.com/across-the-spey-duo/
-- Smoke & Symphony Pair (multi-bottle bundle) — https://smws.com/smoke-symphony-pair/
-- 4.403 "An autolytic Orcadian" — Highland Park (Islands), 20y, 59.6% — https://smws.com/an-autolytic-orcadian/
-- 41.191 "Zingy stardust" — Dailuaine (Speyside), 13y, 57.2% — https://smws.com/zingy-stardust/
-- 44.200 "Masala dabba" — Craigellachie (Speyside), 10y, 58.4% — https://smws.com/masala-dabba/
-- 48.188 "Knickerbocker glory story" — Balmenach (Speyside), 8y, 56.9% — https://smws.com/knickerbocker-glory-story/
-- 50.124 "Vitality and maturity" — Bladnoch (Lowland), 7y, 59.4% — https://smws.com/vitality-and-maturity/
-- 53.532 "What’s not to like?" — Caol Ila (Islay), 11y, 58.8% — https://smws.com/what-s-not-to-like/
-- 58.65 "A roly-poly in the hay loft" — Strathisla (Speyside), 14y, 57% — https://smws.com/a-roly-poly-in-the-hay-loft/
-- 59.108 "Veritably vivacious" — Teaninich (Highland), 14y, 57.4% — https://smws.com/veritably-vivacious/
-- 64.177 "Taste of summer" — Mannochmore (Speyside), 9y, 48% — https://smws.com/taste-of-summer/
-- 68.141 "The cooper and the croze" — Blair Athol (Highland), 14y, 54.3% — https://smws.com/the-cooper-and-the-croze/
-- 76.166 "Anyone for cricket?" — Mortlach (Speyside), 20y, 50.9% — https://smws.com/anyone-for-cricket/
-- 78.101 "Apples dumped on hay bales" — Ben Nevis (Highland), 8y, 61.1% — https://smws.com/apples-dumped-on-hay-bales/
-- 100.54 "Breakfast aftershave" — Strathmill (Speyside), 14y, 56.7% — https://smws.com/breakfast-aftershave/
-- 149.23 "Beware the lurkin' gherkin" — Ardnamurchan (Highland), 10y, 64.3% — https://smws.com/beware-the-lurkin-gherkin/
-- 164.3 "Strawberry sweetshop implosion" — Penderyn (double distilled) (Wales), 7y, 59.8% — https://smws.com/strawberry-sweetshop-implosion/
-- B5.22 "The sweet trolley and the herb basket" — George Dickel (Cascade Hollow) (Tennessee, USA), 9y, 62.6% — https://smws.com/the-sweet-trolley-and-the-herb-basket/
+- batch 42 "Highland peaty potion" - unknown distillery - https://smws.com/highland-peaty-potion/
+- Across the Spey Duo (multi-bottle bundle) - https://smws.com/across-the-spey-duo/
+- Smoke & Symphony Pair (multi-bottle bundle) - https://smws.com/smoke-symphony-pair/
+- 4.403 "An autolytic Orcadian" - Highland Park (Islands) - https://smws.com/an-autolytic-orcadian/
+- 41.191 "Zingy stardust" - Dailuaine (Speyside) - https://smws.com/zingy-stardust/
+- 44.200 "Masala dabba" - Craigellachie (Speyside) - https://smws.com/masala-dabba/
+- 48.188 "Knickerbocker glory story" - Balmenach (Speyside) - https://smws.com/knickerbocker-glory-story/
+- 50.124 "Vitality and maturity" - Bladnoch (Lowland) - https://smws.com/vitality-and-maturity/
+- 53.532 "What’s not to like?" - Caol Ila (Islay) - https://smws.com/what-s-not-to-like/
+- 58.65 "A roly-poly in the hay loft" - Strathisla (Speyside) - https://smws.com/a-roly-poly-in-the-hay-loft/
+- 59.108 "Veritably vivacious" - Teaninich (Highland) - https://smws.com/veritably-vivacious/
+- 64.177 "Taste of summer" - Mannochmore (Speyside) - https://smws.com/taste-of-summer/
+- 68.141 "The cooper and the croze" - Blair Athol (Highland) - https://smws.com/the-cooper-and-the-croze/
+- 76.166 "Anyone for cricket?" - Mortlach (Speyside) - https://smws.com/anyone-for-cricket/
+- 78.101 "Apples dumped on hay bales" - Ben Nevis (Highland) - https://smws.com/apples-dumped-on-hay-bales/
+- 100.54 "Breakfast aftershave" - Strathmill (Speyside) - https://smws.com/breakfast-aftershave/
+- 149.23 "Beware the lurkin' gherkin" - Ardnamurchan (Highland) - https://smws.com/beware-the-lurkin-gherkin/
+- 164.3 "Strawberry sweetshop implosion" - Penderyn (double distilled) (Wales) - https://smws.com/strawberry-sweetshop-implosion/
+- B5.22 "The sweet trolley and the herb basket" - George Dickel (Cascade Hollow) (Tennessee, USA) - https://smws.com/the-sweet-trolley-and-the-herb-basket/
 
-## Full SMWS code -> distillery list
+## Every SMWS code -> distillery (with page URLs)
 
-- 1: Glenfarclas (Speyside)
-- 2: Glenlivet (Speyside)
-- 3: Bowmore (Islay)
-- 4: Highland Park (Islands)
-- 5: Auchentoshan (Lowland)
-- 6: Macduff (Highland)
-- 7: Longmorn (Speyside)
-- 8: Tamdhu (Speyside)
-- 9: Glen Grant (Speyside)
-- 10: Bunnahabhain (Islay)
-- 11: Tomatin (Highland)
-- 12: BenRiach (Speyside)
-- 13: Dalmore (Highland)
-- 14: Talisker (Islands)
-- 15: Glenfiddich (Speyside)
-- 16: Glenturret (Highland)
-- 17: Scapa (Islands)
-- 18: Inchgower (Speyside)
-- 19: Glen Garioch (Highland)
-- 20: Inverleven (Lowland)
-- 21: Glenglassaugh (Highland)
-- 22: Glenkinchie (Lowland)
-- 23: Bruichladdich (Islay)
-- 24: Macallan (Speyside)
-- 25: Rosebank (Lowland)
-- 26: Clynelish (Highland)
-- 27: Springbank (Campbeltown)
-- 28: Tullibardine (Highland)
-- 29: Laphroaig (Islay)
-- 30: Glenrothes (Speyside)
-- 31: Isle of Jura (Islands)
-- 32: Edradour (Highland)
-- 33: Ardbeg (Islay)
-- 34: Tamnavulin (Speyside)
-- 35: Glen Moray (Speyside)
-- 36: Benrinnes (Speyside)
-- 37: Cragganmore (Speyside)
-- 38: Caperdonich (Speyside)
-- 39: Linkwood (Speyside)
-- 40: Balvenie (Speyside)
-- 41: Dailuaine (Speyside)
-- 42: Tobermory (Islands)
-- 43: Port Ellen (Islay)
-- 44: Craigellachie (Speyside)
-- 45: Dallas Dhu (Speyside)
-- 46: Glenlossie (Speyside)
-- 47: Benromach (Speyside)
-- 48: Balmenach (Speyside)
-- 49: St. Magdalene (Lowland)
-- 50: Bladnoch (Lowland)
-- 51: Bushmills (Northern Ireland)
-- 52: Old Pulteney (Highland)
-- 53: Caol Ila (Islay)
-- 54: Aberlour (Speyside)
-- 55: Royal Brackla (Highland)
-- 56: Coleburn (Speyside)
-- 57: Glen Mhor (Highland)
-- 58: Strathisla (Speyside)
-- 59: Teaninich (Highland)
-- 60: Aberfeldy (Highland)
-- 61: Brora (Highland)
-- 62: Glenlochy (Highland)
-- 63: Glentauchers (Speyside)
-- 64: Mannochmore (Speyside)
-- 65: Imperial (Speyside)
-- 66: Ardmore (Highland)
-- 67: Banff (Speyside)
-- 68: Blair Athol (Highland)
-- 69: Glen Albyn (Highland)
-- 70: Balblair (Highland)
-- 71: Glenburgie (Speyside)
-- 72: Miltonduff (Speyside)
-- 73: Aultmore (Speyside)
-- 74: North Port (Highland)
-- 75: Glenury / Glenury Royal (Highland)
-- 76: Mortlach (Speyside)
-- 77: Glen Ord (Highland)
-- 78: Ben Nevis (Highland)
-- 79: Deanston (Highland)
-- 80: Glen Spey (Speyside)
-- 81: Glen Keith (Speyside)
-- 82: Glencadam (Highland)
-- 83: Convalmore (Speyside)
-- 84: Glendullan (Speyside)
-- 85: Glen Elgin (Speyside)
-- 86: Glenesk (Highland)
-- 87: Millburn (Highland)
-- 88: Speyburn (Speyside)
-- 89: Tomintoul (Speyside)
-- 90: Pittyvaich (Speyside)
-- 91: Dufftown (Speyside)
-- 92: Lochside (Highland)
-- 93: Glen Scotia (Campbeltown)
-- 94: Fettercairn (Highland)
-- 95: Auchroisk (Speyside)
-- 96: GlenDronach (Highland)
-- 97: Littlemill (Lowland)
-- 98: Inverleven (Lowland)
-- 99: Glenugie (Highland)
-- 100: Strathmill (Speyside)
-- 101: Knockando (Speyside)
-- 102: Dalwhinnie (Highland)
-- 103: Royal Lochnagar (Highland)
-- 104: Glenburgie (Glencraig) (Speyside)
-- 105: Tormore (Speyside)
-- 106: Cardhu (Speyside)
-- 107: Glenallachie (Speyside)
-- 108: Allt-a-Bhainne (Speyside)
-- 109: Miltonduff (Mosstowie) (Speyside)
-- 110: Oban (Highland)
-- 111: Lagavulin (Islay)
-- 112: Loch Lomond (Inchmurrin / Inchmoan) (Highland)
-- 113: Braeval (Braes of Glenlivet) (Speyside)
-- 114: Springbank (Longrow) (Campbeltown)
-- 115: Knockdhu (AnCnoc) (Speyside)
-- 116: Yoichi (Japan)
-- 117: Cooley (Unpeated) (Ireland)
-- 118: Cooley / Connemara (Peated) (Ireland)
-- 119: Yamazaki (Japan)
-- 120: Hakushu (Japan)
-- 121: Isle of Arran (Islands)
-- 122: Loch Lomond (Croftengea) (Highland)
-- 123: Glengoyne (Highland)
-- 124: Miyagikyo (Japan)
-- 125: Glenmorangie (Highland)
-- 126: Springbank (Hazelburn) (Campbeltown)
-- 127: Bruichladdich (Port Charlotte) (Islay)
-- 128: Penderyn (Wales)
-- 129: Kilchoman (Islay)
-- 130: Chichibu (Japan)
-- 131: Hanyu (Japan)
-- 132: Karuizawa (Japan)
-- 133: Westland (Washington, USA)
-- 134: Paul John (India)
-- 135: Loch Lomond (Highland)
-- 136: Eden Mill (Lowland)
-- 137: St. George’s (The English Whisky Co.) (England)
-- 138: Nantou (Taiwan)
-- 139: Kavalan (Taiwan)
-- 140: Balcones (Texas, USA)
-- 141: Fary Lochan (Denmark)
-- 142: Breuckelen Distilling (New York, USA)
-- 143: Copperworks Distilling Co. (Washington, USA)
-- 144: High Coast Distillery (Sweden)
-- 145: Smögen Whisky (Sweden)
-- 146: Cotswolds (England)
-- 147: Archie Rose (Australia)
-- 148: Starward (Australia)
-- 149: Ardnamurchan (Highland)
-- 150: West Cork Distillers (Ireland)
-- 151: Mackmyra (Sweden)
-- 152: Shelter Point (Canada)
-- 153: Thy Whisky (Denmark)
-- 154: Mosgaard Whisky (Denmark)
-- 155: Milk & Honey Distillery (Israel)
-- 156: Glasgow Distillery (Lowland)
-- 157: Distillerie de Warenghem (France)
-- 158: Yuza Distillery (Japan)
-- 159: Mars Shinshu (Japan)
-- 160: Mars Tsunuki (Japan)
-- 161: Nc'nean Distillery (Scotland)
-- 162: Isle of Raasay (Scotland)
-- 163: Isle of Harris Distillery (Scotland)
-- 164: Penderyn (double distilled) (Wales)
-- 165: Wolfburn (peated) (Scotland)
-- 166: Torabhaig Distillery (Scotland)
-- 167: Clydeside Distillery (Scotland)
-- 168: InchDairnie Distillery (KinGlassie) (Scotland)
-- A1: Chateau de Lacaze (France)
-- A2: Domaine Laguille (France)
-- A3: J. Goudoulin (Veuve Goudoulin) (France)
-- A4: Domaine d’Espérance (France)
-- A5: Chateau de Laubade (France)
-- A6: Domaine Lasalle (France)
-- A7: Domaine Lasalle (France)
-- A8: Domaine de Cavaillon (France)
-- A9: Domaine de Saurine (France)
-- B1: Heaven Hill (Kentucky, USA)
-- B2: New Bernheim (Kentucky, USA)
-- B3: Rock Town (Arkansas, USA)
-- B4: FEW Spirits (Illinois, USA)
-- B5: George Dickel (Cascade Hollow) (Tennessee, USA)
-- B6: Finger Lakes Distilling (New York, USA)
-- B7: MGP (Midwest Grain Products) (Indiana, USA)
-- B8: Woodinville Whiskey Co. (Washington, USA)
-- B9: Wilderness Trail Distillery (Kentucky, USA)
-- C1: Camus (France)
-- C2: Domaine de Chez Guérive (France)
-- C3: Louis Royer (France)
-- C4: Distillery D’Aumagne (France)
-- C5: Tiffon Cognac (France)
-- C6: M & H Bonneau (France)
-- C7: Guy Rateau (France)
-- C8: Marie C. Bodit (France)
-- C9: Robert Audebeau (France)
-- CW1: Heaven Hill Distillery (Kentucky, USA)
-- CW2: Balcones (Texas, USA)
-- G1: North British (Lowland)
-- G2: Carsebridge (Lowland)
-- G3: Caledonian (Lowland)
-- G4: Cameronbridge (Lowland)
-- G5: Invergordon (Highland)
-- G6: Port Dundas (Lowland)
-- G7: Girvan (Lowland)
-- G8: Cambus (Lowland)
-- G9: Loch Lomond (Highland)
-- G10: Strathclyde (Lowland)
-- G11: Nikka Coffey Grain (Japan)
-- G12: Nikka Coffey Malt (Japan)
-- G13: Chita (Japan)
-- G14: Dumbarton (Lowland)
-- G15: Loch Lomond (Rhosdhu) (Highland)
-- G16: Glasgow Distillery (Lowland)
-- G17: Starlaw (Lowland)
-- GN1: Glasgow Distillery Company (Scotland)
-- GN2: Strathearn Distillers (Scotland)
-- GN3: The Borders Distillery (Scotland)
-- GN4: Boatyard Distillery (Northern Ireland)
-- GN5: Glenrinnes (Scotland)
-- GN6: Holyrood Distillery (Edinburgh, Scotland)
-- GN7: Cotswolds (England)
-- R1: Monymusk (Jamaica)
-- R2: Demerara Distillers (El Dorado) (Guyana)
-- R3: West Indies Rum (Barbados)
-- R4: Trinidad Distillers (Angostura) (Trinidad)
-- R5: Long Pond (Jamaica)
-- R6: Foursquare (Barbados)
-- R7: Hampden (Jamaica)
-- R8: Compañía Licorera de Nicaragua (Flor de Caña) (Nicaragua)
-- R9: Varela Hermanos (Ron Abuelo) (Panama)
-- R10: Trinidad Distiller’s (Trinidad)
-- R11: Worthy Park (Jamaica)
-- R12: Travellers (Belize)
-- R13: Caroni (Trinidad)
-- R14: Uitvlugt (Guyana)
-- RW1: FEW Spirits (Illinois, USA)
-- RW2: Finger Lakes Distilling (New York, USA)
-- RW3: New York Distilling Co. (New York, USA)
-- RW4: Peerless Distillery (Kentucky, USA)
-- RW5: MGP (Indiana, USA)
-- RW6: Kyrö Distillery (Finland)
-- RW7: Journeyman Distillery (Michigan, USA)
-- RW8: Catoctin Creek Distilling Co. (Virginia, USA)
-- RW9: Wilderness Trail Distillery (Kentucky, USA)
+- 1: Glenfarclas (Speyside) - https://blairmilligan-eng.github.io/smws-outturn-site/code/1/
+- 2: Glenlivet (Speyside) - https://blairmilligan-eng.github.io/smws-outturn-site/code/2/
+- 3: Bowmore (Islay) - https://blairmilligan-eng.github.io/smws-outturn-site/code/3/
+- 4: Highland Park (Islands) - https://blairmilligan-eng.github.io/smws-outturn-site/code/4/
+- 5: Auchentoshan (Lowland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/5/
+- 6: Macduff (Highland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/6/
+- 7: Longmorn (Speyside) - https://blairmilligan-eng.github.io/smws-outturn-site/code/7/
+- 8: Tamdhu (Speyside) - https://blairmilligan-eng.github.io/smws-outturn-site/code/8/
+- 9: Glen Grant (Speyside) - https://blairmilligan-eng.github.io/smws-outturn-site/code/9/
+- 10: Bunnahabhain (Islay) - https://blairmilligan-eng.github.io/smws-outturn-site/code/10/
+- 11: Tomatin (Highland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/11/
+- 12: BenRiach (Speyside) - https://blairmilligan-eng.github.io/smws-outturn-site/code/12/
+- 13: Dalmore (Highland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/13/
+- 14: Talisker (Islands) - https://blairmilligan-eng.github.io/smws-outturn-site/code/14/
+- 15: Glenfiddich (Speyside) - https://blairmilligan-eng.github.io/smws-outturn-site/code/15/
+- 16: Glenturret (Highland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/16/
+- 17: Scapa (Islands) - https://blairmilligan-eng.github.io/smws-outturn-site/code/17/
+- 18: Inchgower (Speyside) - https://blairmilligan-eng.github.io/smws-outturn-site/code/18/
+- 19: Glen Garioch (Highland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/19/
+- 20: Inverleven (Lowland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/20/
+- 21: Glenglassaugh (Highland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/21/
+- 22: Glenkinchie (Lowland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/22/
+- 23: Bruichladdich (Islay) - https://blairmilligan-eng.github.io/smws-outturn-site/code/23/
+- 24: Macallan (Speyside) - https://blairmilligan-eng.github.io/smws-outturn-site/code/24/
+- 25: Rosebank (Lowland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/25/
+- 26: Clynelish (Highland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/26/
+- 27: Springbank (Campbeltown) - https://blairmilligan-eng.github.io/smws-outturn-site/code/27/
+- 28: Tullibardine (Highland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/28/
+- 29: Laphroaig (Islay) - https://blairmilligan-eng.github.io/smws-outturn-site/code/29/
+- 30: Glenrothes (Speyside) - https://blairmilligan-eng.github.io/smws-outturn-site/code/30/
+- 31: Isle of Jura (Islands) - https://blairmilligan-eng.github.io/smws-outturn-site/code/31/
+- 32: Edradour (Highland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/32/
+- 33: Ardbeg (Islay) - https://blairmilligan-eng.github.io/smws-outturn-site/code/33/
+- 34: Tamnavulin (Speyside) - https://blairmilligan-eng.github.io/smws-outturn-site/code/34/
+- 35: Glen Moray (Speyside) - https://blairmilligan-eng.github.io/smws-outturn-site/code/35/
+- 36: Benrinnes (Speyside) - https://blairmilligan-eng.github.io/smws-outturn-site/code/36/
+- 37: Cragganmore (Speyside) - https://blairmilligan-eng.github.io/smws-outturn-site/code/37/
+- 38: Caperdonich (Speyside) - https://blairmilligan-eng.github.io/smws-outturn-site/code/38/
+- 39: Linkwood (Speyside) - https://blairmilligan-eng.github.io/smws-outturn-site/code/39/
+- 40: Balvenie (Speyside) - https://blairmilligan-eng.github.io/smws-outturn-site/code/40/
+- 41: Dailuaine (Speyside) - https://blairmilligan-eng.github.io/smws-outturn-site/code/41/
+- 42: Tobermory (Islands) - https://blairmilligan-eng.github.io/smws-outturn-site/code/42/
+- 43: Port Ellen (Islay) - https://blairmilligan-eng.github.io/smws-outturn-site/code/43/
+- 44: Craigellachie (Speyside) - https://blairmilligan-eng.github.io/smws-outturn-site/code/44/
+- 45: Dallas Dhu (Speyside) - https://blairmilligan-eng.github.io/smws-outturn-site/code/45/
+- 46: Glenlossie (Speyside) - https://blairmilligan-eng.github.io/smws-outturn-site/code/46/
+- 47: Benromach (Speyside) - https://blairmilligan-eng.github.io/smws-outturn-site/code/47/
+- 48: Balmenach (Speyside) - https://blairmilligan-eng.github.io/smws-outturn-site/code/48/
+- 49: St. Magdalene (Lowland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/49/
+- 50: Bladnoch (Lowland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/50/
+- 51: Bushmills (Northern Ireland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/51/
+- 52: Old Pulteney (Highland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/52/
+- 53: Caol Ila (Islay) - https://blairmilligan-eng.github.io/smws-outturn-site/code/53/
+- 54: Aberlour (Speyside) - https://blairmilligan-eng.github.io/smws-outturn-site/code/54/
+- 55: Royal Brackla (Highland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/55/
+- 56: Coleburn (Speyside) - https://blairmilligan-eng.github.io/smws-outturn-site/code/56/
+- 57: Glen Mhor (Highland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/57/
+- 58: Strathisla (Speyside) - https://blairmilligan-eng.github.io/smws-outturn-site/code/58/
+- 59: Teaninich (Highland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/59/
+- 60: Aberfeldy (Highland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/60/
+- 61: Brora (Highland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/61/
+- 62: Glenlochy (Highland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/62/
+- 63: Glentauchers (Speyside) - https://blairmilligan-eng.github.io/smws-outturn-site/code/63/
+- 64: Mannochmore (Speyside) - https://blairmilligan-eng.github.io/smws-outturn-site/code/64/
+- 65: Imperial (Speyside) - https://blairmilligan-eng.github.io/smws-outturn-site/code/65/
+- 66: Ardmore (Highland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/66/
+- 67: Banff (Speyside) - https://blairmilligan-eng.github.io/smws-outturn-site/code/67/
+- 68: Blair Athol (Highland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/68/
+- 69: Glen Albyn (Highland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/69/
+- 70: Balblair (Highland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/70/
+- 71: Glenburgie (Speyside) - https://blairmilligan-eng.github.io/smws-outturn-site/code/71/
+- 72: Miltonduff (Speyside) - https://blairmilligan-eng.github.io/smws-outturn-site/code/72/
+- 73: Aultmore (Speyside) - https://blairmilligan-eng.github.io/smws-outturn-site/code/73/
+- 74: North Port (Highland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/74/
+- 75: Glenury / Glenury Royal (Highland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/75/
+- 76: Mortlach (Speyside) - https://blairmilligan-eng.github.io/smws-outturn-site/code/76/
+- 77: Glen Ord (Highland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/77/
+- 78: Ben Nevis (Highland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/78/
+- 79: Deanston (Highland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/79/
+- 80: Glen Spey (Speyside) - https://blairmilligan-eng.github.io/smws-outturn-site/code/80/
+- 81: Glen Keith (Speyside) - https://blairmilligan-eng.github.io/smws-outturn-site/code/81/
+- 82: Glencadam (Highland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/82/
+- 83: Convalmore (Speyside) - https://blairmilligan-eng.github.io/smws-outturn-site/code/83/
+- 84: Glendullan (Speyside) - https://blairmilligan-eng.github.io/smws-outturn-site/code/84/
+- 85: Glen Elgin (Speyside) - https://blairmilligan-eng.github.io/smws-outturn-site/code/85/
+- 86: Glenesk (Highland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/86/
+- 87: Millburn (Highland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/87/
+- 88: Speyburn (Speyside) - https://blairmilligan-eng.github.io/smws-outturn-site/code/88/
+- 89: Tomintoul (Speyside) - https://blairmilligan-eng.github.io/smws-outturn-site/code/89/
+- 90: Pittyvaich (Speyside) - https://blairmilligan-eng.github.io/smws-outturn-site/code/90/
+- 91: Dufftown (Speyside) - https://blairmilligan-eng.github.io/smws-outturn-site/code/91/
+- 92: Lochside (Highland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/92/
+- 93: Glen Scotia (Campbeltown) - https://blairmilligan-eng.github.io/smws-outturn-site/code/93/
+- 94: Fettercairn (Highland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/94/
+- 95: Auchroisk (Speyside) - https://blairmilligan-eng.github.io/smws-outturn-site/code/95/
+- 96: GlenDronach (Highland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/96/
+- 97: Littlemill (Lowland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/97/
+- 98: Inverleven (Lowland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/98/
+- 99: Glenugie (Highland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/99/
+- 100: Strathmill (Speyside) - https://blairmilligan-eng.github.io/smws-outturn-site/code/100/
+- 101: Knockando (Speyside) - https://blairmilligan-eng.github.io/smws-outturn-site/code/101/
+- 102: Dalwhinnie (Highland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/102/
+- 103: Royal Lochnagar (Highland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/103/
+- 104: Glenburgie (Glencraig) (Speyside) - https://blairmilligan-eng.github.io/smws-outturn-site/code/104/
+- 105: Tormore (Speyside) - https://blairmilligan-eng.github.io/smws-outturn-site/code/105/
+- 106: Cardhu (Speyside) - https://blairmilligan-eng.github.io/smws-outturn-site/code/106/
+- 107: Glenallachie (Speyside) - https://blairmilligan-eng.github.io/smws-outturn-site/code/107/
+- 108: Allt-a-Bhainne (Speyside) - https://blairmilligan-eng.github.io/smws-outturn-site/code/108/
+- 109: Miltonduff (Mosstowie) (Speyside) - https://blairmilligan-eng.github.io/smws-outturn-site/code/109/
+- 110: Oban (Highland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/110/
+- 111: Lagavulin (Islay) - https://blairmilligan-eng.github.io/smws-outturn-site/code/111/
+- 112: Loch Lomond (Inchmurrin / Inchmoan) (Highland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/112/
+- 113: Braeval (Braes of Glenlivet) (Speyside) - https://blairmilligan-eng.github.io/smws-outturn-site/code/113/
+- 114: Springbank (Longrow) (Campbeltown) - https://blairmilligan-eng.github.io/smws-outturn-site/code/114/
+- 115: Knockdhu (AnCnoc) (Speyside) - https://blairmilligan-eng.github.io/smws-outturn-site/code/115/
+- 116: Yoichi (Japan) - https://blairmilligan-eng.github.io/smws-outturn-site/code/116/
+- 117: Cooley (Unpeated) (Ireland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/117/
+- 118: Cooley / Connemara (Peated) (Ireland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/118/
+- 119: Yamazaki (Japan) - https://blairmilligan-eng.github.io/smws-outturn-site/code/119/
+- 120: Hakushu (Japan) - https://blairmilligan-eng.github.io/smws-outturn-site/code/120/
+- 121: Isle of Arran (Islands) - https://blairmilligan-eng.github.io/smws-outturn-site/code/121/
+- 122: Loch Lomond (Croftengea) (Highland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/122/
+- 123: Glengoyne (Highland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/123/
+- 124: Miyagikyo (Japan) - https://blairmilligan-eng.github.io/smws-outturn-site/code/124/
+- 125: Glenmorangie (Highland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/125/
+- 126: Springbank (Hazelburn) (Campbeltown) - https://blairmilligan-eng.github.io/smws-outturn-site/code/126/
+- 127: Bruichladdich (Port Charlotte) (Islay) - https://blairmilligan-eng.github.io/smws-outturn-site/code/127/
+- 128: Penderyn (Wales) - https://blairmilligan-eng.github.io/smws-outturn-site/code/128/
+- 129: Kilchoman (Islay) - https://blairmilligan-eng.github.io/smws-outturn-site/code/129/
+- 130: Chichibu (Japan) - https://blairmilligan-eng.github.io/smws-outturn-site/code/130/
+- 131: Hanyu (Japan) - https://blairmilligan-eng.github.io/smws-outturn-site/code/131/
+- 132: Karuizawa (Japan) - https://blairmilligan-eng.github.io/smws-outturn-site/code/132/
+- 133: Westland (Washington, USA) - https://blairmilligan-eng.github.io/smws-outturn-site/code/133/
+- 134: Paul John (India) - https://blairmilligan-eng.github.io/smws-outturn-site/code/134/
+- 135: Loch Lomond (Highland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/135/
+- 136: Eden Mill (Lowland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/136/
+- 137: St. George’s (The English Whisky Co.) (England) - https://blairmilligan-eng.github.io/smws-outturn-site/code/137/
+- 138: Nantou (Taiwan) - https://blairmilligan-eng.github.io/smws-outturn-site/code/138/
+- 139: Kavalan (Taiwan) - https://blairmilligan-eng.github.io/smws-outturn-site/code/139/
+- 140: Balcones (Texas, USA) - https://blairmilligan-eng.github.io/smws-outturn-site/code/140/
+- 141: Fary Lochan (Denmark) - https://blairmilligan-eng.github.io/smws-outturn-site/code/141/
+- 142: Breuckelen Distilling (New York, USA) - https://blairmilligan-eng.github.io/smws-outturn-site/code/142/
+- 143: Copperworks Distilling Co. (Washington, USA) - https://blairmilligan-eng.github.io/smws-outturn-site/code/143/
+- 144: High Coast Distillery (Sweden) - https://blairmilligan-eng.github.io/smws-outturn-site/code/144/
+- 145: Smögen Whisky (Sweden) - https://blairmilligan-eng.github.io/smws-outturn-site/code/145/
+- 146: Cotswolds (England) - https://blairmilligan-eng.github.io/smws-outturn-site/code/146/
+- 147: Archie Rose (Australia) - https://blairmilligan-eng.github.io/smws-outturn-site/code/147/
+- 148: Starward (Australia) - https://blairmilligan-eng.github.io/smws-outturn-site/code/148/
+- 149: Ardnamurchan (Highland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/149/
+- 150: West Cork Distillers (Ireland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/150/
+- 151: Mackmyra (Sweden) - https://blairmilligan-eng.github.io/smws-outturn-site/code/151/
+- 152: Shelter Point (Canada) - https://blairmilligan-eng.github.io/smws-outturn-site/code/152/
+- 153: Thy Whisky (Denmark) - https://blairmilligan-eng.github.io/smws-outturn-site/code/153/
+- 154: Mosgaard Whisky (Denmark) - https://blairmilligan-eng.github.io/smws-outturn-site/code/154/
+- 155: Milk & Honey Distillery (Israel) - https://blairmilligan-eng.github.io/smws-outturn-site/code/155/
+- 156: Glasgow Distillery (Lowland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/156/
+- 157: Distillerie de Warenghem (France) - https://blairmilligan-eng.github.io/smws-outturn-site/code/157/
+- 158: Yuza Distillery (Japan) - https://blairmilligan-eng.github.io/smws-outturn-site/code/158/
+- 159: Mars Shinshu (Japan) - https://blairmilligan-eng.github.io/smws-outturn-site/code/159/
+- 160: Mars Tsunuki (Japan) - https://blairmilligan-eng.github.io/smws-outturn-site/code/160/
+- 161: Nc'nean Distillery (Scotland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/161/
+- 162: Isle of Raasay (Scotland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/162/
+- 163: Isle of Harris Distillery (Scotland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/163/
+- 164: Penderyn (double distilled) (Wales) - https://blairmilligan-eng.github.io/smws-outturn-site/code/164/
+- 165: Wolfburn (peated) (Scotland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/165/
+- 166: Torabhaig Distillery (Scotland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/166/
+- 167: Clydeside Distillery (Scotland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/167/
+- 168: InchDairnie Distillery (KinGlassie) (Scotland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/168/
+- A1: Chateau de Lacaze (France) - https://blairmilligan-eng.github.io/smws-outturn-site/code/A1/
+- A2: Domaine Laguille (France) - https://blairmilligan-eng.github.io/smws-outturn-site/code/A2/
+- A3: J. Goudoulin (Veuve Goudoulin) (France) - https://blairmilligan-eng.github.io/smws-outturn-site/code/A3/
+- A4: Domaine d’Espérance (France) - https://blairmilligan-eng.github.io/smws-outturn-site/code/A4/
+- A5: Chateau de Laubade (France) - https://blairmilligan-eng.github.io/smws-outturn-site/code/A5/
+- A6: Domaine Lasalle (France) - https://blairmilligan-eng.github.io/smws-outturn-site/code/A6/
+- A7: Domaine Lasalle (France) - https://blairmilligan-eng.github.io/smws-outturn-site/code/A7/
+- A8: Domaine de Cavaillon (France) - https://blairmilligan-eng.github.io/smws-outturn-site/code/A8/
+- A9: Domaine de Saurine (France) - https://blairmilligan-eng.github.io/smws-outturn-site/code/A9/
+- B1: Heaven Hill (Kentucky, USA) - https://blairmilligan-eng.github.io/smws-outturn-site/code/B1/
+- B2: New Bernheim (Kentucky, USA) - https://blairmilligan-eng.github.io/smws-outturn-site/code/B2/
+- B3: Rock Town (Arkansas, USA) - https://blairmilligan-eng.github.io/smws-outturn-site/code/B3/
+- B4: FEW Spirits (Illinois, USA) - https://blairmilligan-eng.github.io/smws-outturn-site/code/B4/
+- B5: George Dickel (Cascade Hollow) (Tennessee, USA) - https://blairmilligan-eng.github.io/smws-outturn-site/code/B5/
+- B6: Finger Lakes Distilling (New York, USA) - https://blairmilligan-eng.github.io/smws-outturn-site/code/B6/
+- B7: MGP (Midwest Grain Products) (Indiana, USA) - https://blairmilligan-eng.github.io/smws-outturn-site/code/B7/
+- B8: Woodinville Whiskey Co. (Washington, USA) - https://blairmilligan-eng.github.io/smws-outturn-site/code/B8/
+- B9: Wilderness Trail Distillery (Kentucky, USA) - https://blairmilligan-eng.github.io/smws-outturn-site/code/B9/
+- C1: Camus (France) - https://blairmilligan-eng.github.io/smws-outturn-site/code/C1/
+- C2: Domaine de Chez Guérive (France) - https://blairmilligan-eng.github.io/smws-outturn-site/code/C2/
+- C3: Louis Royer (France) - https://blairmilligan-eng.github.io/smws-outturn-site/code/C3/
+- C4: Distillery D’Aumagne (France) - https://blairmilligan-eng.github.io/smws-outturn-site/code/C4/
+- C5: Tiffon Cognac (France) - https://blairmilligan-eng.github.io/smws-outturn-site/code/C5/
+- C6: M & H Bonneau (France) - https://blairmilligan-eng.github.io/smws-outturn-site/code/C6/
+- C7: Guy Rateau (France) - https://blairmilligan-eng.github.io/smws-outturn-site/code/C7/
+- C8: Marie C. Bodit (France) - https://blairmilligan-eng.github.io/smws-outturn-site/code/C8/
+- C9: Robert Audebeau (France) - https://blairmilligan-eng.github.io/smws-outturn-site/code/C9/
+- CW1: Heaven Hill Distillery (Kentucky, USA) - https://blairmilligan-eng.github.io/smws-outturn-site/code/CW1/
+- CW2: Balcones (Texas, USA) - https://blairmilligan-eng.github.io/smws-outturn-site/code/CW2/
+- G1: North British (Lowland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/G1/
+- G2: Carsebridge (Lowland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/G2/
+- G3: Caledonian (Lowland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/G3/
+- G4: Cameronbridge (Lowland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/G4/
+- G5: Invergordon (Highland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/G5/
+- G6: Port Dundas (Lowland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/G6/
+- G7: Girvan (Lowland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/G7/
+- G8: Cambus (Lowland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/G8/
+- G9: Loch Lomond (Highland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/G9/
+- G10: Strathclyde (Lowland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/G10/
+- G11: Nikka Coffey Grain (Japan) - https://blairmilligan-eng.github.io/smws-outturn-site/code/G11/
+- G12: Nikka Coffey Malt (Japan) - https://blairmilligan-eng.github.io/smws-outturn-site/code/G12/
+- G13: Chita (Japan) - https://blairmilligan-eng.github.io/smws-outturn-site/code/G13/
+- G14: Dumbarton (Lowland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/G14/
+- G15: Loch Lomond (Rhosdhu) (Highland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/G15/
+- G16: Glasgow Distillery (Lowland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/G16/
+- G17: Starlaw (Lowland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/G17/
+- GN1: Glasgow Distillery Company (Scotland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/GN1/
+- GN2: Strathearn Distillers (Scotland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/GN2/
+- GN3: The Borders Distillery (Scotland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/GN3/
+- GN4: Boatyard Distillery (Northern Ireland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/GN4/
+- GN5: Glenrinnes (Scotland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/GN5/
+- GN6: Holyrood Distillery (Edinburgh, Scotland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/GN6/
+- GN7: Cotswolds (England) - https://blairmilligan-eng.github.io/smws-outturn-site/code/GN7/
+- R1: Monymusk (Jamaica) - https://blairmilligan-eng.github.io/smws-outturn-site/code/R1/
+- R2: Demerara Distillers (El Dorado) (Guyana) - https://blairmilligan-eng.github.io/smws-outturn-site/code/R2/
+- R3: West Indies Rum (Barbados) - https://blairmilligan-eng.github.io/smws-outturn-site/code/R3/
+- R4: Trinidad Distillers (Angostura) (Trinidad) - https://blairmilligan-eng.github.io/smws-outturn-site/code/R4/
+- R5: Long Pond (Jamaica) - https://blairmilligan-eng.github.io/smws-outturn-site/code/R5/
+- R6: Foursquare (Barbados) - https://blairmilligan-eng.github.io/smws-outturn-site/code/R6/
+- R7: Hampden (Jamaica) - https://blairmilligan-eng.github.io/smws-outturn-site/code/R7/
+- R8: Compañía Licorera de Nicaragua (Flor de Caña) (Nicaragua) - https://blairmilligan-eng.github.io/smws-outturn-site/code/R8/
+- R9: Varela Hermanos (Ron Abuelo) (Panama) - https://blairmilligan-eng.github.io/smws-outturn-site/code/R9/
+- R10: Trinidad Distiller’s (Trinidad) - https://blairmilligan-eng.github.io/smws-outturn-site/code/R10/
+- R11: Worthy Park (Jamaica) - https://blairmilligan-eng.github.io/smws-outturn-site/code/R11/
+- R12: Travellers (Belize) - https://blairmilligan-eng.github.io/smws-outturn-site/code/R12/
+- R13: Caroni (Trinidad) - https://blairmilligan-eng.github.io/smws-outturn-site/code/R13/
+- R14: Uitvlugt (Guyana) - https://blairmilligan-eng.github.io/smws-outturn-site/code/R14/
+- RW1: FEW Spirits (Illinois, USA) - https://blairmilligan-eng.github.io/smws-outturn-site/code/RW1/
+- RW2: Finger Lakes Distilling (New York, USA) - https://blairmilligan-eng.github.io/smws-outturn-site/code/RW2/
+- RW3: New York Distilling Co. (New York, USA) - https://blairmilligan-eng.github.io/smws-outturn-site/code/RW3/
+- RW4: Peerless Distillery (Kentucky, USA) - https://blairmilligan-eng.github.io/smws-outturn-site/code/RW4/
+- RW5: MGP (Indiana, USA) - https://blairmilligan-eng.github.io/smws-outturn-site/code/RW5/
+- RW6: Kyrö Distillery (Finland) - https://blairmilligan-eng.github.io/smws-outturn-site/code/RW6/
+- RW7: Journeyman Distillery (Michigan, USA) - https://blairmilligan-eng.github.io/smws-outturn-site/code/RW7/
+- RW8: Catoctin Creek Distilling Co. (Virginia, USA) - https://blairmilligan-eng.github.io/smws-outturn-site/code/RW8/
+- RW9: Wilderness Trail Distillery (Kentucky, USA) - https://blairmilligan-eng.github.io/smws-outturn-site/code/RW9/
