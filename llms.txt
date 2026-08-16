@@ -1,4 +1,4 @@
-# OUTTURN by Whine - SMWS distillery code lookup
+# Cask Code - SMWS distillery code lookup
 
 > Independent, community-sourced reference that decodes Scotch Malt Whisky Society (SMWS) cask codes to their distillery and region, with the current Outturn releases. Not affiliated with SMWS. Buy bottles or join at https://smws.com
 

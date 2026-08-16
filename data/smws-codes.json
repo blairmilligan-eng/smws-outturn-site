@@ -1,1228 +1,2938 @@
 {
+ "version": "1.1",
  "license": "CC BY 4.0",
  "license_url": "https://creativecommons.org/licenses/by/4.0/",
- "source": "OUTTURN by Whine",
- "updated": "2026-08-15",
+ "source": "Cask Code",
+ "source_url": "https://caskcode.co.uk/",
+ "updated": "2026-08-16",
  "codes": [
   {
    "code": "1",
    "distillery": "Glenfarclas",
-   "region": "Speyside"
+   "region": "Speyside",
+   "status": "operational",
+   "founded": 1836,
+   "closed": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Glenfarclas_distillery",
+   "wikidata": "Q652203",
+   "confidence": "confirmed",
+   "last_verified": "2026-08-16"
   },
   {
    "code": "2",
    "distillery": "Glenlivet",
-   "region": "Speyside"
+   "region": "Speyside",
+   "status": "operational",
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": "Q17826862",
+   "confidence": "unconfirmed",
+   "last_verified": "2026-08-16"
   },
   {
    "code": "3",
    "distillery": "Bowmore",
-   "region": "Islay"
+   "region": "Islay",
+   "status": "operational",
+   "founded": 1779,
+   "closed": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Bowmore_distillery",
+   "wikidata": "Q51905",
+   "confidence": "confirmed",
+   "last_verified": "2026-08-16"
   },
   {
    "code": "4",
    "distillery": "Highland Park",
-   "region": "Islands"
+   "region": "Islands",
+   "status": "operational",
+   "founded": 1788,
+   "closed": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Highland_Park_distillery",
+   "wikidata": "Q982844",
+   "confidence": "confirmed",
+   "last_verified": "2026-08-16"
   },
   {
    "code": "5",
    "distillery": "Auchentoshan",
-   "region": "Lowland"
+   "region": "Lowland",
+   "status": "operational",
+   "founded": 1823,
+   "closed": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Auchentoshan_distillery",
+   "wikidata": "Q758604",
+   "confidence": "confirmed",
+   "last_verified": "2026-08-16"
   },
   {
    "code": "6",
    "distillery": "Macduff",
-   "region": "Highland"
+   "region": "Highland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "7",
    "distillery": "Longmorn",
-   "region": "Speyside"
+   "region": "Speyside",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "8",
    "distillery": "Tamdhu",
-   "region": "Speyside"
+   "region": "Speyside",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "9",
    "distillery": "Glen Grant",
-   "region": "Speyside"
+   "region": "Speyside",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "10",
    "distillery": "Bunnahabhain",
-   "region": "Islay"
+   "region": "Islay",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "11",
    "distillery": "Tomatin",
-   "region": "Highland"
+   "region": "Highland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "12",
    "distillery": "BenRiach",
-   "region": "Speyside"
+   "region": "Speyside",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "13",
    "distillery": "Dalmore",
-   "region": "Highland"
+   "region": "Highland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "14",
    "distillery": "Talisker",
-   "region": "Islands"
+   "region": "Islands",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "15",
    "distillery": "Glenfiddich",
-   "region": "Speyside"
+   "region": "Speyside",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "16",
    "distillery": "Glenturret",
-   "region": "Highland"
+   "region": "Highland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "17",
    "distillery": "Scapa",
-   "region": "Islands"
+   "region": "Islands",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "18",
    "distillery": "Inchgower",
-   "region": "Speyside"
+   "region": "Speyside",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "19",
    "distillery": "Glen Garioch",
-   "region": "Highland"
+   "region": "Highland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "20",
    "distillery": "Inverleven",
-   "region": "Lowland"
+   "region": "Lowland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "21",
    "distillery": "Glenglassaugh",
-   "region": "Highland"
+   "region": "Highland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "22",
    "distillery": "Glenkinchie",
-   "region": "Lowland"
+   "region": "Lowland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "23",
    "distillery": "Bruichladdich",
-   "region": "Islay"
+   "region": "Islay",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "24",
    "distillery": "Macallan",
-   "region": "Speyside"
+   "region": "Speyside",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "25",
    "distillery": "Rosebank",
-   "region": "Lowland"
+   "region": "Lowland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "26",
    "distillery": "Clynelish",
-   "region": "Highland"
+   "region": "Highland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "27",
    "distillery": "Springbank",
-   "region": "Campbeltown"
+   "region": "Campbeltown",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "28",
    "distillery": "Tullibardine",
-   "region": "Highland"
+   "region": "Highland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "29",
    "distillery": "Laphroaig",
-   "region": "Islay"
+   "region": "Islay",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "30",
    "distillery": "Glenrothes",
-   "region": "Speyside"
+   "region": "Speyside",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "31",
    "distillery": "Isle of Jura",
-   "region": "Islands"
+   "region": "Islands",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "32",
    "distillery": "Edradour",
-   "region": "Highland"
+   "region": "Highland",
+   "status": "operational",
+   "founded": 1825,
+   "closed": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Edradour_distillery",
+   "wikidata": "Q982705",
+   "confidence": "confirmed",
+   "last_verified": "2026-08-16"
   },
   {
    "code": "33",
    "distillery": "Ardbeg",
-   "region": "Islay"
+   "region": "Islay",
+   "status": "operational",
+   "founded": 1794,
+   "closed": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Ardbeg_distillery",
+   "wikidata": "Q274",
+   "confidence": "confirmed",
+   "last_verified": "2026-08-16"
   },
   {
    "code": "34",
    "distillery": "Tamnavulin",
-   "region": "Speyside"
+   "region": "Speyside",
+   "status": "operational",
+   "founded": 1966,
+   "closed": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Tamnavulin_distillery",
+   "wikidata": "Q1474840",
+   "confidence": "confirmed",
+   "last_verified": "2026-08-16"
   },
   {
    "code": "35",
    "distillery": "Glen Moray",
-   "region": "Speyside"
+   "region": "Speyside",
+   "status": "operational",
+   "founded": 1897,
+   "closed": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Glen_Moray_distillery",
+   "wikidata": "Q982841",
+   "confidence": "unconfirmed",
+   "last_verified": "2026-08-16"
   },
   {
    "code": "36",
    "distillery": "Benrinnes",
-   "region": "Speyside"
+   "region": "Speyside",
+   "status": "operational",
+   "founded": 1835,
+   "closed": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Benrinnes_distillery",
+   "wikidata": "Q818145",
+   "confidence": "confirmed",
+   "last_verified": "2026-08-16"
   },
   {
    "code": "37",
    "distillery": "Cragganmore",
-   "region": "Speyside"
+   "region": "Speyside",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "38",
    "distillery": "Caperdonich",
-   "region": "Speyside"
+   "region": "Speyside",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "39",
    "distillery": "Linkwood",
-   "region": "Speyside"
+   "region": "Speyside",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "40",
    "distillery": "Balvenie",
-   "region": "Speyside"
+   "region": "Speyside",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "41",
    "distillery": "Dailuaine",
-   "region": "Speyside"
+   "region": "Speyside",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "42",
    "distillery": "Tobermory",
-   "region": "Islands"
+   "region": "Islands",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "43",
    "distillery": "Port Ellen",
-   "region": "Islay"
+   "region": "Islay",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "44",
    "distillery": "Craigellachie",
-   "region": "Speyside"
+   "region": "Speyside",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "45",
    "distillery": "Dallas Dhu",
-   "region": "Speyside"
+   "region": "Speyside",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "46",
    "distillery": "Glenlossie",
-   "region": "Speyside"
+   "region": "Speyside",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "47",
    "distillery": "Benromach",
-   "region": "Speyside"
+   "region": "Speyside",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "48",
    "distillery": "Balmenach",
-   "region": "Speyside"
+   "region": "Speyside",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "49",
    "distillery": "St. Magdalene",
-   "region": "Lowland"
+   "region": "Lowland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "50",
    "distillery": "Bladnoch",
-   "region": "Lowland"
+   "region": "Lowland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "51",
    "distillery": "Bushmills",
-   "region": "Northern Ireland"
+   "region": "Northern Ireland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "52",
    "distillery": "Old Pulteney",
-   "region": "Highland"
+   "region": "Highland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "53",
    "distillery": "Caol Ila",
-   "region": "Islay"
+   "region": "Islay",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "54",
    "distillery": "Aberlour",
-   "region": "Speyside"
+   "region": "Speyside",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "55",
    "distillery": "Royal Brackla",
-   "region": "Highland"
+   "region": "Highland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "56",
    "distillery": "Coleburn",
-   "region": "Speyside"
+   "region": "Speyside",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "57",
    "distillery": "Glen Mhor",
-   "region": "Highland"
+   "region": "Highland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "58",
    "distillery": "Strathisla",
-   "region": "Speyside"
+   "region": "Speyside",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "59",
    "distillery": "Teaninich",
-   "region": "Highland"
+   "region": "Highland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "60",
    "distillery": "Aberfeldy",
-   "region": "Highland"
+   "region": "Highland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "61",
    "distillery": "Brora",
-   "region": "Highland"
+   "region": "Highland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "62",
    "distillery": "Glenlochy",
-   "region": "Highland"
+   "region": "Highland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "63",
    "distillery": "Glentauchers",
-   "region": "Speyside"
+   "region": "Speyside",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "64",
    "distillery": "Mannochmore",
-   "region": "Speyside"
+   "region": "Speyside",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "65",
    "distillery": "Imperial",
-   "region": "Speyside"
+   "region": "Speyside",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "66",
    "distillery": "Ardmore",
-   "region": "Highland"
+   "region": "Highland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "67",
    "distillery": "Banff",
-   "region": "Speyside"
+   "region": "Speyside",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "68",
    "distillery": "Blair Athol",
-   "region": "Highland"
+   "region": "Highland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "69",
    "distillery": "Glen Albyn",
-   "region": "Highland"
+   "region": "Highland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "70",
    "distillery": "Balblair",
-   "region": "Highland"
+   "region": "Highland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "71",
    "distillery": "Glenburgie",
-   "region": "Speyside"
+   "region": "Speyside",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "72",
    "distillery": "Miltonduff",
-   "region": "Speyside"
+   "region": "Speyside",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "73",
    "distillery": "Aultmore",
-   "region": "Speyside"
+   "region": "Speyside",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "74",
    "distillery": "North Port",
-   "region": "Highland"
+   "region": "Highland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "75",
    "distillery": "Glenury / Glenury Royal",
-   "region": "Highland"
+   "region": "Highland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "76",
    "distillery": "Mortlach",
-   "region": "Speyside"
+   "region": "Speyside",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "77",
    "distillery": "Glen Ord",
-   "region": "Highland"
+   "region": "Highland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "78",
    "distillery": "Ben Nevis",
-   "region": "Highland"
+   "region": "Highland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "79",
    "distillery": "Deanston",
-   "region": "Highland"
+   "region": "Highland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "80",
    "distillery": "Glen Spey",
-   "region": "Speyside"
+   "region": "Speyside",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "81",
    "distillery": "Glen Keith",
-   "region": "Speyside"
+   "region": "Speyside",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "82",
    "distillery": "Glencadam",
-   "region": "Highland"
+   "region": "Highland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "83",
    "distillery": "Convalmore",
-   "region": "Speyside"
+   "region": "Speyside",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "84",
    "distillery": "Glendullan",
-   "region": "Speyside"
+   "region": "Speyside",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "85",
    "distillery": "Glen Elgin",
-   "region": "Speyside"
+   "region": "Speyside",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "86",
    "distillery": "Glenesk",
-   "region": "Highland"
+   "region": "Highland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "87",
    "distillery": "Millburn",
-   "region": "Highland"
+   "region": "Highland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "88",
    "distillery": "Speyburn",
-   "region": "Speyside"
+   "region": "Speyside",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "89",
    "distillery": "Tomintoul",
-   "region": "Speyside"
+   "region": "Speyside",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "90",
    "distillery": "Pittyvaich",
-   "region": "Speyside"
+   "region": "Speyside",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "91",
    "distillery": "Dufftown",
-   "region": "Speyside"
+   "region": "Speyside",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "92",
    "distillery": "Lochside",
-   "region": "Highland"
+   "region": "Highland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "93",
    "distillery": "Glen Scotia",
-   "region": "Campbeltown"
+   "region": "Campbeltown",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "94",
    "distillery": "Fettercairn",
-   "region": "Highland"
+   "region": "Highland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "95",
    "distillery": "Auchroisk",
-   "region": "Speyside"
+   "region": "Speyside",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "96",
    "distillery": "GlenDronach",
-   "region": "Highland"
+   "region": "Highland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "97",
    "distillery": "Littlemill",
-   "region": "Lowland"
+   "region": "Lowland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "98",
    "distillery": "Inverleven",
-   "region": "Lowland"
+   "region": "Lowland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "99",
    "distillery": "Glenugie",
-   "region": "Highland"
+   "region": "Highland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "100",
    "distillery": "Strathmill",
-   "region": "Speyside"
+   "region": "Speyside",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "101",
    "distillery": "Knockando",
-   "region": "Speyside"
+   "region": "Speyside",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "102",
    "distillery": "Dalwhinnie",
-   "region": "Highland"
+   "region": "Highland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "103",
    "distillery": "Royal Lochnagar",
-   "region": "Highland"
+   "region": "Highland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "104",
    "distillery": "Glenburgie (Glencraig)",
-   "region": "Speyside"
+   "region": "Speyside",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "105",
    "distillery": "Tormore",
-   "region": "Speyside"
+   "region": "Speyside",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "106",
    "distillery": "Cardhu",
-   "region": "Speyside"
+   "region": "Speyside",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "107",
    "distillery": "Glenallachie",
-   "region": "Speyside"
+   "region": "Speyside",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "108",
    "distillery": "Allt-a-Bhainne",
-   "region": "Speyside"
+   "region": "Speyside",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "109",
    "distillery": "Miltonduff (Mosstowie)",
-   "region": "Speyside"
+   "region": "Speyside",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "110",
    "distillery": "Oban",
-   "region": "Highland"
+   "region": "Highland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "111",
    "distillery": "Lagavulin",
-   "region": "Islay"
+   "region": "Islay",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "112",
    "distillery": "Loch Lomond (Inchmurrin / Inchmoan)",
-   "region": "Highland"
+   "region": "Highland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "113",
    "distillery": "Braeval (Braes of Glenlivet)",
-   "region": "Speyside"
+   "region": "Speyside",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "114",
    "distillery": "Springbank (Longrow)",
-   "region": "Campbeltown"
+   "region": "Campbeltown",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "115",
    "distillery": "Knockdhu (AnCnoc)",
-   "region": "Speyside"
+   "region": "Speyside",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "116",
    "distillery": "Yoichi",
-   "region": "Japan"
+   "region": "Japan",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "117",
    "distillery": "Cooley (Unpeated)",
-   "region": "Ireland"
+   "region": "Ireland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "118",
    "distillery": "Cooley / Connemara (Peated)",
-   "region": "Ireland"
+   "region": "Ireland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "119",
    "distillery": "Yamazaki",
-   "region": "Japan"
+   "region": "Japan",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "120",
    "distillery": "Hakushu",
-   "region": "Japan"
+   "region": "Japan",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "121",
    "distillery": "Isle of Arran",
-   "region": "Islands"
+   "region": "Islands",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "122",
    "distillery": "Loch Lomond (Croftengea)",
-   "region": "Highland"
+   "region": "Highland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "123",
    "distillery": "Glengoyne",
-   "region": "Highland"
+   "region": "Highland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "124",
    "distillery": "Miyagikyo",
-   "region": "Japan"
+   "region": "Japan",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "125",
    "distillery": "Glenmorangie",
-   "region": "Highland"
+   "region": "Highland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "126",
    "distillery": "Springbank (Hazelburn)",
-   "region": "Campbeltown"
+   "region": "Campbeltown",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "127",
    "distillery": "Bruichladdich (Port Charlotte)",
-   "region": "Islay"
+   "region": "Islay",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "128",
    "distillery": "Penderyn",
-   "region": "Wales"
+   "region": "Wales",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "129",
    "distillery": "Kilchoman",
-   "region": "Islay"
+   "region": "Islay",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "130",
    "distillery": "Chichibu",
-   "region": "Japan"
+   "region": "Japan",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "131",
    "distillery": "Hanyu",
-   "region": "Japan"
+   "region": "Japan",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "132",
    "distillery": "Karuizawa",
-   "region": "Japan"
+   "region": "Japan",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "133",
    "distillery": "Westland",
-   "region": "Washington, USA"
+   "region": "Washington, USA",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "134",
    "distillery": "Paul John",
-   "region": "India"
+   "region": "India",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "135",
    "distillery": "Loch Lomond",
-   "region": "Highland"
+   "region": "Highland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "136",
    "distillery": "Eden Mill",
-   "region": "Lowland"
+   "region": "Lowland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "137",
    "distillery": "St. George’s (The English Whisky Co.)",
-   "region": "England"
+   "region": "England",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "138",
    "distillery": "Nantou",
-   "region": "Taiwan"
+   "region": "Taiwan",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "139",
    "distillery": "Kavalan",
-   "region": "Taiwan"
+   "region": "Taiwan",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "140",
    "distillery": "Balcones",
-   "region": "Texas, USA"
+   "region": "Texas, USA",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "141",
    "distillery": "Fary Lochan",
-   "region": "Denmark"
+   "region": "Denmark",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "142",
    "distillery": "Breuckelen Distilling",
-   "region": "New York, USA"
+   "region": "New York, USA",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "143",
    "distillery": "Copperworks Distilling Co.",
-   "region": "Washington, USA"
+   "region": "Washington, USA",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "144",
    "distillery": "High Coast Distillery",
-   "region": "Sweden"
+   "region": "Sweden",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "145",
    "distillery": "Smögen Whisky",
-   "region": "Sweden"
+   "region": "Sweden",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "146",
    "distillery": "Cotswolds",
-   "region": "England"
+   "region": "England",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "147",
    "distillery": "Archie Rose",
-   "region": "Australia"
+   "region": "Australia",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "148",
    "distillery": "Starward",
-   "region": "Australia"
+   "region": "Australia",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "149",
    "distillery": "Ardnamurchan",
-   "region": "Highland"
+   "region": "Highland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "150",
    "distillery": "West Cork Distillers",
-   "region": "Ireland"
+   "region": "Ireland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "151",
    "distillery": "Mackmyra",
-   "region": "Sweden"
+   "region": "Sweden",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "152",
    "distillery": "Shelter Point",
-   "region": "Canada"
+   "region": "Canada",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "153",
    "distillery": "Thy Whisky",
-   "region": "Denmark"
+   "region": "Denmark",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "154",
    "distillery": "Mosgaard Whisky",
-   "region": "Denmark"
+   "region": "Denmark",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "155",
    "distillery": "Milk & Honey Distillery",
-   "region": "Israel"
+   "region": "Israel",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "156",
    "distillery": "Glasgow Distillery",
-   "region": "Lowland"
+   "region": "Lowland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "157",
    "distillery": "Distillerie de Warenghem",
-   "region": "France"
+   "region": "France",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "158",
    "distillery": "Yuza Distillery",
-   "region": "Japan"
+   "region": "Japan",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "159",
    "distillery": "Mars Shinshu",
-   "region": "Japan"
+   "region": "Japan",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "160",
    "distillery": "Mars Tsunuki",
-   "region": "Japan"
+   "region": "Japan",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "161",
    "distillery": "Nc'nean Distillery",
-   "region": "Scotland"
+   "region": "Scotland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "162",
    "distillery": "Isle of Raasay",
-   "region": "Scotland"
+   "region": "Scotland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "163",
    "distillery": "Isle of Harris Distillery",
-   "region": "Scotland"
+   "region": "Scotland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "164",
    "distillery": "Penderyn (double distilled)",
-   "region": "Wales"
+   "region": "Wales",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "165",
    "distillery": "Wolfburn (peated)",
-   "region": "Scotland"
+   "region": "Scotland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "166",
    "distillery": "Torabhaig Distillery",
-   "region": "Scotland"
+   "region": "Scotland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "167",
    "distillery": "Clydeside Distillery",
-   "region": "Scotland"
+   "region": "Scotland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "168",
    "distillery": "InchDairnie Distillery (KinGlassie)",
-   "region": "Scotland"
+   "region": "Scotland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "A1",
    "distillery": "Chateau de Lacaze",
-   "region": "France"
+   "region": "France",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "A2",
    "distillery": "Domaine Laguille",
-   "region": "France"
+   "region": "France",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "A3",
    "distillery": "J. Goudoulin (Veuve Goudoulin)",
-   "region": "France"
+   "region": "France",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "A4",
    "distillery": "Domaine d’Espérance",
-   "region": "France"
+   "region": "France",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "A5",
    "distillery": "Chateau de Laubade",
-   "region": "France"
+   "region": "France",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "A6",
    "distillery": "Domaine Lasalle",
-   "region": "France"
+   "region": "France",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "A7",
    "distillery": "Domaine Lasalle",
-   "region": "France"
+   "region": "France",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "A8",
    "distillery": "Domaine de Cavaillon",
-   "region": "France"
+   "region": "France",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "A9",
    "distillery": "Domaine de Saurine",
-   "region": "France"
+   "region": "France",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "B1",
    "distillery": "Heaven Hill",
-   "region": "Kentucky, USA"
+   "region": "Kentucky, USA",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "B2",
    "distillery": "New Bernheim",
-   "region": "Kentucky, USA"
+   "region": "Kentucky, USA",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "B3",
    "distillery": "Rock Town",
-   "region": "Arkansas, USA"
+   "region": "Arkansas, USA",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "B4",
    "distillery": "FEW Spirits",
-   "region": "Illinois, USA"
+   "region": "Illinois, USA",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "B5",
    "distillery": "George Dickel (Cascade Hollow)",
-   "region": "Tennessee, USA"
+   "region": "Tennessee, USA",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "B6",
    "distillery": "Finger Lakes Distilling",
-   "region": "New York, USA"
+   "region": "New York, USA",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "B7",
    "distillery": "MGP (Midwest Grain Products)",
-   "region": "Indiana, USA"
+   "region": "Indiana, USA",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "B8",
    "distillery": "Woodinville Whiskey Co.",
-   "region": "Washington, USA"
+   "region": "Washington, USA",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "B9",
    "distillery": "Wilderness Trail Distillery",
-   "region": "Kentucky, USA"
+   "region": "Kentucky, USA",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "C1",
    "distillery": "Camus",
-   "region": "France"
+   "region": "France",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "C2",
    "distillery": "Domaine de Chez Guérive",
-   "region": "France"
+   "region": "France",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "C3",
    "distillery": "Louis Royer",
-   "region": "France"
+   "region": "France",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "C4",
    "distillery": "Distillery D’Aumagne",
-   "region": "France"
+   "region": "France",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "C5",
    "distillery": "Tiffon Cognac",
-   "region": "France"
+   "region": "France",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "C6",
    "distillery": "M & H Bonneau",
-   "region": "France"
+   "region": "France",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "C7",
    "distillery": "Guy Rateau",
-   "region": "France"
+   "region": "France",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "C8",
    "distillery": "Marie C. Bodit",
-   "region": "France"
+   "region": "France",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "C9",
    "distillery": "Robert Audebeau",
-   "region": "France"
+   "region": "France",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "CW1",
    "distillery": "Heaven Hill Distillery",
-   "region": "Kentucky, USA"
+   "region": "Kentucky, USA",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "CW2",
    "distillery": "Balcones",
-   "region": "Texas, USA"
+   "region": "Texas, USA",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "G1",
    "distillery": "North British",
-   "region": "Lowland"
+   "region": "Lowland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "G2",
    "distillery": "Carsebridge",
-   "region": "Lowland"
+   "region": "Lowland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "G3",
    "distillery": "Caledonian",
-   "region": "Lowland"
+   "region": "Lowland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "G4",
    "distillery": "Cameronbridge",
-   "region": "Lowland"
+   "region": "Lowland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "G5",
    "distillery": "Invergordon",
-   "region": "Highland"
+   "region": "Highland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "G6",
    "distillery": "Port Dundas",
-   "region": "Lowland"
+   "region": "Lowland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "G7",
    "distillery": "Girvan",
-   "region": "Lowland"
+   "region": "Lowland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "G8",
    "distillery": "Cambus",
-   "region": "Lowland"
+   "region": "Lowland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "G9",
    "distillery": "Loch Lomond",
-   "region": "Highland"
+   "region": "Highland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "G10",
    "distillery": "Strathclyde",
-   "region": "Lowland"
+   "region": "Lowland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "G11",
    "distillery": "Nikka Coffey Grain",
-   "region": "Japan"
+   "region": "Japan",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "G12",
    "distillery": "Nikka Coffey Malt",
-   "region": "Japan"
+   "region": "Japan",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "G13",
    "distillery": "Chita",
-   "region": "Japan"
+   "region": "Japan",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "G14",
    "distillery": "Dumbarton",
-   "region": "Lowland"
+   "region": "Lowland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "G15",
    "distillery": "Loch Lomond (Rhosdhu)",
-   "region": "Highland"
+   "region": "Highland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "G16",
    "distillery": "Glasgow Distillery",
-   "region": "Lowland"
+   "region": "Lowland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "G17",
    "distillery": "Starlaw",
-   "region": "Lowland"
+   "region": "Lowland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "GN1",
    "distillery": "Glasgow Distillery Company",
-   "region": "Scotland"
+   "region": "Scotland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "GN2",
    "distillery": "Strathearn Distillers",
-   "region": "Scotland"
+   "region": "Scotland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "GN3",
    "distillery": "The Borders Distillery",
-   "region": "Scotland"
+   "region": "Scotland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "GN4",
    "distillery": "Boatyard Distillery",
-   "region": "Northern Ireland"
+   "region": "Northern Ireland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "GN5",
    "distillery": "Glenrinnes",
-   "region": "Scotland"
+   "region": "Scotland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "GN6",
    "distillery": "Holyrood Distillery",
-   "region": "Edinburgh, Scotland"
+   "region": "Edinburgh, Scotland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "GN7",
    "distillery": "Cotswolds",
-   "region": "England"
+   "region": "England",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "R1",
    "distillery": "Monymusk",
-   "region": "Jamaica"
+   "region": "Jamaica",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "R2",
    "distillery": "Demerara Distillers (El Dorado)",
-   "region": "Guyana"
+   "region": "Guyana",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "R3",
    "distillery": "West Indies Rum",
-   "region": "Barbados"
+   "region": "Barbados",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": "Q118065928",
+   "confidence": "unconfirmed",
+   "last_verified": "2026-08-16"
   },
   {
    "code": "R4",
    "distillery": "Trinidad Distillers (Angostura)",
-   "region": "Trinidad"
+   "region": "Trinidad",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "R5",
    "distillery": "Long Pond",
-   "region": "Jamaica"
+   "region": "Jamaica",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "R6",
    "distillery": "Foursquare",
-   "region": "Barbados"
+   "region": "Barbados",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "R7",
    "distillery": "Hampden",
-   "region": "Jamaica"
+   "region": "Jamaica",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "R8",
    "distillery": "Compañía Licorera de Nicaragua (Flor de Caña)",
-   "region": "Nicaragua"
+   "region": "Nicaragua",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "R9",
    "distillery": "Varela Hermanos (Ron Abuelo)",
-   "region": "Panama"
+   "region": "Panama",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "R10",
    "distillery": "Trinidad Distiller’s",
-   "region": "Trinidad"
+   "region": "Trinidad",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "R11",
    "distillery": "Worthy Park",
-   "region": "Jamaica"
+   "region": "Jamaica",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "R12",
    "distillery": "Travellers",
-   "region": "Belize"
+   "region": "Belize",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "R13",
    "distillery": "Caroni",
-   "region": "Trinidad"
+   "region": "Trinidad",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "R14",
    "distillery": "Uitvlugt",
-   "region": "Guyana"
+   "region": "Guyana",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "RW1",
    "distillery": "FEW Spirits",
-   "region": "Illinois, USA"
+   "region": "Illinois, USA",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "RW2",
    "distillery": "Finger Lakes Distilling",
-   "region": "New York, USA"
+   "region": "New York, USA",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "RW3",
    "distillery": "New York Distilling Co.",
-   "region": "New York, USA"
+   "region": "New York, USA",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "RW4",
    "distillery": "Peerless Distillery",
-   "region": "Kentucky, USA"
+   "region": "Kentucky, USA",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "RW5",
    "distillery": "MGP",
-   "region": "Indiana, USA"
+   "region": "Indiana, USA",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": "Q6504799",
+   "confidence": "unconfirmed",
+   "last_verified": "2026-08-16"
   },
   {
    "code": "RW6",
    "distillery": "Kyrö Distillery",
-   "region": "Finland"
+   "region": "Finland",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "RW7",
    "distillery": "Journeyman Distillery",
-   "region": "Michigan, USA"
+   "region": "Michigan, USA",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "RW8",
    "distillery": "Catoctin Creek Distilling Co.",
-   "region": "Virginia, USA"
+   "region": "Virginia, USA",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   },
   {
    "code": "RW9",
    "distillery": "Wilderness Trail Distillery",
-   "region": "Kentucky, USA"
+   "region": "Kentucky, USA",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-16"
   }
  ]
 }
