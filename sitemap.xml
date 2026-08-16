@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://caskcode.co.uk/</loc><lastmod>2026-08-16</lastmod></url>
+  <url><loc>https://caskcode.co.uk/codes/</loc><lastmod>2026-08-16</lastmod></url>
+  <url><loc>https://caskcode.co.uk/data/</loc><lastmod>2026-08-16</lastmod></url>
+  <url><loc>https://caskcode.co.uk/distilleries/</loc><lastmod>2026-08-16</lastmod></url>
   <url><loc>https://caskcode.co.uk/code/1/</loc><lastmod>2026-08-16</lastmod></url>
   <url><loc>https://caskcode.co.uk/code/2/</loc><lastmod>2026-08-16</lastmod></url>
   <url><loc>https://caskcode.co.uk/code/3/</loc><lastmod>2026-08-16</lastmod></url>
@@ -245,6 +248,47 @@
   <url><loc>https://caskcode.co.uk/code/GN5/</loc><lastmod>2026-08-16</lastmod></url>
   <url><loc>https://caskcode.co.uk/code/GN6/</loc><lastmod>2026-08-16</lastmod></url>
   <url><loc>https://caskcode.co.uk/code/GN7/</loc><lastmod>2026-08-16</lastmod></url>
+  <url><loc>https://caskcode.co.uk/region/speyside/</loc><lastmod>2026-08-16</lastmod></url>
+  <url><loc>https://caskcode.co.uk/region/islay/</loc><lastmod>2026-08-16</lastmod></url>
+  <url><loc>https://caskcode.co.uk/region/islands/</loc><lastmod>2026-08-16</lastmod></url>
+  <url><loc>https://caskcode.co.uk/region/lowland/</loc><lastmod>2026-08-16</lastmod></url>
+  <url><loc>https://caskcode.co.uk/region/highland/</loc><lastmod>2026-08-16</lastmod></url>
+  <url><loc>https://caskcode.co.uk/region/campbeltown/</loc><lastmod>2026-08-16</lastmod></url>
+  <url><loc>https://caskcode.co.uk/region/northern-ireland/</loc><lastmod>2026-08-16</lastmod></url>
+  <url><loc>https://caskcode.co.uk/region/japan/</loc><lastmod>2026-08-16</lastmod></url>
+  <url><loc>https://caskcode.co.uk/region/ireland/</loc><lastmod>2026-08-16</lastmod></url>
+  <url><loc>https://caskcode.co.uk/region/wales/</loc><lastmod>2026-08-16</lastmod></url>
+  <url><loc>https://caskcode.co.uk/region/washington-usa/</loc><lastmod>2026-08-16</lastmod></url>
+  <url><loc>https://caskcode.co.uk/region/india/</loc><lastmod>2026-08-16</lastmod></url>
+  <url><loc>https://caskcode.co.uk/region/england/</loc><lastmod>2026-08-16</lastmod></url>
+  <url><loc>https://caskcode.co.uk/region/taiwan/</loc><lastmod>2026-08-16</lastmod></url>
+  <url><loc>https://caskcode.co.uk/region/texas-usa/</loc><lastmod>2026-08-16</lastmod></url>
+  <url><loc>https://caskcode.co.uk/region/denmark/</loc><lastmod>2026-08-16</lastmod></url>
+  <url><loc>https://caskcode.co.uk/region/new-york-usa/</loc><lastmod>2026-08-16</lastmod></url>
+  <url><loc>https://caskcode.co.uk/region/sweden/</loc><lastmod>2026-08-16</lastmod></url>
+  <url><loc>https://caskcode.co.uk/region/australia/</loc><lastmod>2026-08-16</lastmod></url>
+  <url><loc>https://caskcode.co.uk/region/canada/</loc><lastmod>2026-08-16</lastmod></url>
+  <url><loc>https://caskcode.co.uk/region/israel/</loc><lastmod>2026-08-16</lastmod></url>
+  <url><loc>https://caskcode.co.uk/region/france/</loc><lastmod>2026-08-16</lastmod></url>
+  <url><loc>https://caskcode.co.uk/region/scotland/</loc><lastmod>2026-08-16</lastmod></url>
+  <url><loc>https://caskcode.co.uk/region/kentucky-usa/</loc><lastmod>2026-08-16</lastmod></url>
+  <url><loc>https://caskcode.co.uk/region/arkansas-usa/</loc><lastmod>2026-08-16</lastmod></url>
+  <url><loc>https://caskcode.co.uk/region/illinois-usa/</loc><lastmod>2026-08-16</lastmod></url>
+  <url><loc>https://caskcode.co.uk/region/tennessee-usa/</loc><lastmod>2026-08-16</lastmod></url>
+  <url><loc>https://caskcode.co.uk/region/indiana-usa/</loc><lastmod>2026-08-16</lastmod></url>
+  <url><loc>https://caskcode.co.uk/region/finland/</loc><lastmod>2026-08-16</lastmod></url>
+  <url><loc>https://caskcode.co.uk/region/michigan-usa/</loc><lastmod>2026-08-16</lastmod></url>
+  <url><loc>https://caskcode.co.uk/region/virginia-usa/</loc><lastmod>2026-08-16</lastmod></url>
+  <url><loc>https://caskcode.co.uk/region/jamaica/</loc><lastmod>2026-08-16</lastmod></url>
+  <url><loc>https://caskcode.co.uk/region/guyana/</loc><lastmod>2026-08-16</lastmod></url>
+  <url><loc>https://caskcode.co.uk/region/barbados/</loc><lastmod>2026-08-16</lastmod></url>
+  <url><loc>https://caskcode.co.uk/region/trinidad/</loc><lastmod>2026-08-16</lastmod></url>
+  <url><loc>https://caskcode.co.uk/region/nicaragua/</loc><lastmod>2026-08-16</lastmod></url>
+  <url><loc>https://caskcode.co.uk/region/panama/</loc><lastmod>2026-08-16</lastmod></url>
+  <url><loc>https://caskcode.co.uk/region/belize/</loc><lastmod>2026-08-16</lastmod></url>
+  <url><loc>https://caskcode.co.uk/region/edinburgh-scotland/</loc><lastmod>2026-08-16</lastmod></url>
+  <url><loc>https://caskcode.co.uk/outturn/2026-08/</loc><lastmod>2026-08-16</lastmod></url>
+  <url><loc>https://caskcode.co.uk/outturn/</loc><lastmod>2026-08-16</lastmod></url>
   <url><loc>https://caskcode.co.uk/about/</loc><lastmod>2026-08-16</lastmod></url>
   <url><loc>https://caskcode.co.uk/methodology/</loc><lastmod>2026-08-16</lastmod></url>
 </urlset>
