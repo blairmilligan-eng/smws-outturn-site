@@ -1,172 +1,172 @@
 code,distillery,region,status,founded,closed,wikipedia,wikidata,confidence,last_verified
-1,Glenfarclas,Speyside,operational,1836,,https://en.wikipedia.org/wiki/Glenfarclas_distillery,Q652203,confirmed,2026-08-16
-2,Glenlivet,Speyside,operational,,,,Q17826862,unconfirmed,2026-08-16
-3,Bowmore,Islay,operational,1779,,https://en.wikipedia.org/wiki/Bowmore_distillery,Q51905,confirmed,2026-08-16
-4,Highland Park,Islands,operational,1788,,https://en.wikipedia.org/wiki/Highland_Park_distillery,Q982844,confirmed,2026-08-16
-5,Auchentoshan,Lowland,operational,1823,,https://en.wikipedia.org/wiki/Auchentoshan_distillery,Q758604,confirmed,2026-08-16
-6,Macduff,Highland,,,,,,,2026-08-16
-7,Longmorn,Speyside,,,,,,,2026-08-16
-8,Tamdhu,Speyside,,,,,,,2026-08-16
-9,Glen Grant,Speyside,,,,,,,2026-08-16
-10,Bunnahabhain,Islay,,,,,,,2026-08-16
+1,Glenfarclas,Speyside,,,,https://en.wikipedia.org/wiki/Glenfarclas_distillery,Q652203,confirmed,2026-08-16
+2,Glenlivet,Speyside,,,,https://en.wikipedia.org/wiki/The_Glenlivet_distillery,Q301412,confirmed,2026-08-16
+3,Bowmore,Islay,,,,https://en.wikipedia.org/wiki/Bowmore_distillery,Q51905,confirmed,2026-08-16
+4,Highland Park,Islands,,,,https://en.wikipedia.org/wiki/Highland_Park_distillery,Q982844,confirmed,2026-08-16
+5,Auchentoshan,Lowland,,,,https://en.wikipedia.org/wiki/Auchentoshan_distillery,Q758604,confirmed,2026-08-16
+6,Macduff,Highland,,,,https://en.wikipedia.org/wiki/Macduff_distillery,Q200987,confirmed,2026-08-16
+7,Longmorn,Speyside,,,,https://en.wikipedia.org/wiki/Longmorn_distillery,Q15242812,confirmed,2026-08-16
+8,Tamdhu,Speyside,,,,https://en.wikipedia.org/wiki/Tamdhu_distillery,Q982676,confirmed,2026-08-16
+9,Glen Grant,Speyside,,,,https://en.wikipedia.org/wiki/Glen_Grant_distillery,Q982683,confirmed,2026-08-16
+10,Bunnahabhain,Islay,,,,https://en.wikipedia.org/wiki/Bunnahabhain_distillery,Q51910,confirmed,2026-08-16
 11,Tomatin,Highland,,,,,,,2026-08-16
 12,BenRiach,Speyside,,,,,,,2026-08-16
 13,Dalmore,Highland,,,,,,,2026-08-16
 14,Talisker,Islands,,,,,,,2026-08-16
-15,Glenfiddich,Speyside,,,,,,,2026-08-16
-16,Glenturret,Highland,,,,,,,2026-08-16
-17,Scapa,Islands,,,,,,,2026-08-16
-18,Inchgower,Speyside,,,,,,,2026-08-16
-19,Glen Garioch,Highland,,,,,,,2026-08-16
-20,Inverleven,Lowland,,,,,,,2026-08-16
-21,Glenglassaugh,Highland,,,,,,,2026-08-16
-22,Glenkinchie,Lowland,,,,,,,2026-08-16
-23,Bruichladdich,Islay,,,,,,,2026-08-16
-24,Macallan,Speyside,,,,,,,2026-08-16
+15,Glenfiddich,Speyside,,,,https://en.wikipedia.org/wiki/The_Macallan_distillery,Q982891,confirmed,2026-08-16
+16,Glenturret,Highland,,,,https://en.wikipedia.org/wiki/Glenturret_distillery,Q982994,confirmed,2026-08-16
+17,Scapa,Islands,,,,https://en.wikipedia.org/wiki/Scapa_distillery,Q982716,confirmed,2026-08-16
+18,Inchgower,Speyside,,,,https://en.wikipedia.org/wiki/Inchgower_distillery,Q982658,confirmed,2026-08-16
+19,Glen Garioch,Highland,,,,https://en.wikipedia.org/wiki/Glen_Garioch_distillery,Q982670,confirmed,2026-08-16
+20,Inverleven,Lowland,,,,https://en.wikipedia.org/wiki/Inverleven_distillery,Q1671712,confirmed,2026-08-16
+21,Glenglassaugh,Highland,,,,https://en.wikipedia.org/wiki/Glenglassaugh_distillery,Q1530998,confirmed,2026-08-16
+22,Glenkinchie,Lowland,,,,https://en.wikipedia.org/wiki/Glenkinchie_distillery,Q982834,confirmed,2026-08-16
+23,Bruichladdich,Islay,,,,https://en.wikipedia.org/wiki/Bruichladdich_distillery,Q51908,confirmed,2026-08-16
+24,Macallan,Speyside,,,,https://en.wikipedia.org/wiki/The_Macallan_distillery,Q982891,confirmed,2026-08-16
 25,Rosebank,Lowland,,,,,,,2026-08-16
 26,Clynelish,Highland,,,,,,,2026-08-16
 27,Springbank,Campbeltown,,,,,,,2026-08-16
 28,Tullibardine,Highland,,,,,,,2026-08-16
 29,Laphroaig,Islay,,,,,,,2026-08-16
-30,Glenrothes,Speyside,,,,,,,2026-08-16
-31,Isle of Jura,Islands,,,,,,,2026-08-16
-32,Edradour,Highland,operational,1825,,https://en.wikipedia.org/wiki/Edradour_distillery,Q982705,confirmed,2026-08-16
-33,Ardbeg,Islay,operational,1794,,https://en.wikipedia.org/wiki/Ardbeg_distillery,Q274,confirmed,2026-08-16
-34,Tamnavulin,Speyside,operational,1966,,https://en.wikipedia.org/wiki/Tamnavulin_distillery,Q1474840,confirmed,2026-08-16
-35,Glen Moray,Speyside,operational,1897,,https://en.wikipedia.org/wiki/Glen_Moray_distillery,Q982841,unconfirmed,2026-08-16
-36,Benrinnes,Speyside,operational,1835,,https://en.wikipedia.org/wiki/Benrinnes_distillery,Q818145,confirmed,2026-08-16
-37,Cragganmore,Speyside,,,,,,,2026-08-16
-38,Caperdonich,Speyside,,,,,,,2026-08-16
-39,Linkwood,Speyside,,,,,,,2026-08-16
+30,Glenrothes,Speyside,,,,https://en.wikipedia.org/wiki/The_Glenrothes_distillery,Q982492,confirmed,2026-08-16
+31,Isle of Jura,Islands,,,,https://en.wikipedia.org/wiki/Jura_distillery,Q49646,confirmed,2026-08-16
+32,Edradour,Highland,,,,https://en.wikipedia.org/wiki/Edradour_distillery,Q982705,confirmed,2026-08-16
+33,Ardbeg,Islay,,,,https://en.wikipedia.org/wiki/Ardbeg_distillery,Q274,confirmed,2026-08-16
+34,Tamnavulin,Speyside,,,,https://en.wikipedia.org/wiki/Tamnavulin_distillery,Q1474840,confirmed,2026-08-16
+35,Glen Moray,Speyside,,,,https://en.wikipedia.org/wiki/Glen_Moray_distillery,Q982841,confirmed,2026-08-16
+36,Benrinnes,Speyside,,,,https://en.wikipedia.org/wiki/Benrinnes_distillery,Q818145,confirmed,2026-08-16
+37,Cragganmore,Speyside,,,,https://en.wikipedia.org/wiki/Cragganmore_distillery,Q893266,confirmed,2026-08-16
+38,Caperdonich,Speyside,,,,https://en.wikipedia.org/wiki/Caperdonich_distillery,Q982998,confirmed,2026-08-16
+39,Linkwood,Speyside,,,,https://en.wikipedia.org/wiki/Linkwood_distillery,Q983029,confirmed,2026-08-16
 40,Balvenie,Speyside,,,,,,,2026-08-16
 41,Dailuaine,Speyside,,,,,,,2026-08-16
 42,Tobermory,Islands,,,,,,,2026-08-16
 43,Port Ellen,Islay,,,,,,,2026-08-16
 44,Craigellachie,Speyside,,,,,,,2026-08-16
-45,Dallas Dhu,Speyside,,,,,,,2026-08-16
-46,Glenlossie,Speyside,,,,,,,2026-08-16
-47,Benromach,Speyside,,,,,,,2026-08-16
-48,Balmenach,Speyside,,,,,,,2026-08-16
-49,St. Magdalene,Lowland,,,,,,,2026-08-16
-50,Bladnoch,Lowland,,,,,,,2026-08-16
-51,Bushmills,Northern Ireland,,,,,,,2026-08-16
-52,Old Pulteney,Highland,,,,,,,2026-08-16
-53,Caol Ila,Islay,,,,,,,2026-08-16
-54,Aberlour,Speyside,,,,,,,2026-08-16
+45,Dallas Dhu,Speyside,,,,https://en.wikipedia.org/wiki/Dallas_Dhu_distillery,Q1157995,confirmed,2026-08-16
+46,Glenlossie,Speyside,,,,https://en.wikipedia.org/wiki/Glenlossie_distillery,Q1531018,confirmed,2026-08-16
+47,Benromach,Speyside,,,,https://en.wikipedia.org/wiki/Benromach_distillery,Q265437,confirmed,2026-08-16
+48,Balmenach,Speyside,,,,https://en.wikipedia.org/wiki/Balmenach_distillery,Q805469,confirmed,2026-08-16
+49,St. Magdalene,Lowland,,,,https://en.wikipedia.org/wiki/St_Magdalene_distillery,Q2320462,confirmed,2026-08-16
+50,Bladnoch,Lowland,,,,https://en.wikipedia.org/wiki/Bladnoch_distillery,Q634538,confirmed,2026-08-16
+51,Bushmills,Northern Ireland,,,,https://en.wikipedia.org/wiki/Old_Bushmills_Distillery,Q268267,confirmed,2026-08-16
+52,Old Pulteney,Highland,,,,https://en.wikipedia.org/wiki/Old_Pulteney_distillery,Q845140,confirmed,2026-08-16
+53,Caol Ila,Islay,,,,https://en.wikipedia.org/wiki/Caol_Ila_distillery,Q51913,confirmed,2026-08-16
+54,Aberlour,Speyside,,,,https://en.wikipedia.org/wiki/Aberlour_distillery,Q319639,confirmed,2026-08-16
 55,Royal Brackla,Highland,,,,,,,2026-08-16
 56,Coleburn,Speyside,,,,,,,2026-08-16
 57,Glen Mhor,Highland,,,,,,,2026-08-16
 58,Strathisla,Speyside,,,,,,,2026-08-16
 59,Teaninich,Highland,,,,,,,2026-08-16
-60,Aberfeldy,Highland,,,,,,,2026-08-16
-61,Brora,Highland,,,,,,,2026-08-16
-62,Glenlochy,Highland,,,,,,,2026-08-16
-63,Glentauchers,Speyside,,,,,,,2026-08-16
-64,Mannochmore,Speyside,,,,,,,2026-08-16
-65,Imperial,Speyside,,,,,,,2026-08-16
-66,Ardmore,Highland,,,,,,,2026-08-16
-67,Banff,Speyside,,,,,,,2026-08-16
-68,Blair Athol,Highland,,,,,,,2026-08-16
-69,Glen Albyn,Highland,,,,,,,2026-08-16
+60,Aberfeldy,Highland,,,,https://en.wikipedia.org/wiki/Aberfeldy_distillery,Q319559,confirmed,2026-08-16
+61,Brora,Highland,,,,https://en.wikipedia.org/wiki/Brora_distillery,Q744308,confirmed,2026-08-16
+62,Glenlochy,Highland,,,,https://en.wikipedia.org/wiki/Glenlochy_distillery,Q1262909,confirmed,2026-08-16
+63,Glentauchers,Speyside,,,,https://en.wikipedia.org/wiki/Glentauchers_distillery,Q1531170,confirmed,2026-08-16
+64,Mannochmore,Speyside,,,,https://en.wikipedia.org/wiki/Mannochmore_distillery,Q362391,confirmed,2026-08-16
+65,Imperial,Speyside,,,,https://en.wikipedia.org/wiki/Imperial_distillery,Q1660281,confirmed,2026-08-16
+66,Ardmore,Highland,,,,https://en.wikipedia.org/wiki/Ardmore_distillery,Q639631,confirmed,2026-08-16
+67,Banff,Speyside,,,,https://en.wikipedia.org/wiki/Banff_distillery,Q982572,confirmed,2026-08-16
+68,Blair Athol,Highland,,,,https://en.wikipedia.org/wiki/Blair_Athol_distillery,Q881152,confirmed,2026-08-16
+69,Glen Albyn,Highland,,,,https://en.wikipedia.org/wiki/Glen_Albyn_distillery,Q1253728,confirmed,2026-08-16
 70,Balblair,Highland,,,,,,,2026-08-16
 71,Glenburgie,Speyside,,,,,,,2026-08-16
 72,Miltonduff,Speyside,,,,,,,2026-08-16
 73,Aultmore,Speyside,,,,,,,2026-08-16
 74,North Port,Highland,,,,,,,2026-08-16
-75,Glenury / Glenury Royal,Highland,,,,,,,2026-08-16
-76,Mortlach,Speyside,,,,,,,2026-08-16
-77,Glen Ord,Highland,,,,,,,2026-08-16
-78,Ben Nevis,Highland,,,,,,,2026-08-16
-79,Deanston,Highland,,,,,,,2026-08-16
-80,Glen Spey,Speyside,,,,,,,2026-08-16
-81,Glen Keith,Speyside,,,,,,,2026-08-16
-82,Glencadam,Highland,,,,,,,2026-08-16
-83,Convalmore,Speyside,,,,,,,2026-08-16
-84,Glendullan,Speyside,,,,,,,2026-08-16
+75,Glenury / Glenury Royal,Highland,,,,https://en.wikipedia.org/wiki/Glenury_distillery,Q982630,confirmed,2026-08-16
+76,Mortlach,Speyside,,,,https://en.wikipedia.org/wiki/Mortlach_distillery,Q501320,confirmed,2026-08-16
+77,Glen Ord,Highland,,,,https://en.wikipedia.org/wiki/Glen_Ord_distillery,Q982663,confirmed,2026-08-16
+78,Ben Nevis,Highland,,,,https://en.wikipedia.org/wiki/Ben_Nevis_Distillery,Q816571,confirmed,2026-08-16
+79,Deanston,Highland,,,,https://en.wikipedia.org/wiki/Deanston_distillery,Q5246792,confirmed,2026-08-16
+80,Glen Spey,Speyside,,,,https://en.wikipedia.org/wiki/Glen_Spey_distillery,Q16891693,confirmed,2026-08-16
+81,Glen Keith,Speyside,,,,https://en.wikipedia.org/wiki/Glen_Keith_distillery,Q1461648,confirmed,2026-08-16
+82,Glencadam,Highland,,,,https://en.wikipedia.org/wiki/Glencadam_distillery,Q248641,confirmed,2026-08-16
+83,Convalmore,Speyside,,,,https://en.wikipedia.org/wiki/Convalmore_distillery,Q1129333,confirmed,2026-08-16
+84,Glendullan,Speyside,,,,https://en.wikipedia.org/wiki/Glendullan_distillery,Q283103,confirmed,2026-08-16
 85,Glen Elgin,Speyside,,,,,,,2026-08-16
 86,Glenesk,Highland,,,,,,,2026-08-16
 87,Millburn,Highland,,,,,,,2026-08-16
 88,Speyburn,Speyside,,,,,,,2026-08-16
 89,Tomintoul,Speyside,,,,,,,2026-08-16
-90,Pittyvaich,Speyside,,,,,,,2026-08-16
-91,Dufftown,Speyside,,,,,,,2026-08-16
-92,Lochside,Highland,,,,,,,2026-08-16
-93,Glen Scotia,Campbeltown,,,,,,,2026-08-16
-94,Fettercairn,Highland,,,,,,,2026-08-16
-95,Auchroisk,Speyside,,,,,,,2026-08-16
-96,GlenDronach,Highland,,,,,,,2026-08-16
-97,Littlemill,Lowland,,,,,,,2026-08-16
-98,Inverleven,Lowland,,,,,,,2026-08-16
-99,Glenugie,Highland,,,,,,,2026-08-16
+90,Pittyvaich,Speyside,,,,https://en.wikipedia.org/wiki/Pittyvaich_distillery,Q982979,confirmed,2026-08-16
+91,Dufftown,Speyside,,,,https://en.wikipedia.org/wiki/Dufftown_distillery,Q1263993,confirmed,2026-08-16
+92,Lochside,Highland,,,,https://en.wikipedia.org/wiki/Lochside_distillery,Q982583,confirmed,2026-08-16
+93,Glen Scotia,Campbeltown,,,,https://en.wikipedia.org/wiki/Glen_Scotia_distillery,Q741360,confirmed,2026-08-16
+94,Fettercairn,Highland,,,,https://en.wikipedia.org/wiki/Fettercairn_distillery,Q967985,confirmed,2026-08-16
+95,Auchroisk,Speyside,,,,https://en.wikipedia.org/wiki/Auchroisk_distillery,Q758618,confirmed,2026-08-16
+96,GlenDronach,Highland,,,,https://en.wikipedia.org/wiki/Glendronach_distillery,Q240163,confirmed,2026-08-16
+97,Littlemill,Lowland,,,,https://en.wikipedia.org/wiki/Littlemill_distillery,Q1034033,confirmed,2026-08-16
+98,Inverleven,Lowland,,,,https://en.wikipedia.org/wiki/Inverleven_distillery,Q1671712,confirmed,2026-08-16
+99,Glenugie,Highland,,,,https://en.wikipedia.org/wiki/Glenugie_distillery,Q668828,confirmed,2026-08-16
 100,Strathmill,Speyside,,,,,,,2026-08-16
 101,Knockando,Speyside,,,,,,,2026-08-16
 102,Dalwhinnie,Highland,,,,,,,2026-08-16
 103,Royal Lochnagar,Highland,,,,,,,2026-08-16
 104,Glenburgie (Glencraig),Speyside,,,,,,,2026-08-16
-105,Tormore,Speyside,,,,,,,2026-08-16
-106,Cardhu,Speyside,,,,,,,2026-08-16
-107,Glenallachie,Speyside,,,,,,,2026-08-16
-108,Allt-a-Bhainne,Speyside,,,,,,,2026-08-16
-109,Miltonduff (Mosstowie),Speyside,,,,,,,2026-08-16
-110,Oban,Highland,,,,,,,2026-08-16
-111,Lagavulin,Islay,,,,,,,2026-08-16
-112,Loch Lomond (Inchmurrin / Inchmoan),Highland,,,,,,,2026-08-16
-113,Braeval (Braes of Glenlivet),Speyside,,,,,,,2026-08-16
-114,Springbank (Longrow),Campbeltown,,,,,,,2026-08-16
+105,Tormore,Speyside,,,,https://en.wikipedia.org/wiki/Tormore_distillery,Q982986,confirmed,2026-08-16
+106,Cardhu,Speyside,,,,https://en.wikipedia.org/wiki/Cardhu_distillery,Q893272,confirmed,2026-08-16
+107,Glenallachie,Speyside,,,,https://en.wikipedia.org/wiki/Glenallachie_distillery,Q185904,confirmed,2026-08-16
+108,Allt-a-Bhainne,Speyside,,,,https://en.wikipedia.org/wiki/Allt-A-Bhainne_distillery,Q280576,confirmed,2026-08-16
+109,Miltonduff (Mosstowie),Speyside,,,,https://en.wikipedia.org/wiki/Miltonduff_distillery,Q1526981,confirmed,2026-08-16
+110,Oban,Highland,,,,https://en.wikipedia.org/wiki/Oban_distillery,Q982708,confirmed,2026-08-16
+111,Lagavulin,Islay,,,,https://en.wikipedia.org/wiki/Lagavulin_distillery,Q280,confirmed,2026-08-16
+112,Loch Lomond (Inchmurrin / Inchmoan),Highland,,,,https://en.wikipedia.org/wiki/Loch_Lomond_distillery,Q982871,confirmed,2026-08-16
+113,Braeval (Braes of Glenlivet),Speyside,,,,https://en.wikipedia.org/wiki/Braeval_distillery,Q897183,confirmed,2026-08-16
+114,Springbank (Longrow),Campbeltown,,,,https://en.wikipedia.org/wiki/Springbank_%28distillery%29,Q982719,confirmed,2026-08-16
 115,Knockdhu (AnCnoc),Speyside,,,,,,,2026-08-16
 116,Yoichi,Japan,,,,,,,2026-08-16
 117,Cooley (Unpeated),Ireland,,,,,,,2026-08-16
 118,Cooley / Connemara (Peated),Ireland,,,,,,,2026-08-16
-119,Yamazaki,Japan,,,,,,,2026-08-16
-120,Hakushu,Japan,,,,,,,2026-08-16
-121,Isle of Arran,Islands,,,,,,,2026-08-16
-122,Loch Lomond (Croftengea),Highland,,,,,,,2026-08-16
-123,Glengoyne,Highland,,,,,,,2026-08-16
-124,Miyagikyo,Japan,,,,,,,2026-08-16
-125,Glenmorangie,Highland,,,,,,,2026-08-16
-126,Springbank (Hazelburn),Campbeltown,,,,,,,2026-08-16
-127,Bruichladdich (Port Charlotte),Islay,,,,,,,2026-08-16
-128,Penderyn,Wales,,,,,,,2026-08-16
+119,Yamazaki,Japan,,,,https://en.wikipedia.org/wiki/Yamazaki_distillery,Q1417541,confirmed,2026-08-16
+120,Hakushu,Japan,,,,https://en.wikipedia.org/wiki/Hakushu_distillery,Q3125870,confirmed,2026-08-16
+121,Isle of Arran,Islands,,,,https://en.wikipedia.org/wiki/Lochranza_distillery,Q699163,confirmed,2026-08-16
+122,Loch Lomond (Croftengea),Highland,,,,https://en.wikipedia.org/wiki/Loch_Lomond_distillery,Q982871,confirmed,2026-08-16
+123,Glengoyne,Highland,,,,https://en.wikipedia.org/wiki/Glengoyne_distillery,Q982852,confirmed,2026-08-16
+124,Miyagikyo,Japan,,,,https://en.wikipedia.org/wiki/Miyagikyo_distillery,Q14338929,confirmed,2026-08-16
+125,Glenmorangie,Highland,,,,https://en.wikipedia.org/wiki/Glenmorangie_distillery,Q157974,confirmed,2026-08-16
+126,Springbank (Hazelburn),Campbeltown,,,,https://en.wikipedia.org/wiki/Springbank_%28distillery%29,Q982719,confirmed,2026-08-16
+127,Bruichladdich (Port Charlotte),Islay,,,,https://en.wikipedia.org/wiki/Bruichladdich_distillery,Q51908,confirmed,2026-08-16
+128,Penderyn,Wales,,,,https://en.wikipedia.org/wiki/Penderyn_distillery,Q3036620,confirmed,2026-08-16
 129,Kilchoman,Islay,,,,,,,2026-08-16
 130,Chichibu,Japan,,,,,,,2026-08-16
 131,Hanyu,Japan,,,,,,,2026-08-16
 132,Karuizawa,Japan,,,,,,,2026-08-16
 133,Westland,"Washington, USA",,,,,,,2026-08-16
-134,Paul John,India,,,,,,,2026-08-16
-135,Loch Lomond,Highland,,,,,,,2026-08-16
-136,Eden Mill,Lowland,,,,,,,2026-08-16
-137,St. George’s (The English Whisky Co.),England,,,,,,,2026-08-16
-138,Nantou,Taiwan,,,,,,,2026-08-16
-139,Kavalan,Taiwan,,,,,,,2026-08-16
-140,Balcones,"Texas, USA",,,,,,,2026-08-16
+134,Paul John,India,,,,https://en.wikipedia.org/wiki/John_Distilleries,Q17059978,confirmed,2026-08-16
+135,Loch Lomond,Highland,,,,https://en.wikipedia.org/wiki/Loch_Lomond_distillery,Q982871,confirmed,2026-08-16
+136,Eden Mill,Lowland,,,,https://en.wikipedia.org/wiki/Eden_Mill_St_Andrews_distillery,Q16966751,confirmed,2026-08-16
+137,St. George’s (The English Whisky Co.),England,,,,https://en.wikipedia.org/wiki/The_English_Distillery,Q22084268,confirmed,2026-08-16
+138,Nantou,Taiwan,,,,https://en.wikipedia.org/wiki/Taiwanese_whisky,Q91698567,unconfirmed,2026-08-16
+139,Kavalan,Taiwan,,,,https://en.wikipedia.org/wiki/Kavalan_Distillery,Q15063416,confirmed,2026-08-16
+140,Balcones,"Texas, USA",,,,https://en.wikipedia.org/wiki/Diageo,Q161140,unconfirmed,2026-08-16
 141,Fary Lochan,Denmark,,,,,,,2026-08-16
 142,Breuckelen Distilling,"New York, USA",,,,,,,2026-08-16
-143,Copperworks Distilling Co.,"Washington, USA",,,,,,,2026-08-16
+143,Copperworks Distilling Co.,"Washington, USA",,,,https://en.wikipedia.org/wiki/Penderyn_distillery,Q3036620,confirmed,2026-08-16
 144,High Coast Distillery,Sweden,,,,,,,2026-08-16
 145,Smögen Whisky,Sweden,,,,,,,2026-08-16
 146,Cotswolds,England,,,,,,,2026-08-16
 147,Archie Rose,Australia,,,,,,,2026-08-16
 148,Starward,Australia,,,,,,,2026-08-16
-149,Ardnamurchan,Highland,,,,,,,2026-08-16
-150,West Cork Distillers,Ireland,,,,,,,2026-08-16
-151,Mackmyra,Sweden,,,,,,,2026-08-16
-152,Shelter Point,Canada,,,,,,,2026-08-16
-153,Thy Whisky,Denmark,,,,,,,2026-08-16
+149,Ardnamurchan,Highland,,,,https://en.wikipedia.org/wiki/Ardnamurchan_distillery,Q31159057,confirmed,2026-08-16
+150,West Cork Distillers,Ireland,,,,https://en.wikipedia.org/wiki/New_Midleton_Distillery,Q3312688,confirmed,2026-08-16
+151,Mackmyra,Sweden,,,,https://en.wikipedia.org/wiki/Mackmyra_Whisky,Q6724578,unconfirmed,2026-08-16
+152,Shelter Point,Canada,,,,https://en.wikipedia.org/wiki/List_of_distilleries_in_Canada,Q5282956,confirmed,2026-08-16
+153,Thy Whisky,Denmark,,,,https://en.wikipedia.org/wiki/Lochnagar,Q1867453,unconfirmed,2026-08-16
 154,Mosgaard Whisky,Denmark,,,,,,,2026-08-16
-155,Milk & Honey Distillery,Israel,,,,,,,2026-08-16
-156,Glasgow Distillery,Lowland,,,,,,,2026-08-16
-157,Distillerie de Warenghem,France,,,,,,,2026-08-16
-158,Yuza Distillery,Japan,,,,,,,2026-08-16
+155,Milk & Honey Distillery,Israel,,,,https://en.wikipedia.org/wiki/The_Milk_%26_Honey_Distillery,Q31197614,confirmed,2026-08-16
+156,Glasgow Distillery,Lowland,,,,https://en.wikipedia.org/wiki/Jura_distillery,Q49646,confirmed,2026-08-16
+157,Distillerie de Warenghem,France,,,,https://en.wikipedia.org/wiki/Whisky,Q281,unconfirmed,2026-08-16
+158,Yuza Distillery,Japan,,,,https://en.wikipedia.org/wiki/Japanese_whisky,Q901367,unconfirmed,2026-08-16
 159,Mars Shinshu,Japan,,,,,,,2026-08-16
 160,Mars Tsunuki,Japan,,,,,,,2026-08-16
 161,Nc'nean Distillery,Scotland,,,,,,,2026-08-16
 162,Isle of Raasay,Scotland,,,,,,,2026-08-16
 163,Isle of Harris Distillery,Scotland,,,,,,,2026-08-16
-164,Penderyn (double distilled),Wales,,,,,,,2026-08-16
-165,Wolfburn (peated),Scotland,,,,,,,2026-08-16
-166,Torabhaig Distillery,Scotland,,,,,,,2026-08-16
-167,Clydeside Distillery,Scotland,,,,,,,2026-08-16
-168,InchDairnie Distillery (KinGlassie),Scotland,,,,,,,2026-08-16
+164,Penderyn (double distilled),Wales,,,,https://en.wikipedia.org/wiki/Penderyn_distillery,Q3036620,confirmed,2026-08-16
+165,Wolfburn (peated),Scotland,,,,https://en.wikipedia.org/wiki/Wolfburn_distillery,Q3741441,confirmed,2026-08-16
+166,Torabhaig Distillery,Scotland,,,,https://en.wikipedia.org/wiki/Torabhaig_distillery,Q105812096,confirmed,2026-08-16
+167,Clydeside Distillery,Scotland,,,,https://en.wikipedia.org/wiki/Clydeside_Distillery,Q108719335,confirmed,2026-08-16
+168,InchDairnie Distillery (KinGlassie),Scotland,,,,https://en.wikipedia.org/wiki/Cameronbridge_distillery,Q1028809,confirmed,2026-08-16
 A1,Chateau de Lacaze,France,,,,,,,2026-08-16
 A2,Domaine Laguille,France,,,,,,,2026-08-16
 A3,J. Goudoulin (Veuve Goudoulin),France,,,,,,,2026-08-16
@@ -176,70 +176,70 @@ A6,Domaine Lasalle,France,,,,,,,2026-08-16
 A7,Domaine Lasalle,France,,,,,,,2026-08-16
 A8,Domaine de Cavaillon,France,,,,,,,2026-08-16
 A9,Domaine de Saurine,France,,,,,,,2026-08-16
-B1,Heaven Hill,"Kentucky, USA",,,,,,,2026-08-16
-B2,New Bernheim,"Kentucky, USA",,,,,,,2026-08-16
+B1,Heaven Hill,"Kentucky, USA",,,,https://en.wikipedia.org/wiki/List_of_historic_whisky_distilleries,Q70278379,confirmed,2026-08-16
+B2,New Bernheim,"Kentucky, USA",,,,https://en.wikipedia.org/wiki/List_of_historic_whisky_distilleries,Q70278379,confirmed,2026-08-16
 B3,Rock Town,"Arkansas, USA",,,,,,,2026-08-16
 B4,FEW Spirits,"Illinois, USA",,,,,,,2026-08-16
 B5,George Dickel (Cascade Hollow),"Tennessee, USA",,,,,,,2026-08-16
 B6,Finger Lakes Distilling,"New York, USA",,,,,,,2026-08-16
 B7,MGP (Midwest Grain Products),"Indiana, USA",,,,,,,2026-08-16
 B8,Woodinville Whiskey Co.,"Washington, USA",,,,,,,2026-08-16
-B9,Wilderness Trail Distillery,"Kentucky, USA",,,,,,,2026-08-16
-C1,Camus,France,,,,,,,2026-08-16
+B9,Wilderness Trail Distillery,"Kentucky, USA",,,,https://en.wikipedia.org/wiki/Lagavulin_distillery,Q280,confirmed,2026-08-16
+C1,Camus,France,,,,https://en.wikipedia.org/wiki/Camus_Cognac,Q964333,unconfirmed,2026-08-16
 C2,Domaine de Chez Guérive,France,,,,,,,2026-08-16
 C3,Louis Royer,France,,,,,,,2026-08-16
 C4,Distillery D’Aumagne,France,,,,,,,2026-08-16
 C5,Tiffon Cognac,France,,,,,,,2026-08-16
 C6,M & H Bonneau,France,,,,,,,2026-08-16
-C7,Guy Rateau,France,,,,,,,2026-08-16
+C7,Guy Rateau,France,,,,https://en.wikipedia.org/wiki/Marcel_Riffard,Q3289332,unconfirmed,2026-08-16
 C8,Marie C. Bodit,France,,,,,,,2026-08-16
 C9,Robert Audebeau,France,,,,,,,2026-08-16
 CW1,Heaven Hill Distillery,"Kentucky, USA",,,,,,,2026-08-16
 CW2,Balcones,"Texas, USA",,,,,,,2026-08-16
-G1,North British,Lowland,,,,,,,2026-08-16
-G2,Carsebridge,Lowland,,,,,,,2026-08-16
-G3,Caledonian,Lowland,,,,,,,2026-08-16
-G4,Cameronbridge,Lowland,,,,,,,2026-08-16
-G5,Invergordon,Highland,,,,,,,2026-08-16
+G1,North British,Lowland,,,,https://en.wikipedia.org/wiki/North_British_distillery,Q1432194,confirmed,2026-08-16
+G2,Carsebridge,Lowland,,,,https://en.wikipedia.org/wiki/Cameronbridge_distillery,Q1028809,confirmed,2026-08-16
+G3,Caledonian,Lowland,,,,https://en.wikipedia.org/wiki/Glen_Mhor_distillery,Q131160796,confirmed,2026-08-16
+G4,Cameronbridge,Lowland,,,,https://en.wikipedia.org/wiki/Cameronbridge_distillery,Q1028809,confirmed,2026-08-16
+G5,Invergordon,Highland,,,,https://en.wikipedia.org/wiki/Invergordon_distillery,Q1671709,confirmed,2026-08-16
 G6,Port Dundas,Lowland,,,,,,,2026-08-16
 G7,Girvan,Lowland,,,,,,,2026-08-16
 G8,Cambus,Lowland,,,,,,,2026-08-16
 G9,Loch Lomond,Highland,,,,,,,2026-08-16
-G10,Strathclyde,Lowland,,,,,,,2026-08-16
-G11,Nikka Coffey Grain,Japan,,,,,,,2026-08-16
-G12,Nikka Coffey Malt,Japan,,,,,,,2026-08-16
-G13,Chita,Japan,,,,,,,2026-08-16
-G14,Dumbarton,Lowland,,,,,,,2026-08-16
-G15,Loch Lomond (Rhosdhu),Highland,,,,,,,2026-08-16
-G16,Glasgow Distillery,Lowland,,,,,,,2026-08-16
-G17,Starlaw,Lowland,,,,,,,2026-08-16
-GN1,Glasgow Distillery Company,Scotland,,,,,,,2026-08-16
-GN2,Strathearn Distillers,Scotland,,,,,,,2026-08-16
-GN3,The Borders Distillery,Scotland,,,,,,,2026-08-16
-GN4,Boatyard Distillery,Northern Ireland,,,,,,,2026-08-16
-GN5,Glenrinnes,Scotland,,,,,,,2026-08-16
-GN6,Holyrood Distillery,"Edinburgh, Scotland",,,,,,,2026-08-16
-GN7,Cotswolds,England,,,,,,,2026-08-16
+G10,Strathclyde,Lowland,,,,https://en.wikipedia.org/wiki/Strathclyde_distillery,Q167043,confirmed,2026-08-16
+G11,Nikka Coffey Grain,Japan,,,,https://en.wikipedia.org/wiki/Ben_Nevis_Distillery,Q816571,confirmed,2026-08-16
+G12,Nikka Coffey Malt,Japan,,,,https://en.wikipedia.org/wiki/Ben_Nevis_Distillery,Q816571,confirmed,2026-08-16
+G13,Chita,Japan,,,,https://en.wikipedia.org/wiki/Chita_distillery,Q22130229,confirmed,2026-08-16
+G14,Dumbarton,Lowland,,,,https://en.wikipedia.org/wiki/Inverleven_distillery,Q1671712,confirmed,2026-08-16
+G15,Loch Lomond (Rhosdhu),Highland,,,,https://en.wikipedia.org/wiki/Loch_Lomond_distillery,Q982871,confirmed,2026-08-16
+G16,Glasgow Distillery,Lowland,,,,https://en.wikipedia.org/wiki/Jura_distillery,Q49646,confirmed,2026-08-16
+G17,Starlaw,Lowland,,,,https://en.wikipedia.org/wiki/Starlaw_distillery,Q60754966,confirmed,2026-08-16
+GN1,Glasgow Distillery Company,Scotland,,,,https://en.wikipedia.org/wiki/Bowmore_distillery,Q51905,confirmed,2026-08-16
+GN2,Strathearn Distillers,Scotland,,,,https://en.wikipedia.org/wiki/List_of_whisky_distilleries_in_Scotland,Q1751881,confirmed,2026-08-16
+GN3,The Borders Distillery,Scotland,,,,https://en.wikipedia.org/wiki/Distillery_District,Q934422,confirmed,2026-08-16
+GN4,Boatyard Distillery,Northern Ireland,,,,https://en.wikipedia.org/wiki/Irish_whiskey,Q909747,unconfirmed,2026-08-16
+GN5,Glenrinnes,Scotland,,,,https://en.wikipedia.org/wiki/Glenrinnes_distillery,Q138299135,confirmed,2026-08-16
+GN6,Holyrood Distillery,"Edinburgh, Scotland",,,,https://en.wikipedia.org/wiki/List_of_whisky_distilleries_in_Scotland,Q1751881,confirmed,2026-08-16
+GN7,Cotswolds,England,,,,https://en.wikipedia.org/wiki/Cotswolds_Distillery,Q28130452,confirmed,2026-08-16
 R1,Monymusk,Jamaica,,,,,,,2026-08-16
 R2,Demerara Distillers (El Dorado),Guyana,,,,,,,2026-08-16
-R3,West Indies Rum,Barbados,,,,,Q118065928,unconfirmed,2026-08-16
-R4,Trinidad Distillers (Angostura),Trinidad,,,,,,,2026-08-16
-R5,Long Pond,Jamaica,,,,,,,2026-08-16
-R6,Foursquare,Barbados,,,,,,,2026-08-16
-R7,Hampden,Jamaica,,,,,,,2026-08-16
-R8,Compañía Licorera de Nicaragua (Flor de Caña),Nicaragua,,,,,,,2026-08-16
-R9,Varela Hermanos (Ron Abuelo),Panama,,,,,,,2026-08-16
-R10,Trinidad Distiller’s,Trinidad,,,,,,,2026-08-16
-R11,Worthy Park,Jamaica,,,,,,,2026-08-16
-R12,Travellers,Belize,,,,,,,2026-08-16
+R3,West Indies Rum,Barbados,,,,https://en.wikipedia.org/wiki/West_Indies_Rum_Distillery,Q118065928,confirmed,2026-08-16
+R4,Trinidad Distillers (Angostura),Trinidad,,,,https://en.wikipedia.org/wiki/List_of_distilleries_in_Canada,Q5282956,confirmed,2026-08-16
+R5,Long Pond,Jamaica,,,,https://en.wikipedia.org/wiki/West_Indies_Rum_Distillery,Q118065928,confirmed,2026-08-16
+R6,Foursquare,Barbados,,,,https://en.wikipedia.org/wiki/Foursquare_Rum_Distillery,Q138028496,confirmed,2026-08-16
+R7,Hampden,Jamaica,,,,https://en.wikipedia.org/wiki/Foursquare_Rum_Distillery,Q138028496,confirmed,2026-08-16
+R8,Compañía Licorera de Nicaragua (Flor de Caña),Nicaragua,,,,https://en.wikipedia.org/wiki/Flor_de_Ca%C3%B1a,Q1429240,unconfirmed,2026-08-16
+R9,Varela Hermanos (Ron Abuelo),Panama,,,,https://en.wikipedia.org/wiki/Juan_Carlos_Varela,Q1134096,unconfirmed,2026-08-16
+R10,Trinidad Distiller’s,Trinidad,,,,https://en.wikipedia.org/wiki/Tobermory_distillery,Q982673,confirmed,2026-08-16
+R11,Worthy Park,Jamaica,,,,https://en.wikipedia.org/wiki/Scotch_whisky,Q382947,unconfirmed,2026-08-16
+R12,Travellers,Belize,,,,https://en.wikipedia.org/wiki/Buffalo_Trace_Distillery,Q2927641,confirmed,2026-08-16
 R13,Caroni,Trinidad,,,,,,,2026-08-16
 R14,Uitvlugt,Guyana,,,,,,,2026-08-16
-RW1,FEW Spirits,"Illinois, USA",,,,,,,2026-08-16
-RW2,Finger Lakes Distilling,"New York, USA",,,,,,,2026-08-16
-RW3,New York Distilling Co.,"New York, USA",,,,,,,2026-08-16
-RW4,Peerless Distillery,"Kentucky, USA",,,,,,,2026-08-16
-RW5,MGP,"Indiana, USA",,,,,Q6504799,unconfirmed,2026-08-16
-RW6,Kyrö Distillery,Finland,,,,,,,2026-08-16
-RW7,Journeyman Distillery,"Michigan, USA",,,,,,,2026-08-16
-RW8,Catoctin Creek Distilling Co.,"Virginia, USA",,,,,,,2026-08-16
+RW1,FEW Spirits,"Illinois, USA",,,,https://en.wikipedia.org/wiki/List_of_whisky_distilleries_in_Scotland,Q1751881,confirmed,2026-08-16
+RW2,Finger Lakes Distilling,"New York, USA",,,,https://en.wikipedia.org/wiki/Constellation_Brands,Q1128160,unconfirmed,2026-08-16
+RW3,New York Distilling Co.,"New York, USA",,,,https://en.wikipedia.org/wiki/Old_Bushmills_Distillery,Q268267,confirmed,2026-08-16
+RW4,Peerless Distillery,"Kentucky, USA",,,,https://en.wikipedia.org/wiki/The_Macallan_distillery,Q982891,confirmed,2026-08-16
+RW5,MGP,"Indiana, USA",,,,https://en.wikipedia.org/wiki/High_West_Distillery,Q5757420,confirmed,2026-08-16
+RW6,Kyrö Distillery,Finland,,,,https://en.wikipedia.org/wiki/Kyr%C3%B6_Distillery_Company,Q23045171,confirmed,2026-08-16
+RW7,Journeyman Distillery,"Michigan, USA",,,,https://en.wikipedia.org/wiki/Kevin_McKidd,Q312133,unconfirmed,2026-08-16
+RW8,Catoctin Creek Distilling Co.,"Virginia, USA",,,,https://en.wikipedia.org/wiki/Microdistillery,Q6839471,confirmed,2026-08-16
 RW9,Wilderness Trail Distillery,"Kentucky, USA",,,,,,,2026-08-16

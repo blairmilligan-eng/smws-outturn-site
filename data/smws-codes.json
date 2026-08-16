@@ -10,8 +10,8 @@
    "code": "1",
    "distillery": "Glenfarclas",
    "region": "Speyside",
-   "status": "operational",
-   "founded": 1836,
+   "status": null,
+   "founded": null,
    "closed": null,
    "wikipedia": "https://en.wikipedia.org/wiki/Glenfarclas_distillery",
    "wikidata": "Q652203",
@@ -22,20 +22,20 @@
    "code": "2",
    "distillery": "Glenlivet",
    "region": "Speyside",
-   "status": "operational",
+   "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": "Q17826862",
-   "confidence": "unconfirmed",
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Glenlivet_distillery",
+   "wikidata": "Q301412",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
    "code": "3",
    "distillery": "Bowmore",
    "region": "Islay",
-   "status": "operational",
-   "founded": 1779,
+   "status": null,
+   "founded": null,
    "closed": null,
    "wikipedia": "https://en.wikipedia.org/wiki/Bowmore_distillery",
    "wikidata": "Q51905",
@@ -46,8 +46,8 @@
    "code": "4",
    "distillery": "Highland Park",
    "region": "Islands",
-   "status": "operational",
-   "founded": 1788,
+   "status": null,
+   "founded": null,
    "closed": null,
    "wikipedia": "https://en.wikipedia.org/wiki/Highland_Park_distillery",
    "wikidata": "Q982844",
@@ -58,8 +58,8 @@
    "code": "5",
    "distillery": "Auchentoshan",
    "region": "Lowland",
-   "status": "operational",
-   "founded": 1823,
+   "status": null,
+   "founded": null,
    "closed": null,
    "wikipedia": "https://en.wikipedia.org/wiki/Auchentoshan_distillery",
    "wikidata": "Q758604",
@@ -73,9 +73,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Macduff_distillery",
+   "wikidata": "Q200987",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -85,9 +85,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Longmorn_distillery",
+   "wikidata": "Q15242812",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -97,9 +97,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Tamdhu_distillery",
+   "wikidata": "Q982676",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -109,9 +109,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Glen_Grant_distillery",
+   "wikidata": "Q982683",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -121,9 +121,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Bunnahabhain_distillery",
+   "wikidata": "Q51910",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -181,9 +181,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Macallan_distillery",
+   "wikidata": "Q982891",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -193,9 +193,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Glenturret_distillery",
+   "wikidata": "Q982994",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -205,9 +205,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Scapa_distillery",
+   "wikidata": "Q982716",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -217,9 +217,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Inchgower_distillery",
+   "wikidata": "Q982658",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -229,9 +229,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Glen_Garioch_distillery",
+   "wikidata": "Q982670",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -241,9 +241,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Inverleven_distillery",
+   "wikidata": "Q1671712",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -253,9 +253,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Glenglassaugh_distillery",
+   "wikidata": "Q1530998",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -265,9 +265,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Glenkinchie_distillery",
+   "wikidata": "Q982834",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -277,9 +277,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Bruichladdich_distillery",
+   "wikidata": "Q51908",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -289,9 +289,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Macallan_distillery",
+   "wikidata": "Q982891",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -361,9 +361,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Glenrothes_distillery",
+   "wikidata": "Q982492",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -373,17 +373,17 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Jura_distillery",
+   "wikidata": "Q49646",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
    "code": "32",
    "distillery": "Edradour",
    "region": "Highland",
-   "status": "operational",
-   "founded": 1825,
+   "status": null,
+   "founded": null,
    "closed": null,
    "wikipedia": "https://en.wikipedia.org/wiki/Edradour_distillery",
    "wikidata": "Q982705",
@@ -394,8 +394,8 @@
    "code": "33",
    "distillery": "Ardbeg",
    "region": "Islay",
-   "status": "operational",
-   "founded": 1794,
+   "status": null,
+   "founded": null,
    "closed": null,
    "wikipedia": "https://en.wikipedia.org/wiki/Ardbeg_distillery",
    "wikidata": "Q274",
@@ -406,8 +406,8 @@
    "code": "34",
    "distillery": "Tamnavulin",
    "region": "Speyside",
-   "status": "operational",
-   "founded": 1966,
+   "status": null,
+   "founded": null,
    "closed": null,
    "wikipedia": "https://en.wikipedia.org/wiki/Tamnavulin_distillery",
    "wikidata": "Q1474840",
@@ -418,20 +418,20 @@
    "code": "35",
    "distillery": "Glen Moray",
    "region": "Speyside",
-   "status": "operational",
-   "founded": 1897,
+   "status": null,
+   "founded": null,
    "closed": null,
    "wikipedia": "https://en.wikipedia.org/wiki/Glen_Moray_distillery",
    "wikidata": "Q982841",
-   "confidence": "unconfirmed",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
    "code": "36",
    "distillery": "Benrinnes",
    "region": "Speyside",
-   "status": "operational",
-   "founded": 1835,
+   "status": null,
+   "founded": null,
    "closed": null,
    "wikipedia": "https://en.wikipedia.org/wiki/Benrinnes_distillery",
    "wikidata": "Q818145",
@@ -445,9 +445,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Cragganmore_distillery",
+   "wikidata": "Q893266",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -457,9 +457,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Caperdonich_distillery",
+   "wikidata": "Q982998",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -469,9 +469,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Linkwood_distillery",
+   "wikidata": "Q983029",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -541,9 +541,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Dallas_Dhu_distillery",
+   "wikidata": "Q1157995",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -553,9 +553,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Glenlossie_distillery",
+   "wikidata": "Q1531018",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -565,9 +565,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Benromach_distillery",
+   "wikidata": "Q265437",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -577,9 +577,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Balmenach_distillery",
+   "wikidata": "Q805469",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -589,9 +589,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/St_Magdalene_distillery",
+   "wikidata": "Q2320462",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -601,9 +601,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Bladnoch_distillery",
+   "wikidata": "Q634538",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -613,9 +613,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Old_Bushmills_Distillery",
+   "wikidata": "Q268267",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -625,9 +625,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Old_Pulteney_distillery",
+   "wikidata": "Q845140",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -637,9 +637,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Caol_Ila_distillery",
+   "wikidata": "Q51913",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -649,9 +649,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Aberlour_distillery",
+   "wikidata": "Q319639",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -721,9 +721,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Aberfeldy_distillery",
+   "wikidata": "Q319559",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -733,9 +733,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Brora_distillery",
+   "wikidata": "Q744308",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -745,9 +745,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Glenlochy_distillery",
+   "wikidata": "Q1262909",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -757,9 +757,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Glentauchers_distillery",
+   "wikidata": "Q1531170",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -769,9 +769,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Mannochmore_distillery",
+   "wikidata": "Q362391",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -781,9 +781,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Imperial_distillery",
+   "wikidata": "Q1660281",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -793,9 +793,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Ardmore_distillery",
+   "wikidata": "Q639631",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -805,9 +805,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Banff_distillery",
+   "wikidata": "Q982572",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -817,9 +817,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Blair_Athol_distillery",
+   "wikidata": "Q881152",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -829,9 +829,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Glen_Albyn_distillery",
+   "wikidata": "Q1253728",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -901,9 +901,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Glenury_distillery",
+   "wikidata": "Q982630",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -913,9 +913,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Mortlach_distillery",
+   "wikidata": "Q501320",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -925,9 +925,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Glen_Ord_distillery",
+   "wikidata": "Q982663",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -937,9 +937,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Ben_Nevis_Distillery",
+   "wikidata": "Q816571",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -949,9 +949,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Deanston_distillery",
+   "wikidata": "Q5246792",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -961,9 +961,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Glen_Spey_distillery",
+   "wikidata": "Q16891693",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -973,9 +973,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Glen_Keith_distillery",
+   "wikidata": "Q1461648",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -985,9 +985,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Glencadam_distillery",
+   "wikidata": "Q248641",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -997,9 +997,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Convalmore_distillery",
+   "wikidata": "Q1129333",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -1009,9 +1009,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Glendullan_distillery",
+   "wikidata": "Q283103",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -1081,9 +1081,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Pittyvaich_distillery",
+   "wikidata": "Q982979",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -1093,9 +1093,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Dufftown_distillery",
+   "wikidata": "Q1263993",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -1105,9 +1105,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Lochside_distillery",
+   "wikidata": "Q982583",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -1117,9 +1117,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Glen_Scotia_distillery",
+   "wikidata": "Q741360",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -1129,9 +1129,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Fettercairn_distillery",
+   "wikidata": "Q967985",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -1141,9 +1141,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Auchroisk_distillery",
+   "wikidata": "Q758618",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -1153,9 +1153,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Glendronach_distillery",
+   "wikidata": "Q240163",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -1165,9 +1165,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Littlemill_distillery",
+   "wikidata": "Q1034033",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -1177,9 +1177,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Inverleven_distillery",
+   "wikidata": "Q1671712",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -1189,9 +1189,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Glenugie_distillery",
+   "wikidata": "Q668828",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -1261,9 +1261,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Tormore_distillery",
+   "wikidata": "Q982986",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -1273,9 +1273,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Cardhu_distillery",
+   "wikidata": "Q893272",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -1285,9 +1285,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Glenallachie_distillery",
+   "wikidata": "Q185904",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -1297,9 +1297,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Allt-A-Bhainne_distillery",
+   "wikidata": "Q280576",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -1309,9 +1309,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Miltonduff_distillery",
+   "wikidata": "Q1526981",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -1321,9 +1321,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Oban_distillery",
+   "wikidata": "Q982708",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -1333,9 +1333,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Lagavulin_distillery",
+   "wikidata": "Q280",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -1345,9 +1345,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Loch_Lomond_distillery",
+   "wikidata": "Q982871",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -1357,9 +1357,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Braeval_distillery",
+   "wikidata": "Q897183",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -1369,9 +1369,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Springbank_%28distillery%29",
+   "wikidata": "Q982719",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -1429,9 +1429,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Yamazaki_distillery",
+   "wikidata": "Q1417541",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -1441,9 +1441,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Hakushu_distillery",
+   "wikidata": "Q3125870",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -1453,9 +1453,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Lochranza_distillery",
+   "wikidata": "Q699163",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -1465,9 +1465,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Loch_Lomond_distillery",
+   "wikidata": "Q982871",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -1477,9 +1477,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Glengoyne_distillery",
+   "wikidata": "Q982852",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -1489,9 +1489,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Miyagikyo_distillery",
+   "wikidata": "Q14338929",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -1501,9 +1501,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Glenmorangie_distillery",
+   "wikidata": "Q157974",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -1513,9 +1513,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Springbank_%28distillery%29",
+   "wikidata": "Q982719",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -1525,9 +1525,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Bruichladdich_distillery",
+   "wikidata": "Q51908",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -1537,9 +1537,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Penderyn_distillery",
+   "wikidata": "Q3036620",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -1609,9 +1609,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Distilleries",
+   "wikidata": "Q17059978",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -1621,9 +1621,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Loch_Lomond_distillery",
+   "wikidata": "Q982871",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -1633,9 +1633,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Eden_Mill_St_Andrews_distillery",
+   "wikidata": "Q16966751",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -1645,9 +1645,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_English_Distillery",
+   "wikidata": "Q22084268",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -1657,9 +1657,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Taiwanese_whisky",
+   "wikidata": "Q91698567",
+   "confidence": "unconfirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -1669,9 +1669,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Kavalan_Distillery",
+   "wikidata": "Q15063416",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -1681,9 +1681,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Diageo",
+   "wikidata": "Q161140",
+   "confidence": "unconfirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -1717,9 +1717,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Penderyn_distillery",
+   "wikidata": "Q3036620",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -1789,9 +1789,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Ardnamurchan_distillery",
+   "wikidata": "Q31159057",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -1801,9 +1801,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/New_Midleton_Distillery",
+   "wikidata": "Q3312688",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -1813,9 +1813,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Mackmyra_Whisky",
+   "wikidata": "Q6724578",
+   "confidence": "unconfirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -1825,9 +1825,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/List_of_distilleries_in_Canada",
+   "wikidata": "Q5282956",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -1837,9 +1837,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Lochnagar",
+   "wikidata": "Q1867453",
+   "confidence": "unconfirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -1861,9 +1861,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Milk_%26_Honey_Distillery",
+   "wikidata": "Q31197614",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -1873,9 +1873,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Jura_distillery",
+   "wikidata": "Q49646",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -1885,9 +1885,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Whisky",
+   "wikidata": "Q281",
+   "confidence": "unconfirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -1897,9 +1897,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Japanese_whisky",
+   "wikidata": "Q901367",
+   "confidence": "unconfirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -1969,9 +1969,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Penderyn_distillery",
+   "wikidata": "Q3036620",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -1981,9 +1981,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Wolfburn_distillery",
+   "wikidata": "Q3741441",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -1993,9 +1993,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Torabhaig_distillery",
+   "wikidata": "Q105812096",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -2005,9 +2005,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Clydeside_Distillery",
+   "wikidata": "Q108719335",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -2017,9 +2017,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Cameronbridge_distillery",
+   "wikidata": "Q1028809",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -2137,9 +2137,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/List_of_historic_whisky_distilleries",
+   "wikidata": "Q70278379",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -2149,9 +2149,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/List_of_historic_whisky_distilleries",
+   "wikidata": "Q70278379",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -2233,9 +2233,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Lagavulin_distillery",
+   "wikidata": "Q280",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -2245,9 +2245,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Camus_Cognac",
+   "wikidata": "Q964333",
+   "confidence": "unconfirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -2317,9 +2317,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Marcel_Riffard",
+   "wikidata": "Q3289332",
+   "confidence": "unconfirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -2377,9 +2377,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/North_British_distillery",
+   "wikidata": "Q1432194",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -2389,9 +2389,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Cameronbridge_distillery",
+   "wikidata": "Q1028809",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -2401,9 +2401,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Glen_Mhor_distillery",
+   "wikidata": "Q131160796",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -2413,9 +2413,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Cameronbridge_distillery",
+   "wikidata": "Q1028809",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -2425,9 +2425,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Invergordon_distillery",
+   "wikidata": "Q1671709",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -2485,9 +2485,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Strathclyde_distillery",
+   "wikidata": "Q167043",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -2497,9 +2497,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Ben_Nevis_Distillery",
+   "wikidata": "Q816571",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -2509,9 +2509,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Ben_Nevis_Distillery",
+   "wikidata": "Q816571",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -2521,9 +2521,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Chita_distillery",
+   "wikidata": "Q22130229",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -2533,9 +2533,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Inverleven_distillery",
+   "wikidata": "Q1671712",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -2545,9 +2545,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Loch_Lomond_distillery",
+   "wikidata": "Q982871",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -2557,9 +2557,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Jura_distillery",
+   "wikidata": "Q49646",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -2569,9 +2569,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Starlaw_distillery",
+   "wikidata": "Q60754966",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -2581,9 +2581,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Bowmore_distillery",
+   "wikidata": "Q51905",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -2593,9 +2593,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/List_of_whisky_distilleries_in_Scotland",
+   "wikidata": "Q1751881",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -2605,9 +2605,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Distillery_District",
+   "wikidata": "Q934422",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -2617,9 +2617,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Irish_whiskey",
+   "wikidata": "Q909747",
+   "confidence": "unconfirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -2629,9 +2629,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Glenrinnes_distillery",
+   "wikidata": "Q138299135",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -2641,9 +2641,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/List_of_whisky_distilleries_in_Scotland",
+   "wikidata": "Q1751881",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -2653,9 +2653,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Cotswolds_Distillery",
+   "wikidata": "Q28130452",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -2689,9 +2689,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/West_Indies_Rum_Distillery",
    "wikidata": "Q118065928",
-   "confidence": "unconfirmed",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -2701,9 +2701,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/List_of_distilleries_in_Canada",
+   "wikidata": "Q5282956",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -2713,9 +2713,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/West_Indies_Rum_Distillery",
+   "wikidata": "Q118065928",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -2725,9 +2725,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Foursquare_Rum_Distillery",
+   "wikidata": "Q138028496",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -2737,9 +2737,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Foursquare_Rum_Distillery",
+   "wikidata": "Q138028496",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -2749,9 +2749,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Flor_de_Ca%C3%B1a",
+   "wikidata": "Q1429240",
+   "confidence": "unconfirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -2761,9 +2761,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Juan_Carlos_Varela",
+   "wikidata": "Q1134096",
+   "confidence": "unconfirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -2773,9 +2773,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Tobermory_distillery",
+   "wikidata": "Q982673",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -2785,9 +2785,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Scotch_whisky",
+   "wikidata": "Q382947",
+   "confidence": "unconfirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -2797,9 +2797,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Buffalo_Trace_Distillery",
+   "wikidata": "Q2927641",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -2833,9 +2833,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/List_of_whisky_distilleries_in_Scotland",
+   "wikidata": "Q1751881",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -2845,9 +2845,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Constellation_Brands",
+   "wikidata": "Q1128160",
+   "confidence": "unconfirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -2857,9 +2857,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Old_Bushmills_Distillery",
+   "wikidata": "Q268267",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -2869,9 +2869,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/The_Macallan_distillery",
+   "wikidata": "Q982891",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -2881,9 +2881,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": "Q6504799",
-   "confidence": "unconfirmed",
+   "wikipedia": "https://en.wikipedia.org/wiki/High_West_Distillery",
+   "wikidata": "Q5757420",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -2893,9 +2893,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Kyr%C3%B6_Distillery_Company",
+   "wikidata": "Q23045171",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -2905,9 +2905,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Kevin_McKidd",
+   "wikidata": "Q312133",
+   "confidence": "unconfirmed",
    "last_verified": "2026-08-16"
   },
   {
@@ -2917,9 +2917,9 @@
    "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": null,
-   "wikidata": null,
-   "confidence": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Microdistillery",
+   "wikidata": "Q6839471",
+   "confidence": "confirmed",
    "last_verified": "2026-08-16"
   },
   {
