@@ -78,7 +78,9 @@ a.wiki::after{content:" \2197";font-size:.8em;opacity:.6;}
 .btn:hover{background:var(--ink);}
 table.tbl{width:100%;border-collapse:collapse;font-size:14px;display:none;}
 table.tbl th,table.tbl td{text-align:left;padding:11px 12px;border-bottom:1px solid var(--rule);}
-table.tbl th{background:var(--navy);color:#fff;font-family:var(--cond);text-transform:uppercase;letter-spacing:1px;font-size:12px;font-weight:400;}
+table.tbl th{background:var(--navy);color:#fff;font-family:var(--cond);text-transform:uppercase;letter-spacing:1px;font-size:12px;font-weight:400;cursor:pointer;user-select:none;white-space:nowrap;}
+table.tbl th:hover{background:#1a2350;}
+table.tbl th .sar{font-size:.85em;opacity:.9;}
 table.tbl td{font-family:var(--cond);}
 table.tbl tr:nth-child(even) td{background:#fafafa;}
 .swatch{display:inline-block;width:12px;height:12px;border-radius:2px;margin-right:8px;vertical-align:-1px;border:1px solid rgba(0,0,0,.15);}
