@@ -26,7 +26,6 @@ An SMWS code like 4.403 means distillery 4 (before the dot) and cask 403 (after 
 - 76.166 "Anyone for cricket?" - Mortlach (Speyside) - https://smws.com/anyone-for-cricket/
 - 78.101 "Apples dumped on hay bales" - Ben Nevis (Highland) - https://smws.com/apples-dumped-on-hay-bales/
 - 100.54 "Breakfast aftershave" - Strathmill (Speyside) - https://smws.com/breakfast-aftershave/
-- 149.23 "Beware the lurkin' gherkin" - Ardnamurchan (Highland) - https://smws.com/beware-the-lurkin-gherkin/
 - 164.3 "Strawberry sweetshop implosion" - Penderyn (double distilled) (Wales) - https://smws.com/strawberry-sweetshop-implosion/
 - B5.22 "The sweet trolley and the herb basket" - George Dickel (Cascade Hollow) (Tennessee, USA) - https://smws.com/the-sweet-trolley-and-the-herb-basket/
 

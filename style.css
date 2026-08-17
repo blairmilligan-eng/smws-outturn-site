@@ -74,7 +74,7 @@ a.wiki::after{content:" \2197";font-size:.8em;opacity:.6;}
 .foot{margin-top:auto;padding-top:14px;display:flex;align-items:center;justify-content:space-between;gap:12px;}
 .price{font-family:var(--cond);font-weight:600;font-size:24px;color:var(--ink);}
 .btn{font-family:var(--cond);text-transform:uppercase;letter-spacing:2px;font-size:12px;background:var(--navy);
- color:#fff;text-decoration:none;padding:11px 16px;white-space:nowrap;}
+ color:#fff;text-decoration:none;padding:11px 16px;white-space:nowrap;display:inline-block;margin:0 8px 8px 0;}
 .btn:hover{background:var(--ink);}
 table.tbl{width:100%;border-collapse:collapse;font-size:14px;display:none;}
 table.tbl th,table.tbl td{text-align:left;padding:11px 12px;border-bottom:1px solid var(--rule);}
