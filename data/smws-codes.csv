@@ -100,7 +100,7 @@ code,distillery,region,status,founded,closed,wikipedia,wikidata,confidence,last_
 99,Glenugie,Highland,closed,1831,1983,https://en.wikipedia.org/wiki/Glenugie_distillery,Q668828,confirmed,2026-08-17
 100,Strathmill,Speyside,operational,1891,,https://en.wikipedia.org/wiki/Strathmill_distillery,Q473301,confirmed,2026-08-17
 101,Knockando,Speyside,operational,1898,,https://en.wikipedia.org/wiki/Knockando_distillery,Q982812,confirmed,2026-08-17
-102,Dalwhinnie,Highland,,,,,,,2026-08-17
+102,Dalwhinnie,Highland,operational,1897,,https://en.wikipedia.org/wiki/Dalwhinnie_distillery,Q773797,confirmed,2026-08-17
 103,Royal Lochnagar,Highland,operational,1845,,https://en.wikipedia.org/wiki/Royal_Lochnagar_distillery,Q2171061,confirmed,2026-08-17
 104,Glenburgie (Glencraig),Speyside,operational,1810,,https://en.wikipedia.org/wiki/Glenburgie_distillery,Q771766,confirmed,2026-08-17
 105,Tormore,Speyside,operational,1958,,https://en.wikipedia.org/wiki/Tormore_distillery,Q982986,confirmed,2026-08-17
@@ -111,7 +111,7 @@ code,distillery,region,status,founded,closed,wikipedia,wikidata,confidence,last_
 110,Oban,Highland,operational,1794,,https://en.wikipedia.org/wiki/Oban_distillery,Q982708,confirmed,2026-08-17
 111,Lagavulin,Islay,operational,1816,,https://en.wikipedia.org/wiki/Lagavulin_distillery,Q280,confirmed,2026-08-17
 112,Loch Lomond (Inchmurrin / Inchmoan),Highland,operational,1966,,https://en.wikipedia.org/wiki/Loch_Lomond_distillery,Q982871,confirmed,2026-08-17
-113,Braeval (Braes of Glenlivet),Speyside,,,,,,,2026-08-17
+113,Braeval (Braes of Glenlivet),Speyside,operational,1973,,https://en.wikipedia.org/wiki/Braeval_distillery,Q897183,confirmed,2026-08-17
 114,Springbank (Longrow),Campbeltown,operational,1828,,https://en.wikipedia.org/wiki/Springbank_%28distillery%29,Q982719,confirmed,2026-08-17
 115,Knockdhu (AnCnoc),Speyside,operational,1894,,https://en.wikipedia.org/wiki/Knockdhu_distillery,Q982649,confirmed,2026-08-17
 116,Yoichi,Japan,operational,1934,,https://en.wikipedia.org/wiki/Yoichi_distillery,Q3572452,confirmed,2026-08-17
