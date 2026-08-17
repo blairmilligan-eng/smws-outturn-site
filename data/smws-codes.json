@@ -16,7 +16,7 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Glenfarclas_distillery",
    "wikidata": "Q652203",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "2",
@@ -28,7 +28,7 @@
    "wikipedia": "https://en.wikipedia.org/wiki/The_Glenlivet_distillery",
    "wikidata": "Q301412",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "3",
@@ -40,7 +40,7 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Bowmore_distillery",
    "wikidata": "Q51905",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "4",
@@ -52,7 +52,7 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Highland_Park_distillery",
    "wikidata": "Q982844",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "5",
@@ -64,7 +64,7 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Auchentoshan_distillery",
    "wikidata": "Q758604",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "6",
@@ -76,7 +76,7 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Macduff_distillery",
    "wikidata": "Q200987",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "7",
@@ -88,7 +88,7 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Longmorn_distillery",
    "wikidata": "Q15242812",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "8",
@@ -100,7 +100,7 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Tamdhu_distillery",
    "wikidata": "Q982676",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "9",
@@ -112,7 +112,7 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Glen_Grant_distillery",
    "wikidata": "Q982683",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "10",
@@ -124,67 +124,67 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Bunnahabhain_distillery",
    "wikidata": "Q51910",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "11",
    "distillery": "Tomatin",
    "region": "Highland",
-   "status": "operational",
-   "founded": 1897,
+   "status": null,
+   "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/Tomatin_distillery",
-   "wikidata": "Q982680",
-   "confidence": "confirmed",
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
    "last_verified": "2026-08-17"
   },
   {
    "code": "12",
    "distillery": "BenRiach",
    "region": "Speyside",
-   "status": "operational",
-   "founded": 1898,
+   "status": null,
+   "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/BenRiach_distillery",
-   "wikidata": "Q818147",
-   "confidence": "confirmed",
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
    "last_verified": "2026-08-17"
   },
   {
    "code": "13",
    "distillery": "Dalmore",
    "region": "Highland",
-   "status": "operational",
-   "founded": 1839,
+   "status": null,
+   "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/Dalmore_distillery",
-   "wikidata": "Q893151",
-   "confidence": "confirmed",
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
    "last_verified": "2026-08-17"
   },
   {
    "code": "14",
    "distillery": "Talisker",
    "region": "Islands",
-   "status": "operational",
-   "founded": 1830,
+   "status": null,
+   "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/Talisker_distillery",
-   "wikidata": "Q278",
-   "confidence": "confirmed",
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
    "last_verified": "2026-08-17"
   },
   {
    "code": "15",
    "distillery": "Glenfiddich",
    "region": "Speyside",
-   "status": "operational",
-   "founded": 1824,
+   "status": null,
+   "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/The_Macallan_distillery",
-   "wikidata": "Q982891",
-   "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-17"
   },
   {
    "code": "16",
@@ -196,7 +196,7 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Glenturret_distillery",
    "wikidata": "Q982994",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "17",
@@ -208,7 +208,7 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Scapa_distillery",
    "wikidata": "Q982716",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "18",
@@ -220,7 +220,7 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Inchgower_distillery",
    "wikidata": "Q982658",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "19",
@@ -232,19 +232,19 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Glen_Garioch_distillery",
    "wikidata": "Q982670",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "20",
    "distillery": "Inverleven",
    "region": "Lowland",
-   "status": "operational",
+   "status": "closed",
    "founded": 1938,
-   "closed": null,
+   "closed": 1991,
    "wikipedia": "https://en.wikipedia.org/wiki/Inverleven_distillery",
    "wikidata": "Q1671712",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "21",
@@ -256,7 +256,7 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Glenglassaugh_distillery",
    "wikidata": "Q1530998",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "22",
@@ -268,7 +268,7 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Glenkinchie_distillery",
    "wikidata": "Q982834",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "23",
@@ -280,7 +280,7 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Bruichladdich_distillery",
    "wikidata": "Q51908",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "24",
@@ -292,66 +292,66 @@
    "wikipedia": "https://en.wikipedia.org/wiki/The_Macallan_distillery",
    "wikidata": "Q982891",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "25",
    "distillery": "Rosebank",
    "region": "Lowland",
-   "status": "operational",
-   "founded": 1798,
+   "status": null,
+   "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/Rosebank_distillery",
-   "wikidata": "Q388012",
-   "confidence": "confirmed",
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
    "last_verified": "2026-08-17"
   },
   {
    "code": "26",
    "distillery": "Clynelish",
    "region": "Highland",
-   "status": "operational",
-   "founded": 1967,
+   "status": null,
+   "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/Clynelish_distillery",
-   "wikidata": "Q124932",
-   "confidence": "confirmed",
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
    "last_verified": "2026-08-17"
   },
   {
    "code": "27",
    "distillery": "Springbank",
    "region": "Campbeltown",
-   "status": "operational",
-   "founded": 1828,
+   "status": null,
+   "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/Springbank_%28distillery%29",
-   "wikidata": "Q982719",
-   "confidence": "confirmed",
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
    "last_verified": "2026-08-17"
   },
   {
    "code": "28",
    "distillery": "Tullibardine",
    "region": "Highland",
-   "status": "operational",
-   "founded": 1949,
+   "status": null,
+   "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/Tullibardine_distillery",
-   "wikidata": "Q982597",
-   "confidence": "confirmed",
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
    "last_verified": "2026-08-17"
   },
   {
    "code": "29",
    "distillery": "Laphroaig",
    "region": "Islay",
-   "status": "operational",
-   "founded": 1815,
+   "status": null,
+   "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/Laphroaig_distillery",
-   "wikidata": "Q51888",
-   "confidence": "confirmed",
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
    "last_verified": "2026-08-17"
   },
   {
@@ -364,7 +364,7 @@
    "wikipedia": "https://en.wikipedia.org/wiki/The_Glenrothes_distillery",
    "wikidata": "Q982492",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "31",
@@ -376,7 +376,7 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Jura_distillery",
    "wikidata": "Q49646",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "32",
@@ -388,7 +388,7 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Edradour_distillery",
    "wikidata": "Q982705",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "33",
@@ -400,7 +400,7 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Ardbeg_distillery",
    "wikidata": "Q274",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "34",
@@ -412,7 +412,7 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Tamnavulin_distillery",
    "wikidata": "Q1474840",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "35",
@@ -424,7 +424,7 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Glen_Moray_distillery",
    "wikidata": "Q982841",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "36",
@@ -436,7 +436,7 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Benrinnes_distillery",
    "wikidata": "Q818145",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "37",
@@ -448,19 +448,19 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Cragganmore_distillery",
    "wikidata": "Q893266",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "38",
    "distillery": "Caperdonich",
    "region": "Speyside",
-   "status": "operational",
+   "status": "closed",
    "founded": 1898,
-   "closed": null,
+   "closed": 2002,
    "wikipedia": "https://en.wikipedia.org/wiki/Caperdonich_distillery",
    "wikidata": "Q982998",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "39",
@@ -472,79 +472,79 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Linkwood_distillery",
    "wikidata": "Q983029",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "40",
    "distillery": "Balvenie",
    "region": "Speyside",
-   "status": "operational",
-   "founded": 1892,
+   "status": null,
+   "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/Balvenie_distillery",
-   "wikidata": "Q805853",
-   "confidence": "confirmed",
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
    "last_verified": "2026-08-17"
   },
   {
    "code": "41",
    "distillery": "Dailuaine",
    "region": "Speyside",
-   "status": "operational",
-   "founded": 1851,
+   "status": null,
+   "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/Dailuaine_distillery",
-   "wikidata": "Q258976",
-   "confidence": "confirmed",
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
    "last_verified": "2026-08-17"
   },
   {
    "code": "42",
    "distillery": "Tobermory",
    "region": "Islands",
-   "status": "operational",
-   "founded": 1798,
+   "status": null,
+   "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/Tobermory_distillery",
-   "wikidata": "Q982673",
-   "confidence": "confirmed",
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
    "last_verified": "2026-08-17"
   },
   {
    "code": "43",
    "distillery": "Port Ellen",
    "region": "Islay",
-   "status": "operational",
-   "founded": 1825,
+   "status": null,
+   "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/Port_Ellen_distillery",
-   "wikidata": "Q203404",
-   "confidence": "confirmed",
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
    "last_verified": "2026-08-17"
   },
   {
    "code": "44",
    "distillery": "Craigellachie",
    "region": "Speyside",
-   "status": "operational",
-   "founded": 1891,
+   "status": null,
+   "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/Craigellachie_distillery",
-   "wikidata": "Q1138727",
-   "confidence": "confirmed",
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
    "last_verified": "2026-08-17"
   },
   {
    "code": "45",
    "distillery": "Dallas Dhu",
    "region": "Speyside",
-   "status": "operational",
+   "status": "closed",
    "founded": 1898,
-   "closed": null,
+   "closed": 1983,
    "wikipedia": "https://en.wikipedia.org/wiki/Dallas_Dhu_distillery",
    "wikidata": "Q1157995",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "46",
@@ -556,7 +556,7 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Glenlossie_distillery",
    "wikidata": "Q1531018",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "47",
@@ -568,7 +568,7 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Benromach_distillery",
    "wikidata": "Q265437",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "48",
@@ -580,19 +580,19 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Balmenach_distillery",
    "wikidata": "Q805469",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "49",
    "distillery": "St. Magdalene",
    "region": "Lowland",
-   "status": "operational",
+   "status": "closed",
    "founded": 1798,
-   "closed": null,
+   "closed": 1983,
    "wikipedia": "https://en.wikipedia.org/wiki/St_Magdalene_distillery",
    "wikidata": "Q2320462",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "50",
@@ -604,7 +604,7 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Bladnoch_distillery",
    "wikidata": "Q634538",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "51",
@@ -616,7 +616,7 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Old_Bushmills_Distillery",
    "wikidata": "Q268267",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "52",
@@ -628,7 +628,7 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Old_Pulteney_distillery",
    "wikidata": "Q845140",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "53",
@@ -640,7 +640,7 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Caol_Ila_distillery",
    "wikidata": "Q51913",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "54",
@@ -652,54 +652,54 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Aberlour_distillery",
    "wikidata": "Q319639",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "55",
    "distillery": "Royal Brackla",
    "region": "Highland",
-   "status": "operational",
-   "founded": 1812,
+   "status": null,
+   "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/Royal_Brackla_distillery",
-   "wikidata": "Q448423",
-   "confidence": "confirmed",
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
    "last_verified": "2026-08-17"
   },
   {
    "code": "56",
    "distillery": "Coleburn",
    "region": "Speyside",
-   "status": "operational",
-   "founded": 1897,
-   "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/Coleburn_distillery",
-   "wikidata": "Q1108023",
-   "confidence": "confirmed",
+   "status": "closed",
+   "founded": null,
+   "closed": 1985,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
    "last_verified": "2026-08-17"
   },
   {
    "code": "57",
    "distillery": "Glen Mhor",
    "region": "Highland",
-   "status": "operational",
-   "founded": 1892,
-   "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/Glen_Mhor_distillery",
-   "wikidata": "Q131160796",
-   "confidence": "confirmed",
+   "status": "closed",
+   "founded": null,
+   "closed": 1983,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
    "last_verified": "2026-08-17"
   },
   {
    "code": "58",
    "distillery": "Strathisla",
    "region": "Speyside",
-   "status": "operational",
-   "founded": 1786,
+   "status": null,
+   "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/Strathisla_distillery",
-   "wikidata": "Q983051",
-   "confidence": "confirmed",
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
    "last_verified": "2026-08-17"
   },
   {
@@ -724,7 +724,7 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Aberfeldy_distillery",
    "wikidata": "Q319559",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "61",
@@ -736,19 +736,19 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Brora_distillery",
    "wikidata": "Q744308",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "62",
    "distillery": "Glenlochy",
    "region": "Highland",
-   "status": "operational",
+   "status": "closed",
    "founded": 1898,
-   "closed": null,
+   "closed": 1983,
    "wikipedia": "https://en.wikipedia.org/wiki/Glenlochy_distillery",
    "wikidata": "Q1262909",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "63",
@@ -760,7 +760,7 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Glentauchers_distillery",
    "wikidata": "Q1531170",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "64",
@@ -772,7 +772,7 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Mannochmore_distillery",
    "wikidata": "Q362391",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "65",
@@ -784,7 +784,7 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Imperial_distillery",
    "wikidata": "Q1660281",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "66",
@@ -796,19 +796,19 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Ardmore_distillery",
    "wikidata": "Q639631",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "67",
    "distillery": "Banff",
    "region": "Speyside",
-   "status": "operational",
+   "status": "closed",
    "founded": 1863,
-   "closed": null,
+   "closed": 1983,
    "wikipedia": "https://en.wikipedia.org/wiki/Banff_distillery",
    "wikidata": "Q982572",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "68",
@@ -820,7 +820,7 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Blair_Athol_distillery",
    "wikidata": "Q881152",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "69",
@@ -832,7 +832,7 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Glen_Albyn_distillery",
    "wikidata": "Q1253728",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "70",
@@ -886,25 +886,25 @@
    "code": "74",
    "distillery": "North Port",
    "region": "Highland",
-   "status": "operational",
-   "founded": 1820,
-   "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/North_Port_distillery",
-   "wikidata": "Q948597",
-   "confidence": "confirmed",
+   "status": "closed",
+   "founded": null,
+   "closed": 1983,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
    "last_verified": "2026-08-17"
   },
   {
    "code": "75",
    "distillery": "Glenury / Glenury Royal",
    "region": "Highland",
-   "status": "operational",
+   "status": "closed",
    "founded": 1825,
-   "closed": null,
+   "closed": 1985,
    "wikipedia": "https://en.wikipedia.org/wiki/Glenury_distillery",
    "wikidata": "Q982630",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "76",
@@ -916,7 +916,7 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Mortlach_distillery",
    "wikidata": "Q501320",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "77",
@@ -928,7 +928,7 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Glen_Ord_distillery",
    "wikidata": "Q982663",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "78",
@@ -940,7 +940,7 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Ben_Nevis_Distillery",
    "wikidata": "Q816571",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "79",
@@ -952,7 +952,7 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Deanston_distillery",
    "wikidata": "Q5246792",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "80",
@@ -964,7 +964,7 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Glen_Spey_distillery",
    "wikidata": "Q16891693",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "81",
@@ -976,7 +976,7 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Glen_Keith_distillery",
    "wikidata": "Q1461648",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "82",
@@ -988,19 +988,19 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Glencadam_distillery",
    "wikidata": "Q248641",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "83",
    "distillery": "Convalmore",
    "region": "Speyside",
-   "status": "operational",
+   "status": "closed",
    "founded": 1893,
-   "closed": null,
+   "closed": 1985,
    "wikipedia": "https://en.wikipedia.org/wiki/Convalmore_distillery",
    "wikidata": "Q1129333",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "84",
@@ -1012,79 +1012,79 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Glendullan_distillery",
    "wikidata": "Q283103",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "85",
    "distillery": "Glen Elgin",
    "region": "Speyside",
-   "status": "operational",
-   "founded": 1898,
+   "status": null,
+   "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/Glen_Elgin_distillery",
-   "wikidata": "Q138037",
-   "confidence": "confirmed",
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
    "last_verified": "2026-08-17"
   },
   {
    "code": "86",
    "distillery": "Glenesk",
    "region": "Highland",
-   "status": "operational",
+   "status": "closed",
    "founded": null,
-   "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/Glenesk_distillery",
-   "wikidata": "Q124328383",
-   "confidence": "confirmed",
+   "closed": 1985,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
    "last_verified": "2026-08-17"
   },
   {
    "code": "87",
    "distillery": "Millburn",
    "region": "Highland",
-   "status": "operational",
-   "founded": 1805,
-   "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/Millburn_distillery",
-   "wikidata": "Q6858656",
-   "confidence": "confirmed",
+   "status": "closed",
+   "founded": null,
+   "closed": 1985,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
    "last_verified": "2026-08-17"
   },
   {
    "code": "88",
    "distillery": "Speyburn",
    "region": "Speyside",
-   "status": "operational",
-   "founded": 1897,
+   "status": null,
+   "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/Speyburn_distillery",
-   "wikidata": "Q982655",
-   "confidence": "confirmed",
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
    "last_verified": "2026-08-17"
   },
   {
    "code": "89",
    "distillery": "Tomintoul",
    "region": "Speyside",
-   "status": "operational",
-   "founded": 1964,
+   "status": null,
+   "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/Tomintoul_distillery",
-   "wikidata": "Q2440708",
-   "confidence": "confirmed",
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
    "last_verified": "2026-08-17"
   },
   {
    "code": "90",
    "distillery": "Pittyvaich",
    "region": "Speyside",
-   "status": "operational",
+   "status": "closed",
    "founded": 1975,
-   "closed": null,
+   "closed": 1993,
    "wikipedia": "https://en.wikipedia.org/wiki/Pittyvaich_distillery",
    "wikidata": "Q982979",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "91",
@@ -1096,19 +1096,19 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Dufftown_distillery",
    "wikidata": "Q1263993",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "92",
    "distillery": "Lochside",
    "region": "Highland",
-   "status": "operational",
+   "status": "closed",
    "founded": 1957,
-   "closed": null,
+   "closed": 1992,
    "wikipedia": "https://en.wikipedia.org/wiki/Lochside_distillery",
    "wikidata": "Q982583",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "93",
@@ -1120,7 +1120,7 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Glen_Scotia_distillery",
    "wikidata": "Q741360",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "94",
@@ -1132,7 +1132,7 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Fettercairn_distillery",
    "wikidata": "Q967985",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "95",
@@ -1144,7 +1144,7 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Auchroisk_distillery",
    "wikidata": "Q758618",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "96",
@@ -1156,90 +1156,90 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Glendronach_distillery",
    "wikidata": "Q240163",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "97",
    "distillery": "Littlemill",
    "region": "Lowland",
-   "status": "operational",
+   "status": "closed",
    "founded": 1772,
-   "closed": null,
+   "closed": 1994,
    "wikipedia": "https://en.wikipedia.org/wiki/Littlemill_distillery",
    "wikidata": "Q1034033",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "98",
    "distillery": "Inverleven",
    "region": "Lowland",
-   "status": "operational",
+   "status": "closed",
    "founded": 1938,
-   "closed": null,
+   "closed": 1991,
    "wikipedia": "https://en.wikipedia.org/wiki/Inverleven_distillery",
    "wikidata": "Q1671712",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "99",
    "distillery": "Glenugie",
    "region": "Highland",
-   "status": "operational",
+   "status": "closed",
    "founded": 1831,
-   "closed": null,
+   "closed": 1983,
    "wikipedia": "https://en.wikipedia.org/wiki/Glenugie_distillery",
    "wikidata": "Q668828",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "100",
    "distillery": "Strathmill",
    "region": "Speyside",
-   "status": "operational",
-   "founded": 1891,
+   "status": null,
+   "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/Strathmill_distillery",
-   "wikidata": "Q473301",
-   "confidence": "confirmed",
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
    "last_verified": "2026-08-17"
   },
   {
    "code": "101",
    "distillery": "Knockando",
    "region": "Speyside",
-   "status": "operational",
-   "founded": 1898,
+   "status": null,
+   "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/Knockando_distillery",
-   "wikidata": "Q982812",
-   "confidence": "confirmed",
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
    "last_verified": "2026-08-17"
   },
   {
    "code": "102",
    "distillery": "Dalwhinnie",
    "region": "Highland",
-   "status": "operational",
-   "founded": 1897,
+   "status": null,
+   "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/Dalwhinnie_distillery",
-   "wikidata": "Q773797",
-   "confidence": "confirmed",
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
    "last_verified": "2026-08-17"
   },
   {
    "code": "103",
    "distillery": "Royal Lochnagar",
    "region": "Highland",
-   "status": "operational",
-   "founded": 1845,
+   "status": null,
+   "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/Royal_Lochnagar_distillery",
-   "wikidata": "Q2171061",
-   "confidence": "confirmed",
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
    "last_verified": "2026-08-17"
   },
   {
@@ -1264,7 +1264,7 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Tormore_distillery",
    "wikidata": "Q982986",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "106",
@@ -1276,7 +1276,7 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Cardhu_distillery",
    "wikidata": "Q893272",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "107",
@@ -1288,7 +1288,7 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Glenallachie_distillery",
    "wikidata": "Q185904",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "108",
@@ -1300,7 +1300,7 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Allt-A-Bhainne_distillery",
    "wikidata": "Q280576",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "109",
@@ -1312,7 +1312,7 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Miltonduff_distillery",
    "wikidata": "Q1526981",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "110",
@@ -1324,7 +1324,7 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Oban_distillery",
    "wikidata": "Q982708",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "111",
@@ -1336,7 +1336,7 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Lagavulin_distillery",
    "wikidata": "Q280",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "112",
@@ -1348,7 +1348,7 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Loch_Lomond_distillery",
    "wikidata": "Q982871",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "113",
@@ -1360,7 +1360,7 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Braeval_distillery",
    "wikidata": "Q897183",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "114",
@@ -1372,7 +1372,7 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Springbank_%28distillery%29",
    "wikidata": "Q982719",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "115",
@@ -1426,13 +1426,13 @@
    "code": "119",
    "distillery": "Yamazaki",
    "region": "Japan",
-   "status": "operational",
-   "founded": 1923,
+   "status": null,
+   "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/Yamazaki_distillery",
-   "wikidata": "Q1417541",
-   "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-17"
   },
   {
    "code": "120",
@@ -1444,19 +1444,19 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Hakushu_distillery",
    "wikidata": "Q3125870",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "121",
    "distillery": "Isle of Arran",
    "region": "Islands",
-   "status": "operational",
-   "founded": 1995,
+   "status": null,
+   "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/Lochranza_distillery",
-   "wikidata": "Q699163",
-   "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-17"
   },
   {
    "code": "122",
@@ -1468,7 +1468,7 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Loch_Lomond_distillery",
    "wikidata": "Q982871",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "123",
@@ -1480,7 +1480,7 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Glengoyne_distillery",
    "wikidata": "Q982852",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "124",
@@ -1492,7 +1492,7 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Miyagikyo_distillery",
    "wikidata": "Q14338929",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "125",
@@ -1504,7 +1504,7 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Glenmorangie_distillery",
    "wikidata": "Q157974",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "126",
@@ -1516,7 +1516,7 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Springbank_%28distillery%29",
    "wikidata": "Q982719",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "127",
@@ -1528,7 +1528,7 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Bruichladdich_distillery",
    "wikidata": "Q51908",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "128",
@@ -1540,7 +1540,7 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Penderyn_distillery",
    "wikidata": "Q3036620",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "129",
@@ -1558,61 +1558,61 @@
    "code": "130",
    "distillery": "Chichibu",
    "region": "Japan",
-   "status": "operational",
-   "founded": 2004,
+   "status": null,
+   "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/Chichibu_distillery",
-   "wikidata": "Q16987975",
-   "confidence": "confirmed",
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
    "last_verified": "2026-08-17"
   },
   {
    "code": "131",
    "distillery": "Hanyu",
    "region": "Japan",
-   "status": "operational",
-   "founded": 2004,
-   "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/Chichibu_distillery",
-   "wikidata": "Q16987975",
-   "confidence": "confirmed",
+   "status": "closed",
+   "founded": null,
+   "closed": 2000,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
    "last_verified": "2026-08-17"
   },
   {
    "code": "132",
    "distillery": "Karuizawa",
    "region": "Japan",
-   "status": "operational",
-   "founded": 1955,
-   "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/Karuizawa_distillery",
-   "wikidata": "Q13209194",
-   "confidence": "confirmed",
+   "status": "closed",
+   "founded": null,
+   "closed": 2000,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
    "last_verified": "2026-08-17"
   },
   {
    "code": "133",
    "distillery": "Westland",
    "region": "Washington, USA",
-   "status": "operational",
+   "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/Westland_Distillery",
-   "wikidata": "Q124040031",
-   "confidence": "confirmed",
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
    "last_verified": "2026-08-17"
   },
   {
    "code": "134",
    "distillery": "Paul John",
    "region": "India",
-   "status": "operational",
-   "founded": 1992,
+   "status": null,
+   "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/John_Distilleries",
-   "wikidata": "Q17059978",
-   "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-17"
   },
   {
    "code": "135",
@@ -1624,7 +1624,7 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Loch_Lomond_distillery",
    "wikidata": "Q982871",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "136",
@@ -1636,31 +1636,31 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Eden_Mill_St_Andrews_distillery",
    "wikidata": "Q16966751",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "137",
    "distillery": "St. George’s (The English Whisky Co.)",
    "region": "England",
-   "status": "operational",
-   "founded": 2006,
+   "status": null,
+   "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/The_English_Distillery",
-   "wikidata": "Q22084268",
-   "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-17"
   },
   {
    "code": "138",
    "distillery": "Nantou",
    "region": "Taiwan",
-   "status": "operational",
+   "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/Taiwanese_whisky",
-   "wikidata": "Q91698567",
-   "confidence": "unconfirmed",
-   "last_verified": "2026-08-16"
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-17"
   },
   {
    "code": "139",
@@ -1672,19 +1672,19 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Kavalan_Distillery",
    "wikidata": "Q15063416",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "140",
    "distillery": "Balcones",
    "region": "Texas, USA",
-   "status": "operational",
-   "founded": 1997,
+   "status": null,
+   "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/Diageo",
-   "wikidata": "Q161140",
-   "confidence": "unconfirmed",
-   "last_verified": "2026-08-16"
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-17"
   },
   {
    "code": "141",
@@ -1714,48 +1714,48 @@
    "code": "143",
    "distillery": "Copperworks Distilling Co.",
    "region": "Washington, USA",
-   "status": "operational",
-   "founded": 1900,
+   "status": null,
+   "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/Penderyn_distillery",
-   "wikidata": "Q3036620",
-   "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-17"
   },
   {
    "code": "144",
    "distillery": "High Coast Distillery",
    "region": "Sweden",
-   "status": "operational",
-   "founded": 2005,
+   "status": null,
+   "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/Kavalan_Distillery",
-   "wikidata": "Q15063416",
-   "confidence": "confirmed",
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
    "last_verified": "2026-08-17"
   },
   {
    "code": "145",
    "distillery": "Smögen Whisky",
    "region": "Sweden",
-   "status": "operational",
+   "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/Sm%C3%B6gen_Whisky",
-   "wikidata": "Q20713877",
-   "confidence": "unconfirmed",
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
    "last_verified": "2026-08-17"
   },
   {
    "code": "146",
    "distillery": "Cotswolds",
    "region": "England",
-   "status": "operational",
-   "founded": 2014,
+   "status": null,
+   "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/Cotswolds_Distillery",
-   "wikidata": "Q28130452",
-   "confidence": "confirmed",
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
    "last_verified": "2026-08-17"
   },
   {
@@ -1786,61 +1786,61 @@
    "code": "149",
    "distillery": "Ardnamurchan",
    "region": "Highland",
-   "status": "operational",
-   "founded": 2014,
+   "status": null,
+   "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/Ardnamurchan_distillery",
-   "wikidata": "Q31159057",
-   "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-17"
   },
   {
    "code": "150",
    "distillery": "West Cork Distillers",
    "region": "Ireland",
-   "status": "operational",
+   "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/New_Midleton_Distillery",
-   "wikidata": "Q3312688",
-   "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-17"
   },
   {
    "code": "151",
    "distillery": "Mackmyra",
    "region": "Sweden",
-   "status": "operational",
-   "founded": 1999,
+   "status": null,
+   "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/Mackmyra_Whisky",
-   "wikidata": "Q6724578",
-   "confidence": "unconfirmed",
-   "last_verified": "2026-08-16"
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-17"
   },
   {
    "code": "152",
    "distillery": "Shelter Point",
    "region": "Canada",
-   "status": "operational",
+   "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/List_of_distilleries_in_Canada",
-   "wikidata": "Q5282956",
-   "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-17"
   },
   {
    "code": "153",
    "distillery": "Thy Whisky",
    "region": "Denmark",
-   "status": "operational",
+   "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/Lochnagar",
-   "wikidata": "Q1867453",
-   "confidence": "unconfirmed",
-   "last_verified": "2026-08-16"
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-17"
   },
   {
    "code": "154",
@@ -1864,47 +1864,35 @@
    "wikipedia": "https://en.wikipedia.org/wiki/The_Milk_%26_Honey_Distillery",
    "wikidata": "Q31197614",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "156",
    "distillery": "Glasgow Distillery",
    "region": "Lowland",
-   "status": "operational",
-   "founded": 1810,
+   "status": null,
+   "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/Jura_distillery",
-   "wikidata": "Q49646",
-   "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-17"
   },
   {
    "code": "157",
    "distillery": "Distillerie de Warenghem",
    "region": "France",
-   "status": "operational",
+   "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/Whisky",
-   "wikidata": "Q281",
-   "confidence": "unconfirmed",
-   "last_verified": "2026-08-16"
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-17"
   },
   {
    "code": "158",
    "distillery": "Yuza Distillery",
-   "region": "Japan",
-   "status": "operational",
-   "founded": 1870,
-   "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/Japanese_whisky",
-   "wikidata": "Q901367",
-   "confidence": "unconfirmed",
-   "last_verified": "2026-08-16"
-  },
-  {
-   "code": "159",
-   "distillery": "Mars Shinshu",
    "region": "Japan",
    "status": null,
    "founded": null,
@@ -1912,6 +1900,18 @@
    "wikipedia": null,
    "wikidata": null,
    "confidence": null,
+   "last_verified": "2026-08-17"
+  },
+  {
+   "code": "159",
+   "distillery": "Mars Shinshu",
+   "region": "Japan",
+   "status": "operational",
+   "founded": 1985,
+   "closed": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Shinshu_Mars_distillery",
+   "wikidata": "Q119756769",
+   "confidence": "confirmed",
    "last_verified": "2026-08-17"
   },
   {
@@ -1930,49 +1930,49 @@
    "code": "161",
    "distillery": "Nc'nean Distillery",
    "region": "Scotland",
-   "status": "operational",
-   "founded": 2017,
+   "status": null,
+   "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/Nc%27nean_distillery",
-   "wikidata": "Q108862263",
-   "confidence": "confirmed",
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
    "last_verified": "2026-08-17"
   },
   {
    "code": "162",
    "distillery": "Isle of Raasay",
    "region": "Scotland",
-   "status": "operational",
-   "founded": 2016,
+   "status": null,
+   "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/Isle_of_Raasay_distillery",
-   "wikidata": "Q60748152",
-   "confidence": "confirmed",
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
    "last_verified": "2026-08-17"
   },
   {
    "code": "163",
    "distillery": "Isle of Harris Distillery",
    "region": "Scotland",
-   "status": "operational",
+   "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/Isle_of_Harris_distillery",
-   "wikidata": "Q108719053",
-   "confidence": "confirmed",
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
    "last_verified": "2026-08-17"
   },
   {
    "code": "164",
    "distillery": "Penderyn (double distilled)",
    "region": "Wales",
-   "status": "operational",
-   "founded": 1900,
+   "status": null,
+   "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/Penderyn_distillery",
-   "wikidata": "Q3036620",
-   "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-17"
   },
   {
    "code": "165",
@@ -1984,7 +1984,7 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Wolfburn_distillery",
    "wikidata": "Q3741441",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "166",
@@ -1996,7 +1996,7 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Torabhaig_distillery",
    "wikidata": "Q105812096",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "167",
@@ -2008,19 +2008,19 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Clydeside_Distillery",
    "wikidata": "Q108719335",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "168",
    "distillery": "InchDairnie Distillery (KinGlassie)",
    "region": "Scotland",
    "status": "operational",
-   "founded": 1824,
+   "founded": 2015,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/Cameronbridge_distillery",
-   "wikidata": "Q1028809",
+   "wikipedia": "https://en.wikipedia.org/wiki/Inchdairnie_distillery",
+   "wikidata": "Q131735895",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "A1",
@@ -2134,36 +2134,36 @@
    "code": "B1",
    "distillery": "Heaven Hill",
    "region": "Kentucky, USA",
-   "status": "operational",
+   "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/List_of_historic_whisky_distilleries",
-   "wikidata": "Q70278379",
-   "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-17"
   },
   {
    "code": "B2",
    "distillery": "New Bernheim",
    "region": "Kentucky, USA",
-   "status": "operational",
+   "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/List_of_historic_whisky_distilleries",
-   "wikidata": "Q70278379",
-   "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-17"
   },
   {
    "code": "B3",
    "distillery": "Rock Town",
    "region": "Arkansas, USA",
-   "status": "operational",
-   "founded": 1518,
+   "status": null,
+   "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/The_Green_Tree_Distillery",
-   "wikidata": "Q67804711",
-   "confidence": "confirmed",
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
    "last_verified": "2026-08-17"
   },
   {
@@ -2182,12 +2182,12 @@
    "code": "B5",
    "distillery": "George Dickel (Cascade Hollow)",
    "region": "Tennessee, USA",
-   "status": "operational",
+   "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/American_Whiskey_Trail",
-   "wikidata": "Q3614101",
-   "confidence": "unconfirmed",
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
    "last_verified": "2026-08-17"
   },
   {
@@ -2230,25 +2230,25 @@
    "code": "B9",
    "distillery": "Wilderness Trail Distillery",
    "region": "Kentucky, USA",
-   "status": "operational",
-   "founded": 1816,
+   "status": null,
+   "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/Lagavulin_distillery",
-   "wikidata": "Q280",
-   "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-17"
   },
   {
    "code": "C1",
    "distillery": "Camus",
    "region": "France",
-   "status": "operational",
-   "founded": 1863,
+   "status": null,
+   "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/Camus_Cognac",
-   "wikidata": "Q964333",
-   "confidence": "unconfirmed",
-   "last_verified": "2026-08-16"
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-17"
   },
   {
    "code": "C2",
@@ -2266,12 +2266,12 @@
    "code": "C3",
    "distillery": "Louis Royer",
    "region": "France",
-   "status": "operational",
+   "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/Louis_Rothkopf",
-   "wikidata": "Q15998887",
-   "confidence": "unconfirmed",
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
    "last_verified": "2026-08-17"
   },
   {
@@ -2290,12 +2290,12 @@
    "code": "C5",
    "distillery": "Tiffon Cognac",
    "region": "France",
-   "status": "operational",
-   "founded": 1875,
+   "status": null,
+   "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/Braastad",
-   "wikidata": "Q6514242",
-   "confidence": "unconfirmed",
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
    "last_verified": "2026-08-17"
   },
   {
@@ -2314,13 +2314,13 @@
    "code": "C7",
    "distillery": "Guy Rateau",
    "region": "France",
-   "status": "operational",
+   "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/Marcel_Riffard",
-   "wikidata": "Q3289332",
-   "confidence": "unconfirmed",
-   "last_verified": "2026-08-16"
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-17"
   },
   {
    "code": "C8",
@@ -2362,12 +2362,12 @@
    "code": "CW2",
    "distillery": "Balcones",
    "region": "Texas, USA",
-   "status": "operational",
-   "founded": 1997,
+   "status": null,
+   "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/Diageo",
-   "wikidata": "Q161140",
-   "confidence": "unconfirmed",
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
    "last_verified": "2026-08-17"
   },
   {
@@ -2380,31 +2380,31 @@
    "wikipedia": "https://en.wikipedia.org/wiki/North_British_distillery",
    "wikidata": "Q1432194",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "G2",
    "distillery": "Carsebridge",
    "region": "Lowland",
-   "status": "operational",
-   "founded": 1824,
+   "status": null,
+   "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/Cameronbridge_distillery",
-   "wikidata": "Q1028809",
-   "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-17"
   },
   {
    "code": "G3",
    "distillery": "Caledonian",
    "region": "Lowland",
-   "status": "operational",
-   "founded": 1892,
+   "status": null,
+   "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/Glen_Mhor_distillery",
-   "wikidata": "Q131160796",
-   "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-17"
   },
   {
    "code": "G4",
@@ -2416,7 +2416,7 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Cameronbridge_distillery",
    "wikidata": "Q1028809",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "G5",
@@ -2428,91 +2428,91 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Invergordon_distillery",
    "wikidata": "Q1671709",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "G6",
    "distillery": "Port Dundas",
    "region": "Lowland",
-   "status": "operational",
+   "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/List_of_whisky_distilleries_in_Scotland",
-   "wikidata": "Q1751881",
-   "confidence": "confirmed",
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
    "last_verified": "2026-08-17"
   },
   {
    "code": "G7",
    "distillery": "Girvan",
    "region": "Lowland",
-   "status": "operational",
-   "founded": 1963,
+   "status": null,
+   "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/Girvan_distillery",
-   "wikidata": "Q1527141",
-   "confidence": "confirmed",
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
    "last_verified": "2026-08-17"
   },
   {
    "code": "G8",
    "distillery": "Cambus",
    "region": "Lowland",
-   "status": "operational",
+   "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/List_of_whisky_distilleries_in_Scotland",
-   "wikidata": "Q1751881",
-   "confidence": "confirmed",
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
    "last_verified": "2026-08-17"
   },
   {
    "code": "G9",
    "distillery": "Loch Lomond",
    "region": "Highland",
-   "status": "operational",
-   "founded": 1966,
+   "status": null,
+   "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/Loch_Lomond_distillery",
-   "wikidata": "Q982871",
-   "confidence": "confirmed",
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
    "last_verified": "2026-08-17"
   },
   {
    "code": "G10",
    "distillery": "Strathclyde",
    "region": "Lowland",
-   "status": "operational",
-   "founded": 1927,
+   "status": null,
+   "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/Strathclyde_distillery",
-   "wikidata": "Q167043",
-   "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-17"
   },
   {
    "code": "G11",
    "distillery": "Nikka Coffey Grain",
    "region": "Japan",
-   "status": "operational",
-   "founded": 1825,
+   "status": null,
+   "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/Ben_Nevis_Distillery",
-   "wikidata": "Q816571",
-   "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-17"
   },
   {
    "code": "G12",
    "distillery": "Nikka Coffey Malt",
    "region": "Japan",
-   "status": "operational",
-   "founded": 1825,
+   "status": null,
+   "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/Ben_Nevis_Distillery",
-   "wikidata": "Q816571",
-   "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-17"
   },
   {
    "code": "G13",
@@ -2524,19 +2524,19 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Chita_distillery",
    "wikidata": "Q22130229",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "G14",
    "distillery": "Dumbarton",
    "region": "Lowland",
-   "status": "operational",
-   "founded": 1938,
+   "status": null,
+   "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/Inverleven_distillery",
-   "wikidata": "Q1671712",
-   "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-17"
   },
   {
    "code": "G15",
@@ -2548,19 +2548,19 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Loch_Lomond_distillery",
    "wikidata": "Q982871",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "G16",
    "distillery": "Glasgow Distillery",
    "region": "Lowland",
-   "status": "operational",
-   "founded": 1810,
+   "status": null,
+   "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/Jura_distillery",
-   "wikidata": "Q49646",
-   "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-17"
   },
   {
    "code": "G17",
@@ -2572,31 +2572,31 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Starlaw_distillery",
    "wikidata": "Q60754966",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "GN1",
    "distillery": "Glasgow Distillery Company",
    "region": "Scotland",
-   "status": "operational",
-   "founded": 1779,
+   "status": null,
+   "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/Bowmore_distillery",
-   "wikidata": "Q51905",
-   "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-17"
   },
   {
    "code": "GN2",
    "distillery": "Strathearn Distillers",
    "region": "Scotland",
-   "status": "operational",
+   "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/List_of_whisky_distilleries_in_Scotland",
-   "wikidata": "Q1751881",
-   "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-17"
   },
   {
    "code": "GN3",
@@ -2605,22 +2605,22 @@
    "status": "operational",
    "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/Distillery_District",
-   "wikidata": "Q934422",
+   "wikipedia": "https://en.wikipedia.org/wiki/Borders_distillery",
+   "wikidata": "Q60762612",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "GN4",
    "distillery": "Boatyard Distillery",
    "region": "Northern Ireland",
-   "status": "operational",
+   "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/Irish_whiskey",
-   "wikidata": "Q909747",
-   "confidence": "unconfirmed",
-   "last_verified": "2026-08-16"
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-17"
   },
   {
    "code": "GN5",
@@ -2632,19 +2632,19 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Glenrinnes_distillery",
    "wikidata": "Q138299135",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "GN6",
    "distillery": "Holyrood Distillery",
    "region": "Edinburgh, Scotland",
    "status": "operational",
-   "founded": null,
+   "founded": 2019,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/List_of_whisky_distilleries_in_Scotland",
-   "wikidata": "Q1751881",
+   "wikipedia": "https://en.wikipedia.org/wiki/Holyrood_distillery",
+   "wikidata": "Q120108000",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "GN7",
@@ -2656,67 +2656,67 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Cotswolds_Distillery",
    "wikidata": "Q28130452",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "R1",
    "distillery": "Monymusk",
    "region": "Jamaica",
-   "status": "operational",
+   "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/National_Rums_of_Jamaica",
-   "wikidata": "Q139761416",
-   "confidence": "unconfirmed",
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
    "last_verified": "2026-08-17"
   },
   {
    "code": "R2",
    "distillery": "Demerara Distillers (El Dorado)",
    "region": "Guyana",
-   "status": "operational",
+   "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/Demerara_Distillers",
-   "wikidata": "Q107108370",
-   "confidence": "confirmed",
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
    "last_verified": "2026-08-17"
   },
   {
    "code": "R3",
    "distillery": "West Indies Rum",
    "region": "Barbados",
-   "status": "operational",
-   "founded": 1893,
+   "status": null,
+   "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/West_Indies_Rum_Distillery",
-   "wikidata": "Q118065928",
-   "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-17"
   },
   {
    "code": "R4",
    "distillery": "Trinidad Distillers (Angostura)",
    "region": "Trinidad",
-   "status": "operational",
+   "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/List_of_distilleries_in_Canada",
-   "wikidata": "Q5282956",
-   "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-17"
   },
   {
    "code": "R5",
    "distillery": "Long Pond",
    "region": "Jamaica",
-   "status": "operational",
-   "founded": 1893,
+   "status": null,
+   "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/West_Indies_Rum_Distillery",
-   "wikidata": "Q118065928",
-   "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-17"
   },
   {
    "code": "R6",
@@ -2728,43 +2728,43 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Foursquare_Rum_Distillery",
    "wikidata": "Q138028496",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "R7",
    "distillery": "Hampden",
    "region": "Jamaica",
-   "status": "operational",
+   "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/Foursquare_Rum_Distillery",
-   "wikidata": "Q138028496",
-   "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-17"
   },
   {
    "code": "R8",
    "distillery": "Compañía Licorera de Nicaragua (Flor de Caña)",
    "region": "Nicaragua",
-   "status": "operational",
-   "founded": 1890,
+   "status": null,
+   "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/Flor_de_Ca%C3%B1a",
-   "wikidata": "Q1429240",
-   "confidence": "unconfirmed",
-   "last_verified": "2026-08-16"
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-17"
   },
   {
    "code": "R9",
    "distillery": "Varela Hermanos (Ron Abuelo)",
    "region": "Panama",
-   "status": "operational",
+   "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/Juan_Carlos_Varela",
-   "wikidata": "Q1134096",
-   "confidence": "unconfirmed",
-   "last_verified": "2026-08-16"
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-17"
   },
   {
    "code": "R10",
@@ -2776,54 +2776,54 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Tobermory_distillery",
    "wikidata": "Q982673",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "R11",
    "distillery": "Worthy Park",
    "region": "Jamaica",
-   "status": "operational",
+   "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/Scotch_whisky",
-   "wikidata": "Q382947",
-   "confidence": "unconfirmed",
-   "last_verified": "2026-08-16"
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-17"
   },
   {
    "code": "R12",
    "distillery": "Travellers",
    "region": "Belize",
-   "status": "operational",
+   "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/Buffalo_Trace_Distillery",
-   "wikidata": "Q2927641",
-   "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-17"
   },
   {
    "code": "R13",
    "distillery": "Caroni",
    "region": "Trinidad",
-   "status": "operational",
+   "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/Demerara_Distillers",
-   "wikidata": "Q107108370",
-   "confidence": "confirmed",
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
    "last_verified": "2026-08-17"
   },
   {
    "code": "R14",
    "distillery": "Uitvlugt",
    "region": "Guyana",
-   "status": "operational",
+   "status": null,
    "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/Demerara_Distillers",
-   "wikidata": "Q107108370",
-   "confidence": "confirmed",
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
    "last_verified": "2026-08-17"
   },
   {
@@ -2836,43 +2836,43 @@
    "wikipedia": "https://en.wikipedia.org/wiki/List_of_whisky_distilleries_in_Scotland",
    "wikidata": "Q1751881",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "RW2",
    "distillery": "Finger Lakes Distilling",
    "region": "New York, USA",
-   "status": "operational",
-   "founded": 1945,
+   "status": null,
+   "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/Constellation_Brands",
-   "wikidata": "Q1128160",
-   "confidence": "unconfirmed",
-   "last_verified": "2026-08-16"
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-17"
   },
   {
    "code": "RW3",
    "distillery": "New York Distilling Co.",
    "region": "New York, USA",
-   "status": "operational",
-   "founded": 1784,
+   "status": null,
+   "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/Old_Bushmills_Distillery",
-   "wikidata": "Q268267",
-   "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-17"
   },
   {
    "code": "RW4",
    "distillery": "Peerless Distillery",
    "region": "Kentucky, USA",
-   "status": "operational",
-   "founded": 1824,
+   "status": null,
+   "founded": null,
    "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/The_Macallan_distillery",
-   "wikidata": "Q982891",
-   "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-17"
   },
   {
    "code": "RW5",
@@ -2884,7 +2884,7 @@
    "wikipedia": "https://en.wikipedia.org/wiki/High_West_Distillery",
    "wikidata": "Q5757420",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "RW6",
@@ -2896,42 +2896,42 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Kyr%C3%B6_Distillery_Company",
    "wikidata": "Q23045171",
    "confidence": "confirmed",
-   "last_verified": "2026-08-16"
+   "last_verified": "2026-08-17"
   },
   {
    "code": "RW7",
    "distillery": "Journeyman Distillery",
    "region": "Michigan, USA",
-   "status": "operational",
-   "founded": null,
-   "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/Kevin_McKidd",
-   "wikidata": "Q312133",
-   "confidence": "unconfirmed",
-   "last_verified": "2026-08-16"
-  },
-  {
-   "code": "RW8",
-   "distillery": "Catoctin Creek Distilling Co.",
-   "region": "Virginia, USA",
-   "status": "operational",
-   "founded": null,
-   "closed": null,
-   "wikipedia": "https://en.wikipedia.org/wiki/Microdistillery",
-   "wikidata": "Q6839471",
-   "confidence": "confirmed",
-   "last_verified": "2026-08-16"
-  },
-  {
-   "code": "RW9",
-   "distillery": "Wilderness Trail Distillery",
-   "region": "Kentucky, USA",
    "status": null,
    "founded": null,
    "closed": null,
    "wikipedia": null,
    "wikidata": null,
    "confidence": null,
+   "last_verified": "2026-08-17"
+  },
+  {
+   "code": "RW8",
+   "distillery": "Catoctin Creek Distilling Co.",
+   "region": "Virginia, USA",
+   "status": null,
+   "founded": null,
+   "closed": null,
+   "wikipedia": null,
+   "wikidata": null,
+   "confidence": null,
+   "last_verified": "2026-08-17"
+  },
+  {
+   "code": "RW9",
+   "distillery": "Wilderness Trail Distillery",
+   "region": "Kentucky, USA",
+   "status": "operational",
+   "founded": 2013,
+   "closed": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Wilderness_Trail_Distillery",
+   "wikidata": "Q20710777",
+   "confidence": "confirmed",
    "last_verified": "2026-08-17"
   }
  ]
