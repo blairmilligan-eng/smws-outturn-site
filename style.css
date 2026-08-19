@@ -76,7 +76,7 @@ a.wiki::after{content:" \2197";font-size:.8em;opacity:.6;}
 .bundlebottles{margin:12px 0 4px;}
 .bcap{font-family:var(--cond);text-transform:uppercase;letter-spacing:1px;font-size:11px;color:var(--muted);padding:0 0 6px;border-top:1px solid var(--rule);padding-top:12px;}
 .bbottle{display:flex;align-items:center;gap:10px;padding:8px 0;border-bottom:1px solid var(--rule);text-decoration:none;color:var(--ink);}
-.bcask{font-family:var(--cond);font-weight:600;font-size:12px;background:var(--navy);color:#fff;padding:3px 7px;white-space:nowrap;}
+.bcask{font-family:var(--cond);font-weight:600;font-size:12px;background:var(--navy);color:#fff;padding:3px 7px;white-space:nowrap;align-self:flex-start;margin-top:5px;}
 .bmeta{display:flex;flex-direction:column;flex:1;min-width:0;}
 .bname{font-weight:600;color:var(--navy);line-height:1.25;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
 .bdist{align-self:flex-start;color:var(--navy);border-bottom:1px solid var(--navy);font-size:13px;line-height:1.5;}
