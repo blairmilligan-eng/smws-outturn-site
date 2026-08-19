@@ -6,7 +6,7 @@
 <link rel="canonical" href="https://caskcode.co.uk/region/lowland/">
 <meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1">
 <meta name="author" content="Blair Milligan">
-<meta name="build" content="20260819T194853Z">
+<meta name="build" content="20260819T200221Z">
 <meta property="og:type" content="website"><meta property="og:title" content="SMWS Lowland distillery codes"><meta property="og:description" content="Every SMWS distillery code in the Lowland region, each linked to its distillery."><meta property="og:url" content="https://caskcode.co.uk/region/lowland/"><meta property="og:image" content="https://caskcode.co.uk/SMWS-WhineLogo.png"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:image" content="https://caskcode.co.uk/SMWS-WhineLogo.png"><link rel="icon" href="../../SMWS-WhineLogo.png">
 <link rel="preconnect" href="https://cdn11.bigcommerce.com" crossorigin>
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -55,5 +55,9 @@ function sortT(th,col){var tb=document.getElementById('table').tBodies[0];if(!tb
   if(ka===null&&kb===null)return 0;if(ka===null)return 1;if(kb===null)return -1;
   if(ka<kb)return -1*dir;if(ka>kb)return 1*dir;return 0;});
  main.concat(bundles).forEach(function(r){tb.appendChild(r);});}
+/* On touch-primary devices (phones/tablets) open external links in the same tab, so the
+   browser back button walks a single history instead of stranding you in a new tab. */
+(function(){try{if(window.matchMedia&&window.matchMedia('(hover: none) and (pointer: coarse)').matches){
+ document.querySelectorAll('a[target="_blank"]').forEach(function(a){a.removeAttribute('target');});}}catch(e){}})();
 </script>
 </body></html>
