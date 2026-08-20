@@ -27,7 +27,6 @@ An SMWS code like 4.403 means distillery 4 (before the dot) and cask 403 (after 
 - 78.101 "Apples dumped on hay bales" - Ben Nevis (Highland) - https://smws.com/apples-dumped-on-hay-bales/
 - 100.54 "Breakfast aftershave" - Strathmill (Speyside) - https://smws.com/breakfast-aftershave/
 - 164.3 "Strawberry sweetshop implosion" - Penderyn (double distilled) (Wales) - https://smws.com/strawberry-sweetshop-implosion/
-- B5.22 "The sweet trolley and the herb basket" - George Dickel (Cascade Hollow) (Tennessee, USA) - https://smws.com/the-sweet-trolley-and-the-herb-basket/
 - batch 42 "Highland peaty potion" - unknown distillery - https://smws.com/highland-peaty-potion/
 
 ## Every SMWS code -> distillery (with page URLs)

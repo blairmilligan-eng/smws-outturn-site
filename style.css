@@ -8,9 +8,8 @@ a{color:var(--navy);}
 .skip:focus{left:8px;top:8px;}
 .topbar{background:var(--navy);color:#fff;text-align:center;font-family:var(--cond);
  text-transform:uppercase;letter-spacing:3px;font-size:13px;padding:12px;}
-.logo-bar{background:#131c40;padding:0;line-height:0;}
-.logo{display:block;margin:0 auto;max-width:100%;max-height:205px;height:auto;opacity:0;transition:opacity .6s ease;}
-.logo.loaded{opacity:1;}
+.logo-bar{background:#131c40;padding:0;line-height:0;min-height:205px;}
+.logo{display:block;margin:0 auto;max-width:100%;max-height:205px;height:auto;}
 nav.site{background:var(--navy);}
 nav.site .in{max-width:1280px;margin:0 auto;padding:0 24px;display:flex;gap:18px;flex-wrap:wrap;}
 nav.site a{color:#fff;font-family:var(--cond);text-transform:uppercase;letter-spacing:1px;
