@@ -4,7 +4,7 @@
  "license_url": "https://creativecommons.org/licenses/by/4.0/",
  "source": "Cask Code",
  "source_url": "https://caskcode.co.uk/",
- "updated": "2026-08-21",
+ "updated": "2026-08-22",
  "codes": [
   {
    "code": "1",
@@ -1744,7 +1744,7 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Sm%C3%B6gen_Whisky",
    "wikidata": "Q20713877",
    "confidence": "confirmed",
-   "last_verified": "2026-08-21"
+   "last_verified": "2026-08-22"
   },
   {
    "code": "146",
@@ -1816,7 +1816,7 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Mackmyra_Whisky",
    "wikidata": "Q6724578",
    "confidence": "confirmed",
-   "last_verified": "2026-08-21"
+   "last_verified": "2026-08-22"
   },
   {
    "code": "152",
