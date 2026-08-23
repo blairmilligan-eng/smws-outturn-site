@@ -131,6 +131,10 @@ table.reftbl tr:nth-child(even) td{background:#fafafa;}
 .prose a{color:var(--navy);}
 .datacallout{background:var(--tint);border:1px solid #d9dcec;padding:16px 18px;margin:8px 0 4px;font-family:var(--serif);font-size:14.5px;}
 .datacallout a{color:var(--navy);font-weight:bold;}
+.membernote{background:#f7f5ef;border-left:4px solid var(--navy);padding:6px 20px 16px;margin:24px 0;}
+.membernote .sec{margin-top:16px;}
+.membernote p{font-family:var(--serif);font-size:16px;line-height:1.7;color:#333;max-width:800px;}
+.notesrc{font-family:var(--cond)!important;text-transform:uppercase;letter-spacing:.5px;font-size:12px!important;color:var(--muted);margin:8px 0 0!important;}
 footer.ft{border-top:1px solid var(--rule);font-family:var(--serif);font-size:12.5px;line-height:1.6;color:var(--muted);padding:26px 24px;margin-top:30px;text-align:center;}
 footer.ft a{color:var(--navy);}
 footer.ft .ind{max-width:820px;margin:0 auto 8px;}
