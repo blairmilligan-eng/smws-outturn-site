@@ -17,7 +17,6 @@ An SMWS code like 4.403 means distillery 4 (before the dot) and cask 403 (after 
 - 41.191 "Zingy stardust" - Dailuaine (Speyside) - https://smws.com/zingy-stardust/
 - 44.200 "Masala dabba" - Craigellachie (Speyside) - https://smws.com/masala-dabba/
 - 48.188 "Knickerbocker glory story" - Balmenach (Speyside) - https://smws.com/knickerbocker-glory-story/
-- 50.124 "Vitality and maturity" - Bladnoch (Lowland) - https://smws.com/vitality-and-maturity/
 - 53.532 "What’s not to like?" - Caol Ila (Islay) - https://smws.com/what-s-not-to-like/
 - 58.65 "A roly-poly in the hay loft" - Strathisla (Speyside) - https://smws.com/a-roly-poly-in-the-hay-loft/
 - 59.108 "Veritably vivacious" - Teaninich (Highland) - https://smws.com/veritably-vivacious/
