@@ -11,7 +11,6 @@ An SMWS code like 4.403 means distillery 4 (before the dot) and cask 403 (after 
 ## Current Outturn (Category 26)
 
 - Across the Spey Duo (multi-bottle bundle) - https://smws.com/across-the-spey-duo/
-- Smoke & Symphony Pair (multi-bottle bundle) - https://smws.com/smoke-symphony-pair/
 - The Creators Collection: Elgin Marvels (multi-bottle bundle) - https://smws.com/the-creators-collection-elgin-marvels/
 - 4.403 "An autolytic Orcadian" - Highland Park (Islands) - https://smws.com/an-autolytic-orcadian/
 - 41.191 "Zingy stardust" - Dailuaine (Speyside) - https://smws.com/zingy-stardust/
@@ -26,7 +25,7 @@ An SMWS code like 4.403 means distillery 4 (before the dot) and cask 403 (after 
 - 78.101 "Apples dumped on hay bales" - Ben Nevis (Highland) - https://smws.com/apples-dumped-on-hay-bales/
 - 100.54 "Breakfast aftershave" - Strathmill (Speyside) - https://smws.com/breakfast-aftershave/
 - 164.3 "Strawberry sweetshop implosion" - Penderyn (double distilled) (Wales) - https://smws.com/strawberry-sweetshop-implosion/
-- batch 42 "Highland peaty potion" - unknown distillery - https://smws.com/highland-peaty-potion/
+- Batch 42 "Highland peaty potion" - unknown distillery - https://smws.com/highland-peaty-potion/
 
 ## Every SMWS code -> distillery (with page URLs)
 
