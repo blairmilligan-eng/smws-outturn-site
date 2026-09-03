@@ -8,7 +8,7 @@ Open data (CC BY 4.0): https://caskcode.co.uk/data/smws-codes.json
 
 An SMWS code like 4.403 means distillery 4 (before the dot) and cask 403 (after the dot). SMWS does not print distillery names on its labels.
 
-## Current Outturn (Category 26)
+## Current Outturn
 
 - 4.404 "A tugboat smokery sails through Orkney mist" - Highland Park (Islands) - https://smws.com/a-tugboat-smokery-sails-through-orkney-mist/
 - 8.58 "Honey or caramel blonde?" - Tamdhu (Speyside) - https://smws.com/honey-or-caramel-blonde/
