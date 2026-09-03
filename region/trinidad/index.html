@@ -6,7 +6,7 @@
 <link rel="canonical" href="https://caskcode.co.uk/region/trinidad/">
 <meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1">
 <meta name="author" content="Blair Milligan">
-<meta name="build" content="20260903T114754Z">
+<meta name="build" content="20260903T115855Z">
 <meta property="og:type" content="website"><meta property="og:title" content="SMWS Trinidad distillery codes"><meta property="og:description" content="Every SMWS distillery code in the Trinidad region, each linked to its distillery."><meta property="og:url" content="https://caskcode.co.uk/region/trinidad/"><meta property="og:image" content="https://caskcode.co.uk/SMWS-WhineLogo.png"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:image" content="https://caskcode.co.uk/SMWS-WhineLogo.png"><link rel="icon" type="image/png" sizes="32x32" href="../../favicon-32.png"><link rel="apple-touch-icon" sizes="180x180" href="../../apple-touch-icon.png">
 <link rel="preload" href="../../fonts/oswald-500.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="../../style.css">
@@ -82,6 +82,9 @@ function sortT(th,col){var tb=document.getElementById('table').tBodies[0];if(!tb
   ans.style.display='none';return null;}
  input.addEventListener('input',match);
  form.addEventListener('submit',function(e){var r=match();
-  if(r&&r.exact){e.preventDefault();location.href=rel+'code/'+encodeURIComponent(r.code)+'/';}});})();
+  if(r&&r.exact){e.preventDefault();location.href=rel+'code/'+encodeURIComponent(r.code)+'/';}});
+ // Back-button on mobile restores the page from the bfcache with the answer strip still
+ // showing but the box empty. Reset to a clean state whenever the page is re-shown.
+ window.addEventListener('pageshow',function(){input.value='';ans.style.display='none';});})();
 </script>
 </body></html>
