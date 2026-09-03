@@ -24,7 +24,7 @@ nav.site a:hover,nav.site a[aria-current]{opacity:1;border-bottom:2px solid #fff
 .crumb a{color:var(--muted);text-decoration:none;}
 .crumb a:hover{color:var(--navy);}
 .pagehead h1{font-family:var(--serif);color:var(--navy);font-weight:700;
- margin:0;font-size:32px;line-height:1.15;}
+ margin:0;font-size:26px;line-height:1.2;}
 .pagehead .count{font-family:var(--cond);text-transform:uppercase;letter-spacing:1px;color:var(--muted);
  font-size:13px;margin-top:6px;}
 .pagehead{border-bottom:2px solid var(--navy);padding-bottom:12px;margin-bottom:22px;}
