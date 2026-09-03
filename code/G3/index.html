@@ -6,7 +6,7 @@
 <link rel="canonical" href="https://caskcode.co.uk/code/G3/">
 <meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1">
 <meta name="author" content="Blair Milligan">
-<meta name="build" content="20260903T082840Z">
+<meta name="build" content="20260903T104810Z">
 <meta property="og:type" content="website"><meta property="og:title" content="SMWS Code G3: Caledonian (Lowland)"><meta property="og:description" content="SMWS code G3 is Caledonian, in the Lowland region. Society casks numbered G3.x."><meta property="og:url" content="https://caskcode.co.uk/code/G3/"><meta property="og:image" content="https://caskcode.co.uk/SMWS-WhineLogo.png"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:image" content="https://caskcode.co.uk/SMWS-WhineLogo.png"><link rel="icon" href="../../SMWS-WhineLogo.png">
 <link rel="preconnect" href="https://cdn11.bigcommerce.com" crossorigin>
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -23,13 +23,13 @@
 <div class="pagehead"><h1>SMWS Code G3: Caledonian</h1><div class="count">Distillery behind Society cask numbers G3.x</div></div>
 <p class="answer"><strong>SMWS code G3 is Caledonian</strong>, in the Lowland region. Any Society bottling numbered <strong>G3.x</strong> (for example G3.1, G3.42) is a single cask from Caledonian.</p>
 <ul class="facts"><li><b>Distillery</b><span><a class="wiki" href="https://en.wikipedia.org/w/index.php?title=Special:Search&amp;search=Caledonian+distillery&amp;go=Go" target="_blank" rel="noopener">Caledonian</a></span></li><li><b>Region</b><span>Lowland</span></li><li><b>Status</b><span class="badge unknown">Status unknown</span></li><li><b>Location</b><span>Scotland</span></li></ul>
-
+<p class="conf">Mapping confidence: unverified. The distillery link is a Wikipedia search, not a verified article. &middot; <a href="../../methodology/">how we verify</a> &middot; <a href="https://github.com/blairmilligan-eng/smws-outturn-site/issues" rel="nofollow">report a correction</a></p>
 
 
 <div class="prose">
 <p>The <strong>Scotch Malt Whisky Society</strong> bottles single casks under numeric codes rather than distillery names, so a label reading <strong>G3.403</strong> means cask 403 from distillery G3. That distillery is <strong>Caledonian</strong>, in Lowland. More on <a href="https://en.wikipedia.org/w/index.php?title=Special:Search&amp;search=Caledonian+distillery&amp;go=Go" target="_blank" rel="noopener">Caledonian at Wikipedia</a>.</p>
 </div>
-<div class="prose" style="margin-top:26px"><p><b>Other Lowland distilleries:</b> <a href="../../code/5/">5 Auchentoshan</a>, <a href="../../code/20/">20 Inverleven</a>, <a href="../../code/22/">22 Glenkinchie</a>, <a href="../../code/25/">25 Rosebank</a>, <a href="../../code/49/">49 St. Magdalene</a>, <a href="../../code/50/">50 Bladnoch</a>, <a href="../../code/97/">97 Littlemill</a>, <a href="../../code/98/">98 Inverleven</a>, <a href="../../code/136/">136 Eden Mill</a>, <a href="../../code/156/">156 Glasgow Distillery</a>, <a href="../../code/G1/">G1 North British</a>, <a href="../../code/G2/">G2 Carsebridge</a> &middot; <a href="../../region/lowland/">all Lowland codes</a></p></div>
+<div class="prose" style="margin-top:26px"><p><b>Other Lowland distilleries:</b> <a href="../../code/5/">5 Auchentoshan</a>, <a href="../../code/20/">20 Inverleven</a>, <a href="../../code/22/">22 Glenkinchie</a>, <a href="../../code/25/">25 Rosebank</a>, <a href="../../code/49/">49 St. Magdalene</a>, <a href="../../code/50/">50 Bladnoch</a>, <a href="../../code/97/">97 Littlemill</a>, <a href="../../code/98/">98 Inverleven</a>, <a href="../../code/136/">136 Eden Mill</a>, <a href="../../code/156/">156 Glasgow Distillery</a>, <a href="../../code/167/">167 Clydeside Distillery</a>, <a href="../../code/168/">168 InchDairnie Distillery (KinGlassie)</a> &middot; <a href="../../region/lowland/">all Lowland codes</a></p></div>
 <p style="margin-top:20px;font-family:var(--cond);text-transform:uppercase;letter-spacing:1px;font-size:13px"><a href="../../codes/">&larr; Back to the full SMWS code list</a></p>
 <h2 class="sec">FAQ</h2><details class="faq" open><summary>Which distillery is SMWS code G3?</summary><div>SMWS code G3 is Caledonian, in the Lowland region. Any Society bottling numbered G3.x (for example G3.1 or G3.42) is a single cask from Caledonian.</div></details>
 </main>
@@ -71,5 +71,21 @@ function sortT(th,col){var tb=document.getElementById('table').tBodies[0];if(!tb
    browser back button walks a single history instead of stranding you in a new tab. */
 (function(){try{if(window.matchMedia&&window.matchMedia('(hover: none) and (pointer: coarse)').matches){
  document.querySelectorAll('a[target="_blank"]').forEach(function(a){a.removeAttribute('target');});}}catch(e){}})();
+(function(){var form=document.getElementById('lkform');if(!form)return;
+ var input=document.getElementById('lk'),ans=document.getElementById('lkans');
+ var rel=form.getAttribute('data-rel')||'';var data={};
+ try{data=JSON.parse(document.getElementById('lkdata').textContent);}catch(e){}
+ function norm(v){return (v||'').trim().split('.')[0].trim().toUpperCase();}
+ function match(){var k=norm(input.value),d=k&&data[k];
+  if(d){ans.style.display='flex';ans.style.background=d[2]||'#202448';
+   ans.setAttribute('href',rel+'code/'+encodeURIComponent(k)+'/');
+   ans.innerHTML='';
+   var c=document.createElement('span');c.className='lkcode';c.textContent=k;
+   var n=document.createElement('span');n.className='lkname';n.textContent=d[0]+(d[1]?' · '+d[1]:'');
+   ans.appendChild(c);ans.appendChild(n);return k;}
+  ans.style.display='none';return null;}
+ input.addEventListener('input',match);
+ form.addEventListener('submit',function(e){var k=match();
+  if(k){e.preventDefault();location.href=rel+'code/'+encodeURIComponent(k)+'/';}});})();
 </script>
 </body></html>

@@ -28,8 +28,8 @@ An SMWS code like 4.403 means distillery 4 (before the dot) and cask 403 (after 
 - 108.78 "If I had a hamper" - Allt-a-Bhainne (Speyside) - https://smws.com/if-i-had-a-hamper/
 - 121.127 "Mocktail vibes" - Isle of Arran (Islands) - https://smws.com/mocktail-vibes/
 - 149.27 "Popcorn by the old pier" - Ardnamurchan (Highland) - https://smws.com/popcorn-by-the-old-pier/
-- 167.6 "A tropical treat" - Clydeside Distillery (Scotland) - https://smws.com/a-tropical-treat/
-- 168.4 "A foodie's dream dram" - InchDairnie Distillery (KinGlassie) (Scotland) - https://smws.com/a-foodie-s-dream-dram/
+- 167.6 "A tropical treat" - Clydeside Distillery (Lowland) - https://smws.com/a-tropical-treat/
+- 168.4 "A foodie's dream dram" - InchDairnie Distillery (KinGlassie) (Lowland) - https://smws.com/a-foodie-s-dream-dram/
 - Batch 43 "Noble drop" - unknown distillery - https://smws.com/noble-drop/
 - G15.41 "A summer landscape" - Loch Lomond (Rhosdhu) (Highland) - https://smws.com/a-summer-landscape/
 
@@ -195,14 +195,14 @@ An SMWS code like 4.403 means distillery 4 (before the dot) and cask 403 (after 
 - 158: Yuza Distillery (Japan) - https://caskcode.co.uk/code/158/
 - 159: Mars Shinshu (Japan) - https://caskcode.co.uk/code/159/
 - 160: Mars Tsunuki (Japan) - https://caskcode.co.uk/code/160/
-- 161: Nc'nean Distillery (Scotland) - https://caskcode.co.uk/code/161/
-- 162: Isle of Raasay (Scotland) - https://caskcode.co.uk/code/162/
-- 163: Isle of Harris Distillery (Scotland) - https://caskcode.co.uk/code/163/
+- 161: Nc'nean Distillery (Highland) - https://caskcode.co.uk/code/161/
+- 162: Isle of Raasay (Islands) - https://caskcode.co.uk/code/162/
+- 163: Isle of Harris Distillery (Islands) - https://caskcode.co.uk/code/163/
 - 164: Penderyn (double distilled) (Wales) - https://caskcode.co.uk/code/164/
-- 165: Wolfburn (peated) (Scotland) - https://caskcode.co.uk/code/165/
-- 166: Torabhaig Distillery (Scotland) - https://caskcode.co.uk/code/166/
-- 167: Clydeside Distillery (Scotland) - https://caskcode.co.uk/code/167/
-- 168: InchDairnie Distillery (KinGlassie) (Scotland) - https://caskcode.co.uk/code/168/
+- 165: Wolfburn (peated) (Highland) - https://caskcode.co.uk/code/165/
+- 166: Torabhaig Distillery (Islands) - https://caskcode.co.uk/code/166/
+- 167: Clydeside Distillery (Lowland) - https://caskcode.co.uk/code/167/
+- 168: InchDairnie Distillery (KinGlassie) (Lowland) - https://caskcode.co.uk/code/168/
 - A1: Chateau de Lacaze (France) - https://caskcode.co.uk/code/A1/
 - A2: Domaine Laguille (France) - https://caskcode.co.uk/code/A2/
 - A3: J. Goudoulin (Veuve Goudoulin) (France) - https://caskcode.co.uk/code/A3/
@@ -249,12 +249,12 @@ An SMWS code like 4.403 means distillery 4 (before the dot) and cask 403 (after 
 - G15: Loch Lomond (Rhosdhu) (Highland) - https://caskcode.co.uk/code/G15/
 - G16: Glasgow Distillery (Lowland) - https://caskcode.co.uk/code/G16/
 - G17: Starlaw (Lowland) - https://caskcode.co.uk/code/G17/
-- GN1: Glasgow Distillery Company (Scotland) - https://caskcode.co.uk/code/GN1/
-- GN2: Strathearn Distillers (Scotland) - https://caskcode.co.uk/code/GN2/
-- GN3: The Borders Distillery (Scotland) - https://caskcode.co.uk/code/GN3/
+- GN1: Glasgow Distillery Company (Lowland) - https://caskcode.co.uk/code/GN1/
+- GN2: Strathearn Distillers (Highland) - https://caskcode.co.uk/code/GN2/
+- GN3: The Borders Distillery (Lowland) - https://caskcode.co.uk/code/GN3/
 - GN4: Boatyard Distillery (Northern Ireland) - https://caskcode.co.uk/code/GN4/
-- GN5: Glenrinnes (Scotland) - https://caskcode.co.uk/code/GN5/
-- GN6: Holyrood Distillery (Edinburgh, Scotland) - https://caskcode.co.uk/code/GN6/
+- GN5: Glenrinnes (Speyside) - https://caskcode.co.uk/code/GN5/
+- GN6: Holyrood Distillery (Lowland) - https://caskcode.co.uk/code/GN6/
 - GN7: Cotswolds (England) - https://caskcode.co.uk/code/GN7/
 - R1: Monymusk (Jamaica) - https://caskcode.co.uk/code/R1/
 - R2: Demerara Distillers (El Dorado) (Guyana) - https://caskcode.co.uk/code/R2/

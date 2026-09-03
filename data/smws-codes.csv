@@ -129,76 +129,76 @@ code,distillery,region,location,country,owner,status,founded,closed,wikipedia,wi
 128,Penderyn,Wales,Cynon Valley,United Kingdom,,operational,1900,,https://en.wikipedia.org/wiki/Penderyn_distillery,Q3036620,confirmed,2026-08-17
 129,Kilchoman,Islay,,United Kingdom,,operational,2005,,https://en.wikipedia.org/wiki/Kilchoman_distillery,Q277,confirmed,2026-08-17
 130,Chichibu,Japan,,Japan,,operational,2004,,https://en.wikipedia.org/wiki/Chichibu_distillery,Q16987975,confirmed,2026-08-17
-131,Hanyu,Japan,,,,closed,,2000,,,,2026-08-17
+131,Hanyu,Japan,,,,closed,,2000,,,unverified,2026-08-17
 132,Karuizawa,Japan,,Japan,,closed,1955,2000,https://en.wikipedia.org/wiki/Karuizawa_distillery,Q13209194,confirmed,2026-08-17
 133,Westland,"Washington, USA",,United States,,operational,,,https://en.wikipedia.org/wiki/Westland_Distillery,Q124040031,confirmed,2026-08-17
 134,Paul John,India,,India,,operational,1992,,https://en.wikipedia.org/wiki/John_Distilleries,Q17059978,confirmed,2026-08-17
 135,Loch Lomond,Highland,West Dunbartonshire,United Kingdom,,operational,1966,,https://en.wikipedia.org/wiki/Loch_Lomond_distillery,Q982871,confirmed,2026-08-17
 136,Eden Mill,Lowland,Fife,United Kingdom,,operational,2012,,https://en.wikipedia.org/wiki/Eden_Mill_St_Andrews_distillery,Q16966751,confirmed,2026-08-17
 137,St. George’s (The English Whisky Co.),England,,,,operational,,,https://en.wikipedia.org/wiki/Saint_George_%28disambiguation%29,Q17156271,confirmed,2026-08-17
-138,Nantou,Taiwan,,,,,,,,,,2026-08-17
+138,Nantou,Taiwan,,,,,,,,,unverified,2026-08-17
 139,Kavalan,Taiwan,Yuanshan Township,Taiwan,,operational,2005,,https://en.wikipedia.org/wiki/Kavalan_Distillery,Q15063416,confirmed,2026-08-17
-140,Balcones,"Texas, USA",,,,,,,,,,2026-08-17
-141,Fary Lochan,Denmark,,,,,,,,,,2026-08-17
-142,Breuckelen Distilling,"New York, USA",,,,,,,,,,2026-08-17
-143,Copperworks Distilling Co.,"Washington, USA",,,,,,,,,,2026-08-17
-144,High Coast Distillery,Sweden,,,,,,,,,,2026-08-17
+140,Balcones,"Texas, USA",,,,,,,,,unverified,2026-08-17
+141,Fary Lochan,Denmark,,,,,,,,,unverified,2026-08-17
+142,Breuckelen Distilling,"New York, USA",,,,,,,,,unverified,2026-08-17
+143,Copperworks Distilling Co.,"Washington, USA",,,,,,,,,unverified,2026-08-17
+144,High Coast Distillery,Sweden,,,,,,,,,unverified,2026-08-17
 145,Smögen Whisky,Sweden,,Sweden,,operational,2010,,https://en.wikipedia.org/wiki/Sm%C3%B6gen_Whisky,Q20713877,confirmed,2026-08-23
 146,Cotswolds,England,,United Kingdom,,operational,2014,,https://en.wikipedia.org/wiki/Cotswolds_Distillery,Q28130452,confirmed,2026-08-17
 147,Archie Rose,Australia,,Australia,,operational,2014,,https://en.wikipedia.org/wiki/Archie_Rose_Distilling_Co.,Q55604148,confirmed,2026-08-17
-148,Starward,Australia,,,,,,,,,,2026-08-17
+148,Starward,Australia,,,,,,,,,unverified,2026-08-17
 149,Ardnamurchan,Highland,Highland,United Kingdom,,operational,2014,,https://en.wikipedia.org/wiki/Ardnamurchan_distillery,Q31159057,confirmed,2026-08-17
-150,West Cork Distillers,Ireland,,,,,,,,,,2026-08-17
+150,West Cork Distillers,Ireland,,,,,,,,,unverified,2026-08-17
 151,Mackmyra,Sweden,,Sweden,,operational,1999,,https://en.wikipedia.org/wiki/Mackmyra_Whisky,Q6724578,confirmed,2026-08-23
-152,Shelter Point,Canada,,,,,,,,,,2026-08-17
-153,Thy Whisky,Denmark,,,,,,,,,,2026-08-17
-154,Mosgaard Whisky,Denmark,,,,,,,,,,2026-08-17
+152,Shelter Point,Canada,,,,,,,,,unverified,2026-08-17
+153,Thy Whisky,Denmark,,,,,,,,,unverified,2026-08-17
+154,Mosgaard Whisky,Denmark,,,,,,,,,unverified,2026-08-17
 155,Milk & Honey Distillery,Israel,Tel Aviv,Israel,,operational,2014,,https://en.wikipedia.org/wiki/The_Milk_%26_Honey_Distillery,Q31197614,confirmed,2026-08-17
-156,Glasgow Distillery,Lowland,,,,,,,,,,2026-08-17
-157,Distillerie de Warenghem,France,,,,,,,,,,2026-08-17
-158,Yuza Distillery,Japan,,,,,,,,,,2026-08-17
+156,Glasgow Distillery,Lowland,,,,,,,,,unverified,2026-08-17
+157,Distillerie de Warenghem,France,,,,,,,,,unverified,2026-08-17
+158,Yuza Distillery,Japan,,,,,,,,,unverified,2026-08-17
 159,Mars Shinshu,Japan,Miyada,Japan,Hombo Shuzo,operational,1985,,https://en.wikipedia.org/wiki/Shinshu_Mars_distillery,Q119756769,confirmed,2026-08-17
-160,Mars Tsunuki,Japan,,,,,,,,,,2026-08-17
-161,Nc'nean Distillery,Scotland,Highland,United Kingdom,,operational,2017,,https://en.wikipedia.org/wiki/Nc%27nean_distillery,Q108862263,confirmed,2026-08-17
-162,Isle of Raasay,Scotland,Highland,United Kingdom,,operational,2016,,https://en.wikipedia.org/wiki/Isle_of_Raasay_distillery,Q60748152,confirmed,2026-08-17
-163,Isle of Harris Distillery,Scotland,Outer Hebrides,United Kingdom,,operational,,,https://en.wikipedia.org/wiki/Isle_of_Harris_distillery,Q108719053,confirmed,2026-08-17
+160,Mars Tsunuki,Japan,,,,,,,,,unverified,2026-08-17
+161,Nc'nean Distillery,Highland,Highland,United Kingdom,,operational,2017,,https://en.wikipedia.org/wiki/Nc%27nean_distillery,Q108862263,confirmed,2026-08-17
+162,Isle of Raasay,Islands,Highland,United Kingdom,,operational,2016,,https://en.wikipedia.org/wiki/Isle_of_Raasay_distillery,Q60748152,confirmed,2026-08-17
+163,Isle of Harris Distillery,Islands,Outer Hebrides,United Kingdom,,operational,,,https://en.wikipedia.org/wiki/Isle_of_Harris_distillery,Q108719053,confirmed,2026-08-17
 164,Penderyn (double distilled),Wales,Cynon Valley,United Kingdom,,operational,1900,,https://en.wikipedia.org/wiki/Penderyn_distillery,Q3036620,confirmed,2026-08-17
-165,Wolfburn (peated),Scotland,Highland,United Kingdom,,operational,1821,,https://en.wikipedia.org/wiki/Wolfburn_distillery,Q3741441,confirmed,2026-08-17
-166,Torabhaig Distillery,Scotland,Highland,United Kingdom,,operational,2013,,https://en.wikipedia.org/wiki/Torabhaig_distillery,Q105812096,confirmed,2026-08-17
-167,Clydeside Distillery,Scotland,Glasgow City,United Kingdom,,operational,2017,,https://en.wikipedia.org/wiki/Clydeside_Distillery,Q108719335,confirmed,2026-08-17
-168,InchDairnie Distillery (KinGlassie),Scotland,,United Kingdom,,operational,2015,,https://en.wikipedia.org/wiki/Inchdairnie_distillery,Q131735895,confirmed,2026-08-17
-A1,Chateau de Lacaze,France,,,,,,,,,,2026-08-17
-A2,Domaine Laguille,France,,,,,,,,,,2026-08-17
-A3,J. Goudoulin (Veuve Goudoulin),France,,,,,,,,,,2026-08-17
-A4,Domaine d’Espérance,France,,,,,,,,,,2026-08-17
-A5,Chateau de Laubade,France,,,,,,,,,,2026-08-17
-A6,Domaine Lasalle,France,,,,,,,,,,2026-08-17
-A7,Domaine Lasalle,France,,,,,,,,,,2026-08-17
-A8,Domaine de Cavaillon,France,,,,,,,,,,2026-08-17
-A9,Domaine de Saurine,France,,,,,,,,,,2026-08-17
+165,Wolfburn (peated),Highland,Highland,United Kingdom,,operational,1821,,https://en.wikipedia.org/wiki/Wolfburn_distillery,Q3741441,confirmed,2026-08-17
+166,Torabhaig Distillery,Islands,Highland,United Kingdom,,operational,2013,,https://en.wikipedia.org/wiki/Torabhaig_distillery,Q105812096,confirmed,2026-08-17
+167,Clydeside Distillery,Lowland,Glasgow City,United Kingdom,,operational,2017,,https://en.wikipedia.org/wiki/Clydeside_Distillery,Q108719335,confirmed,2026-08-17
+168,InchDairnie Distillery (KinGlassie),Lowland,,United Kingdom,,operational,2015,,https://en.wikipedia.org/wiki/Inchdairnie_distillery,Q131735895,confirmed,2026-08-17
+A1,Chateau de Lacaze,France,,,,,,,,,unverified,2026-08-17
+A2,Domaine Laguille,France,,,,,,,,,unverified,2026-08-17
+A3,J. Goudoulin (Veuve Goudoulin),France,,,,,,,,,unverified,2026-08-17
+A4,Domaine d’Espérance,France,,,,,,,,,unverified,2026-08-17
+A5,Chateau de Laubade,France,,,,,,,,,unverified,2026-08-17
+A6,Domaine Lasalle,France,,,,,,,,,unverified,2026-08-17
+A7,Domaine Lasalle,France,,,,,,,,,unverified,2026-08-17
+A8,Domaine de Cavaillon,France,,,,,,,,,unverified,2026-08-17
+A9,Domaine de Saurine,France,,,,,,,,,unverified,2026-08-17
 B1,Heaven Hill,"Kentucky, USA",,United States,,operational,1935,,https://en.wikipedia.org/wiki/Heaven_Hill,Q5694665,confirmed,2026-08-17
 B2,New Bernheim,"Kentucky, USA",,,,operational,,,https://en.wikipedia.org/wiki/Isaac_Wolfe_Bernheim,Q6077347,confirmed,2026-08-17
-B3,Rock Town,"Arkansas, USA",,,,,,,,,,2026-08-17
+B3,Rock Town,"Arkansas, USA",,,,,,,,,unverified,2026-08-17
 B4,FEW Spirits,"Illinois, USA",,United Kingdom,,operational,,,https://en.wikipedia.org/wiki/List_of_whisky_distilleries_in_Scotland,Q1751881,confirmed,2026-08-17
 B5,George Dickel (Cascade Hollow),"Tennessee, USA",,United States,Diageo,operational,1884,,https://en.wikipedia.org/wiki/George_Dickel,Q1507227,confirmed,2026-08-17
-B6,Finger Lakes Distilling,"New York, USA",,,,,,,,,,2026-08-17
+B6,Finger Lakes Distilling,"New York, USA",,,,,,,,,unverified,2026-08-17
 B7,MGP (Midwest Grain Products),"Indiana, USA",,United States,,operational,2007,,https://en.wikipedia.org/wiki/High_West_Distillery,Q5757420,confirmed,2026-08-17
-B8,Woodinville Whiskey Co.,"Washington, USA",,,,,,,,,,2026-08-17
+B8,Woodinville Whiskey Co.,"Washington, USA",,,,,,,,,unverified,2026-08-17
 B9,Wilderness Trail Distillery,"Kentucky, USA",Kentucky,United States,,operational,2013,,https://en.wikipedia.org/wiki/Wilderness_Trail_Distillery,Q20710777,confirmed,2026-08-17
 C1,Camus,France,,,,operational,1863,,https://en.wikipedia.org/wiki/Camus_Cognac,Q964333,confirmed,2026-08-17
-C2,Domaine de Chez Guérive,France,,,,,,,,,,2026-08-17
-C3,Louis Royer,France,,,,,,,,,,2026-08-17
-C4,Distillery D’Aumagne,France,,,,,,,,,,2026-08-17
-C5,Tiffon Cognac,France,,,,,,,,,,2026-08-17
-C6,M & H Bonneau,France,,,,,,,,,,2026-08-17
-C7,Guy Rateau,France,,,,,,,,,,2026-08-17
-C8,Marie C. Bodit,France,,,,,,,,,,2026-08-17
-C9,Robert Audebeau,France,,,,,,,,,,2026-08-17
+C2,Domaine de Chez Guérive,France,,,,,,,,,unverified,2026-08-17
+C3,Louis Royer,France,,,,,,,,,unverified,2026-08-17
+C4,Distillery D’Aumagne,France,,,,,,,,,unverified,2026-08-17
+C5,Tiffon Cognac,France,,,,,,,,,unverified,2026-08-17
+C6,M & H Bonneau,France,,,,,,,,,unverified,2026-08-17
+C7,Guy Rateau,France,,,,,,,,,unverified,2026-08-17
+C8,Marie C. Bodit,France,,,,,,,,,unverified,2026-08-17
+C9,Robert Audebeau,France,,,,,,,,,unverified,2026-08-17
 CW1,Heaven Hill Distillery,"Kentucky, USA",,United States,,operational,1935,,https://en.wikipedia.org/wiki/Heaven_Hill,Q5694665,confirmed,2026-08-17
-CW2,Balcones,"Texas, USA",,,,,,,,,,2026-08-17
+CW2,Balcones,"Texas, USA",,,,,,,,,unverified,2026-08-17
 G1,North British,Lowland,City of Edinburgh,United Kingdom,,operational,1885,,https://en.wikipedia.org/wiki/North_British_distillery,Q1432194,confirmed,2026-08-17
-G2,Carsebridge,Lowland,,,,,,,,,,2026-08-17
-G3,Caledonian,Lowland,,,,,,,,,,2026-08-17
+G2,Carsebridge,Lowland,,,,,,,,,unverified,2026-08-17
+G3,Caledonian,Lowland,,,,,,,,,unverified,2026-08-17
 G4,Cameronbridge,Lowland,Scotland,United Kingdom,,operational,1824,,https://en.wikipedia.org/wiki/Cameronbridge_distillery,Q1028809,confirmed,2026-08-17
 G5,Invergordon,Highland,Highland,United Kingdom,,operational,1959,,https://en.wikipedia.org/wiki/Invergordon_distillery,Q1671709,confirmed,2026-08-17
 G6,Port Dundas,Lowland,Glasgow City,United Kingdom,,operational,,,https://en.wikipedia.org/wiki/Port_Dundas,Q1313145,confirmed,2026-08-17
@@ -206,40 +206,40 @@ G7,Girvan,Lowland,South Ayrshire,United Kingdom,William Grant & Sons,operational
 G8,Cambus,Lowland,Clackmannanshire,United Kingdom,,operational,,,https://en.wikipedia.org/wiki/Cambus%2C_Clackmannanshire,Q5025683,confirmed,2026-08-17
 G9,Loch Lomond,Highland,West Dunbartonshire,United Kingdom,,operational,1966,,https://en.wikipedia.org/wiki/Loch_Lomond_distillery,Q982871,confirmed,2026-08-17
 G10,Strathclyde,Lowland,Glasgow City,United Kingdom,,operational,1927,,https://en.wikipedia.org/wiki/Strathclyde_distillery,Q167043,confirmed,2026-08-17
-G11,Nikka Coffey Grain,Japan,,,,,,,,,,2026-08-17
-G12,Nikka Coffey Malt,Japan,,,,,,,,,,2026-08-17
+G11,Nikka Coffey Grain,Japan,,,,,,,,,unverified,2026-08-17
+G12,Nikka Coffey Malt,Japan,,,,,,,,,unverified,2026-08-17
 G13,Chita,Japan,Kitahama-machi,Japan,,operational,1973,,https://en.wikipedia.org/wiki/Chita_distillery,Q22130229,confirmed,2026-08-17
 G14,Dumbarton,Lowland,West Dunbartonshire,United Kingdom,,operational,,,https://en.wikipedia.org/wiki/Dumbarton,Q34779,confirmed,2026-08-17
 G15,Loch Lomond (Rhosdhu),Highland,West Dunbartonshire,United Kingdom,,operational,1966,,https://en.wikipedia.org/wiki/Loch_Lomond_distillery,Q982871,confirmed,2026-08-17
-G16,Glasgow Distillery,Lowland,,,,,,,,,,2026-08-17
+G16,Glasgow Distillery,Lowland,,,,,,,,,unverified,2026-08-17
 G17,Starlaw,Lowland,West Lothian,United Kingdom,,operational,,,https://en.wikipedia.org/wiki/Starlaw_distillery,Q60754966,confirmed,2026-08-17
-GN1,Glasgow Distillery Company,Scotland,,,,,,,,,,2026-08-17
-GN2,Strathearn Distillers,Scotland,,,,,,,,,,2026-08-17
-GN3,The Borders Distillery,Scotland,Scottish Borders,United Kingdom,,operational,,,https://en.wikipedia.org/wiki/Borders_distillery,Q60762612,confirmed,2026-08-17
-GN4,Boatyard Distillery,Northern Ireland,,,,,,,,,,2026-08-17
-GN5,Glenrinnes,Scotland,Keith,United Kingdom,,operational,,,https://en.wikipedia.org/wiki/Glenrinnes_distillery,Q138299135,confirmed,2026-08-17
-GN6,Holyrood Distillery,"Edinburgh, Scotland",Edinburgh,United Kingdom,,operational,2019,,https://en.wikipedia.org/wiki/Holyrood_distillery,Q120108000,confirmed,2026-08-17
+GN1,Glasgow Distillery Company,Lowland,,,,,,,,,unverified,2026-08-17
+GN2,Strathearn Distillers,Highland,,,,,,,,,unverified,2026-08-17
+GN3,The Borders Distillery,Lowland,Scottish Borders,United Kingdom,,operational,,,https://en.wikipedia.org/wiki/Borders_distillery,Q60762612,confirmed,2026-08-17
+GN4,Boatyard Distillery,Northern Ireland,,,,,,,,,unverified,2026-08-17
+GN5,Glenrinnes,Speyside,Keith,United Kingdom,,operational,,,https://en.wikipedia.org/wiki/Glenrinnes_distillery,Q138299135,confirmed,2026-08-17
+GN6,Holyrood Distillery,Lowland,Edinburgh,United Kingdom,,operational,2019,,https://en.wikipedia.org/wiki/Holyrood_distillery,Q120108000,confirmed,2026-08-17
 GN7,Cotswolds,England,,United Kingdom,,operational,2014,,https://en.wikipedia.org/wiki/Cotswolds_Distillery,Q28130452,confirmed,2026-08-17
-R1,Monymusk,Jamaica,,,,,,,,,,2026-08-17
+R1,Monymusk,Jamaica,,,,,,,,,unverified,2026-08-17
 R2,Demerara Distillers (El Dorado),Guyana,,Guyana,,operational,,,https://en.wikipedia.org/wiki/Demerara_Distillers,Q107108370,confirmed,2026-08-17
 R3,West Indies Rum,Barbados,,,,operational,1893,,https://en.wikipedia.org/wiki/West_Indies_Rum_Distillery,Q118065928,confirmed,2026-08-17
-R4,Trinidad Distillers (Angostura),Trinidad,,,,,,,,,,2026-08-17
-R5,Long Pond,Jamaica,,,,,,,,,,2026-08-17
+R4,Trinidad Distillers (Angostura),Trinidad,,,,,,,,,unverified,2026-08-17
+R5,Long Pond,Jamaica,,,,,,,,,unverified,2026-08-17
 R6,Foursquare,Barbados,Saint Philip,Barbados,,operational,,,https://en.wikipedia.org/wiki/Foursquare_Rum_Distillery,Q138028496,confirmed,2026-08-17
 R7,Hampden,Jamaica,,Jamaica,,operational,,,https://en.wikipedia.org/wiki/Hampden_Estate,Q138827507,confirmed,2026-08-17
-R8,Compañía Licorera de Nicaragua (Flor de Caña),Nicaragua,,,,,,,,,,2026-08-17
-R9,Varela Hermanos (Ron Abuelo),Panama,,,,,,,,,,2026-08-17
+R8,Compañía Licorera de Nicaragua (Flor de Caña),Nicaragua,,,,,,,,,unverified,2026-08-17
+R9,Varela Hermanos (Ron Abuelo),Panama,,,,,,,,,unverified,2026-08-17
 R10,Trinidad Distiller’s,Trinidad,Argyll and Bute,United Kingdom,,operational,1798,,https://en.wikipedia.org/wiki/Tobermory_distillery,Q982673,confirmed,2026-08-17
-R11,Worthy Park,Jamaica,,,,,,,,,,2026-08-17
+R11,Worthy Park,Jamaica,,,,,,,,,unverified,2026-08-17
 R12,Travellers,Belize,,Belize,,operational,1953,,https://en.wikipedia.org/wiki/Travellers_Liquors,Q7836061,confirmed,2026-08-17
-R13,Caroni,Trinidad,,,,,,,,,,2026-08-17
+R13,Caroni,Trinidad,,,,,,,,,unverified,2026-08-17
 R14,Uitvlugt,Guyana,Essequibo Islands-West Demerara,Guyana,,operational,,,https://en.wikipedia.org/wiki/Uitvlugt,Q2666990,confirmed,2026-08-17
 RW1,FEW Spirits,"Illinois, USA",,United Kingdom,,operational,,,https://en.wikipedia.org/wiki/List_of_whisky_distilleries_in_Scotland,Q1751881,confirmed,2026-08-17
-RW2,Finger Lakes Distilling,"New York, USA",,,,,,,,,,2026-08-17
-RW3,New York Distilling Co.,"New York, USA",,,,,,,,,,2026-08-17
+RW2,Finger Lakes Distilling,"New York, USA",,,,,,,,,unverified,2026-08-17
+RW3,New York Distilling Co.,"New York, USA",,,,,,,,,unverified,2026-08-17
 RW4,Peerless Distillery,"Kentucky, USA",,United States,,operational,,,https://en.wikipedia.org/wiki/Kentucky_Peerless_Distilling_Company,Q23461641,confirmed,2026-08-17
 RW5,MGP,"Indiana, USA",,United States,,operational,2007,,https://en.wikipedia.org/wiki/High_West_Distillery,Q5757420,confirmed,2026-08-17
 RW6,Kyrö Distillery,Finland,Isokyrö,Finland,,operational,2012,,https://en.wikipedia.org/wiki/Kyr%C3%B6_Distillery_Company,Q23045171,confirmed,2026-08-17
-RW7,Journeyman Distillery,"Michigan, USA",,,,,,,,,,2026-08-17
+RW7,Journeyman Distillery,"Michigan, USA",,,,,,,,,unverified,2026-08-17
 RW8,Catoctin Creek Distilling Co.,"Virginia, USA",,,,operational,2009,,https://en.wikipedia.org/wiki/Catoctin_Creek_Distilling_Company,Q5053821,confirmed,2026-08-17
 RW9,Wilderness Trail Distillery,"Kentucky, USA",Kentucky,United States,,operational,2013,,https://en.wikipedia.org/wiki/Wilderness_Trail_Distillery,Q20710777,confirmed,2026-08-17

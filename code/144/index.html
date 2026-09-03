@@ -6,7 +6,7 @@
 <link rel="canonical" href="https://caskcode.co.uk/code/144/">
 <meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1">
 <meta name="author" content="Blair Milligan">
-<meta name="build" content="20260903T082840Z">
+<meta name="build" content="20260903T104810Z">
 <meta property="og:type" content="website"><meta property="og:title" content="SMWS Code 144: High Coast Distillery (Sweden)"><meta property="og:description" content="SMWS code 144 is High Coast Distillery, in Sweden. Society casks numbered 144.x."><meta property="og:url" content="https://caskcode.co.uk/code/144/"><meta property="og:image" content="https://caskcode.co.uk/SMWS-WhineLogo.png"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:image" content="https://caskcode.co.uk/SMWS-WhineLogo.png"><link rel="icon" href="../../SMWS-WhineLogo.png">
 <link rel="preconnect" href="https://cdn11.bigcommerce.com" crossorigin>
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -23,7 +23,7 @@
 <div class="pagehead"><h1>SMWS Code 144: High Coast Distillery</h1><div class="count">Distillery behind Society cask numbers 144.x</div></div>
 <p class="answer"><strong>SMWS code 144 is High Coast Distillery</strong>, in Sweden. Any Society bottling numbered <strong>144.x</strong> (for example 144.1, 144.42) is a single cask from High Coast Distillery.</p>
 <ul class="facts"><li><b>Distillery</b><span><a class="wiki" href="https://en.wikipedia.org/w/index.php?title=Special:Search&amp;search=High+Coast+Distillery+distillery&amp;go=Go" target="_blank" rel="noopener">High Coast Distillery</a></span></li><li><b>Region</b><span>Sweden</span></li><li><b>Status</b><span class="badge unknown">Status unknown</span></li></ul>
-
+<p class="conf">Mapping confidence: unverified. The distillery link is a Wikipedia search, not a verified article. &middot; <a href="../../methodology/">how we verify</a> &middot; <a href="https://github.com/blairmilligan-eng/smws-outturn-site/issues" rel="nofollow">report a correction</a></p>
 
 
 <div class="prose">
@@ -71,5 +71,21 @@ function sortT(th,col){var tb=document.getElementById('table').tBodies[0];if(!tb
    browser back button walks a single history instead of stranding you in a new tab. */
 (function(){try{if(window.matchMedia&&window.matchMedia('(hover: none) and (pointer: coarse)').matches){
  document.querySelectorAll('a[target="_blank"]').forEach(function(a){a.removeAttribute('target');});}}catch(e){}})();
+(function(){var form=document.getElementById('lkform');if(!form)return;
+ var input=document.getElementById('lk'),ans=document.getElementById('lkans');
+ var rel=form.getAttribute('data-rel')||'';var data={};
+ try{data=JSON.parse(document.getElementById('lkdata').textContent);}catch(e){}
+ function norm(v){return (v||'').trim().split('.')[0].trim().toUpperCase();}
+ function match(){var k=norm(input.value),d=k&&data[k];
+  if(d){ans.style.display='flex';ans.style.background=d[2]||'#202448';
+   ans.setAttribute('href',rel+'code/'+encodeURIComponent(k)+'/');
+   ans.innerHTML='';
+   var c=document.createElement('span');c.className='lkcode';c.textContent=k;
+   var n=document.createElement('span');n.className='lkname';n.textContent=d[0]+(d[1]?' · '+d[1]:'');
+   ans.appendChild(c);ans.appendChild(n);return k;}
+  ans.style.display='none';return null;}
+ input.addEventListener('input',match);
+ form.addEventListener('submit',function(e){var k=match();
+  if(k){e.preventDefault();location.href=rel+'code/'+encodeURIComponent(k)+'/';}});})();
 </script>
 </body></html>

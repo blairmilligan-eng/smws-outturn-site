@@ -6,7 +6,7 @@
 <link rel="canonical" href="https://caskcode.co.uk/code/121/">
 <meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1">
 <meta name="author" content="Blair Milligan">
-<meta name="build" content="20260903T082840Z">
+<meta name="build" content="20260903T104810Z">
 <meta property="og:type" content="website"><meta property="og:title" content="SMWS Code 121: Isle of Arran (Islands)"><meta property="og:description" content="SMWS code 121 is Isle of Arran, in the Islands region. Its story, plus Society casks numbered 121.x."><meta property="og:url" content="https://caskcode.co.uk/code/121/"><meta property="og:image" content="https://caskcode.co.uk/SMWS-WhineLogo.png"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:image" content="https://caskcode.co.uk/SMWS-WhineLogo.png"><link rel="icon" href="../../SMWS-WhineLogo.png">
 <link rel="preconnect" href="https://cdn11.bigcommerce.com" crossorigin>
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -31,7 +31,7 @@
 </div>
 <h2 class="sec">Isle of Arran in the current Outturn <span>1 bottle(s)</span></h2>
 <div class="grid"><article class="card"><div class="imgwrap"><img loading="lazy" decoding="async" fetchpriority="low" width="386" height="513" src="https://cdn11.bigcommerce.com/s-vagfena5nz/products/8079/images/13796/121.127-GX-web__35464.1788165658.386.513.png?c=1" alt="Mocktail vibes - SMWS 121.127"><span class="releasebadge">Releases 4 Sep 2026</span></div><div class="titlebar" style="background:#f37e20"><span class="cask">121.127</span><h3>Mocktail vibes</h3></div><div class="body"><div class="specs"><div class="cell"><span class="k">SMWS region</span><span class="v">Highland</span></div><div class="cell"><span class="k">Age</span><span class="v">11 years</span></div><div class="cell"><span class="k">ABV</span><span class="v">62.2%</span></div><div class="cell"><span class="k">Profile</span><span class="v">Sweet &amp; Zesty</span></div><div class="cell full"><span class="k">Cask</span><span class="v">1st fill ex-bourbon barrel</span></div><div class="cell full"><span class="k">Spirit</span><span class="v">Malt Whisky</span></div></div><div class="codeblock"><div class="codeblock-cap">Distillery from SMWS code 121</div><div class="cell"><span class="k">Distillery</span><span class="v"><a class="wiki" href="../../code/121/">Isle of Arran</a></span></div><div class="cell"><span class="k">Region</span><span class="v">Islands</span></div></div><p class="summ"><b>In short</b> &middot; Isle of Arran (Islands), 11 years, Sweet &amp; Zesty.</p><div class="foot"><span class="price">&pound;70</span><a class="btn" href="https://smws.com/mocktail-vibes/" target="_blank" rel="noopener">View on SMWS</a></div></div></article></div>
-<div class="prose" style="margin-top:26px"><p><b>Other Islands distilleries:</b> <a href="../../code/4/">4 Highland Park</a>, <a href="../../code/14/">14 Talisker</a>, <a href="../../code/17/">17 Scapa</a>, <a href="../../code/31/">31 Isle of Jura</a>, <a href="../../code/42/">42 Tobermory</a> &middot; <a href="../../region/islands/">all Islands codes</a></p></div>
+<div class="prose" style="margin-top:26px"><p><b>Other Islands distilleries:</b> <a href="../../code/4/">4 Highland Park</a>, <a href="../../code/14/">14 Talisker</a>, <a href="../../code/17/">17 Scapa</a>, <a href="../../code/31/">31 Isle of Jura</a>, <a href="../../code/42/">42 Tobermory</a>, <a href="../../code/162/">162 Isle of Raasay</a>, <a href="../../code/163/">163 Isle of Harris Distillery</a>, <a href="../../code/166/">166 Torabhaig Distillery</a> &middot; <a href="../../region/islands/">all Islands codes</a></p></div>
 <p style="margin-top:20px;font-family:var(--cond);text-transform:uppercase;letter-spacing:1px;font-size:13px"><a href="../../codes/">&larr; Back to the full SMWS code list</a></p>
 <h2 class="sec">FAQ</h2><details class="faq" open><summary>Which distillery is SMWS code 121?</summary><div>SMWS code 121 is Isle of Arran, in the Islands region. It is an operating distillery. Any Society bottling numbered 121.x (for example 121.1 or 121.42) is a single cask from Isle of Arran.</div></details>
 </main>
@@ -73,5 +73,21 @@ function sortT(th,col){var tb=document.getElementById('table').tBodies[0];if(!tb
    browser back button walks a single history instead of stranding you in a new tab. */
 (function(){try{if(window.matchMedia&&window.matchMedia('(hover: none) and (pointer: coarse)').matches){
  document.querySelectorAll('a[target="_blank"]').forEach(function(a){a.removeAttribute('target');});}}catch(e){}})();
+(function(){var form=document.getElementById('lkform');if(!form)return;
+ var input=document.getElementById('lk'),ans=document.getElementById('lkans');
+ var rel=form.getAttribute('data-rel')||'';var data={};
+ try{data=JSON.parse(document.getElementById('lkdata').textContent);}catch(e){}
+ function norm(v){return (v||'').trim().split('.')[0].trim().toUpperCase();}
+ function match(){var k=norm(input.value),d=k&&data[k];
+  if(d){ans.style.display='flex';ans.style.background=d[2]||'#202448';
+   ans.setAttribute('href',rel+'code/'+encodeURIComponent(k)+'/');
+   ans.innerHTML='';
+   var c=document.createElement('span');c.className='lkcode';c.textContent=k;
+   var n=document.createElement('span');n.className='lkname';n.textContent=d[0]+(d[1]?' · '+d[1]:'');
+   ans.appendChild(c);ans.appendChild(n);return k;}
+  ans.style.display='none';return null;}
+ input.addEventListener('input',match);
+ form.addEventListener('submit',function(e){var k=match();
+  if(k){e.preventDefault();location.href=rel+'code/'+encodeURIComponent(k)+'/';}});})();
 </script>
 </body></html>

@@ -1,5 +1,5 @@
 {
- "version": "1.2",
+ "version": "1.3",
  "license": "CC BY 4.0",
  "license_url": "https://creativecommons.org/licenses/by/4.0/",
  "source": "Cask Code",
@@ -1968,7 +1968,7 @@
    "closed": 2000,
    "wikipedia": null,
    "wikidata": null,
-   "confidence": null,
+   "confidence": "unverified",
    "last_verified": "2026-08-17"
   },
   {
@@ -2073,7 +2073,7 @@
    "closed": null,
    "wikipedia": null,
    "wikidata": null,
-   "confidence": null,
+   "confidence": "unverified",
    "last_verified": "2026-08-17"
   },
   {
@@ -2103,7 +2103,7 @@
    "closed": null,
    "wikipedia": null,
    "wikidata": null,
-   "confidence": null,
+   "confidence": "unverified",
    "last_verified": "2026-08-17"
   },
   {
@@ -2118,7 +2118,7 @@
    "closed": null,
    "wikipedia": null,
    "wikidata": null,
-   "confidence": null,
+   "confidence": "unverified",
    "last_verified": "2026-08-17"
   },
   {
@@ -2133,7 +2133,7 @@
    "closed": null,
    "wikipedia": null,
    "wikidata": null,
-   "confidence": null,
+   "confidence": "unverified",
    "last_verified": "2026-08-17"
   },
   {
@@ -2148,7 +2148,7 @@
    "closed": null,
    "wikipedia": null,
    "wikidata": null,
-   "confidence": null,
+   "confidence": "unverified",
    "last_verified": "2026-08-17"
   },
   {
@@ -2163,7 +2163,7 @@
    "closed": null,
    "wikipedia": null,
    "wikidata": null,
-   "confidence": null,
+   "confidence": "unverified",
    "last_verified": "2026-08-17"
   },
   {
@@ -2223,7 +2223,7 @@
    "closed": null,
    "wikipedia": null,
    "wikidata": null,
-   "confidence": null,
+   "confidence": "unverified",
    "last_verified": "2026-08-17"
   },
   {
@@ -2253,7 +2253,7 @@
    "closed": null,
    "wikipedia": null,
    "wikidata": null,
-   "confidence": null,
+   "confidence": "unverified",
    "last_verified": "2026-08-17"
   },
   {
@@ -2283,7 +2283,7 @@
    "closed": null,
    "wikipedia": null,
    "wikidata": null,
-   "confidence": null,
+   "confidence": "unverified",
    "last_verified": "2026-08-17"
   },
   {
@@ -2298,7 +2298,7 @@
    "closed": null,
    "wikipedia": null,
    "wikidata": null,
-   "confidence": null,
+   "confidence": "unverified",
    "last_verified": "2026-08-17"
   },
   {
@@ -2313,7 +2313,7 @@
    "closed": null,
    "wikipedia": null,
    "wikidata": null,
-   "confidence": null,
+   "confidence": "unverified",
    "last_verified": "2026-08-17"
   },
   {
@@ -2343,7 +2343,7 @@
    "closed": null,
    "wikipedia": null,
    "wikidata": null,
-   "confidence": null,
+   "confidence": "unverified",
    "last_verified": "2026-08-17"
   },
   {
@@ -2358,7 +2358,7 @@
    "closed": null,
    "wikipedia": null,
    "wikidata": null,
-   "confidence": null,
+   "confidence": "unverified",
    "last_verified": "2026-08-17"
   },
   {
@@ -2373,7 +2373,7 @@
    "closed": null,
    "wikipedia": null,
    "wikidata": null,
-   "confidence": null,
+   "confidence": "unverified",
    "last_verified": "2026-08-17"
   },
   {
@@ -2403,13 +2403,13 @@
    "closed": null,
    "wikipedia": null,
    "wikidata": null,
-   "confidence": null,
+   "confidence": "unverified",
    "last_verified": "2026-08-17"
   },
   {
    "code": "161",
    "distillery": "Nc'nean Distillery",
-   "region": "Scotland",
+   "region": "Highland",
    "location": "Highland",
    "country": "United Kingdom",
    "owner": null,
@@ -2424,7 +2424,7 @@
   {
    "code": "162",
    "distillery": "Isle of Raasay",
-   "region": "Scotland",
+   "region": "Islands",
    "location": "Highland",
    "country": "United Kingdom",
    "owner": null,
@@ -2439,7 +2439,7 @@
   {
    "code": "163",
    "distillery": "Isle of Harris Distillery",
-   "region": "Scotland",
+   "region": "Islands",
    "location": "Outer Hebrides",
    "country": "United Kingdom",
    "owner": null,
@@ -2469,7 +2469,7 @@
   {
    "code": "165",
    "distillery": "Wolfburn (peated)",
-   "region": "Scotland",
+   "region": "Highland",
    "location": "Highland",
    "country": "United Kingdom",
    "owner": null,
@@ -2484,7 +2484,7 @@
   {
    "code": "166",
    "distillery": "Torabhaig Distillery",
-   "region": "Scotland",
+   "region": "Islands",
    "location": "Highland",
    "country": "United Kingdom",
    "owner": null,
@@ -2499,7 +2499,7 @@
   {
    "code": "167",
    "distillery": "Clydeside Distillery",
-   "region": "Scotland",
+   "region": "Lowland",
    "location": "Glasgow City",
    "country": "United Kingdom",
    "owner": null,
@@ -2514,7 +2514,7 @@
   {
    "code": "168",
    "distillery": "InchDairnie Distillery (KinGlassie)",
-   "region": "Scotland",
+   "region": "Lowland",
    "location": null,
    "country": "United Kingdom",
    "owner": null,
@@ -2538,7 +2538,7 @@
    "closed": null,
    "wikipedia": null,
    "wikidata": null,
-   "confidence": null,
+   "confidence": "unverified",
    "last_verified": "2026-08-17"
   },
   {
@@ -2553,7 +2553,7 @@
    "closed": null,
    "wikipedia": null,
    "wikidata": null,
-   "confidence": null,
+   "confidence": "unverified",
    "last_verified": "2026-08-17"
   },
   {
@@ -2568,7 +2568,7 @@
    "closed": null,
    "wikipedia": null,
    "wikidata": null,
-   "confidence": null,
+   "confidence": "unverified",
    "last_verified": "2026-08-17"
   },
   {
@@ -2583,7 +2583,7 @@
    "closed": null,
    "wikipedia": null,
    "wikidata": null,
-   "confidence": null,
+   "confidence": "unverified",
    "last_verified": "2026-08-17"
   },
   {
@@ -2598,7 +2598,7 @@
    "closed": null,
    "wikipedia": null,
    "wikidata": null,
-   "confidence": null,
+   "confidence": "unverified",
    "last_verified": "2026-08-17"
   },
   {
@@ -2613,7 +2613,7 @@
    "closed": null,
    "wikipedia": null,
    "wikidata": null,
-   "confidence": null,
+   "confidence": "unverified",
    "last_verified": "2026-08-17"
   },
   {
@@ -2628,7 +2628,7 @@
    "closed": null,
    "wikipedia": null,
    "wikidata": null,
-   "confidence": null,
+   "confidence": "unverified",
    "last_verified": "2026-08-17"
   },
   {
@@ -2643,7 +2643,7 @@
    "closed": null,
    "wikipedia": null,
    "wikidata": null,
-   "confidence": null,
+   "confidence": "unverified",
    "last_verified": "2026-08-17"
   },
   {
@@ -2658,7 +2658,7 @@
    "closed": null,
    "wikipedia": null,
    "wikidata": null,
-   "confidence": null,
+   "confidence": "unverified",
    "last_verified": "2026-08-17"
   },
   {
@@ -2703,7 +2703,7 @@
    "closed": null,
    "wikipedia": null,
    "wikidata": null,
-   "confidence": null,
+   "confidence": "unverified",
    "last_verified": "2026-08-17"
   },
   {
@@ -2748,7 +2748,7 @@
    "closed": null,
    "wikipedia": null,
    "wikidata": null,
-   "confidence": null,
+   "confidence": "unverified",
    "last_verified": "2026-08-17"
   },
   {
@@ -2778,7 +2778,7 @@
    "closed": null,
    "wikipedia": null,
    "wikidata": null,
-   "confidence": null,
+   "confidence": "unverified",
    "last_verified": "2026-08-17"
   },
   {
@@ -2823,7 +2823,7 @@
    "closed": null,
    "wikipedia": null,
    "wikidata": null,
-   "confidence": null,
+   "confidence": "unverified",
    "last_verified": "2026-08-17"
   },
   {
@@ -2838,7 +2838,7 @@
    "closed": null,
    "wikipedia": null,
    "wikidata": null,
-   "confidence": null,
+   "confidence": "unverified",
    "last_verified": "2026-08-17"
   },
   {
@@ -2853,7 +2853,7 @@
    "closed": null,
    "wikipedia": null,
    "wikidata": null,
-   "confidence": null,
+   "confidence": "unverified",
    "last_verified": "2026-08-17"
   },
   {
@@ -2868,7 +2868,7 @@
    "closed": null,
    "wikipedia": null,
    "wikidata": null,
-   "confidence": null,
+   "confidence": "unverified",
    "last_verified": "2026-08-17"
   },
   {
@@ -2883,7 +2883,7 @@
    "closed": null,
    "wikipedia": null,
    "wikidata": null,
-   "confidence": null,
+   "confidence": "unverified",
    "last_verified": "2026-08-17"
   },
   {
@@ -2898,7 +2898,7 @@
    "closed": null,
    "wikipedia": null,
    "wikidata": null,
-   "confidence": null,
+   "confidence": "unverified",
    "last_verified": "2026-08-17"
   },
   {
@@ -2913,7 +2913,7 @@
    "closed": null,
    "wikipedia": null,
    "wikidata": null,
-   "confidence": null,
+   "confidence": "unverified",
    "last_verified": "2026-08-17"
   },
   {
@@ -2928,7 +2928,7 @@
    "closed": null,
    "wikipedia": null,
    "wikidata": null,
-   "confidence": null,
+   "confidence": "unverified",
    "last_verified": "2026-08-17"
   },
   {
@@ -2958,7 +2958,7 @@
    "closed": null,
    "wikipedia": null,
    "wikidata": null,
-   "confidence": null,
+   "confidence": "unverified",
    "last_verified": "2026-08-17"
   },
   {
@@ -2988,7 +2988,7 @@
    "closed": null,
    "wikipedia": null,
    "wikidata": null,
-   "confidence": null,
+   "confidence": "unverified",
    "last_verified": "2026-08-17"
   },
   {
@@ -3003,7 +3003,7 @@
    "closed": null,
    "wikipedia": null,
    "wikidata": null,
-   "confidence": null,
+   "confidence": "unverified",
    "last_verified": "2026-08-17"
   },
   {
@@ -3123,7 +3123,7 @@
    "closed": null,
    "wikipedia": null,
    "wikidata": null,
-   "confidence": null,
+   "confidence": "unverified",
    "last_verified": "2026-08-17"
   },
   {
@@ -3138,7 +3138,7 @@
    "closed": null,
    "wikipedia": null,
    "wikidata": null,
-   "confidence": null,
+   "confidence": "unverified",
    "last_verified": "2026-08-17"
   },
   {
@@ -3198,7 +3198,7 @@
    "closed": null,
    "wikipedia": null,
    "wikidata": null,
-   "confidence": null,
+   "confidence": "unverified",
    "last_verified": "2026-08-17"
   },
   {
@@ -3219,7 +3219,7 @@
   {
    "code": "GN1",
    "distillery": "Glasgow Distillery Company",
-   "region": "Scotland",
+   "region": "Lowland",
    "location": null,
    "country": null,
    "owner": null,
@@ -3228,13 +3228,13 @@
    "closed": null,
    "wikipedia": null,
    "wikidata": null,
-   "confidence": null,
+   "confidence": "unverified",
    "last_verified": "2026-08-17"
   },
   {
    "code": "GN2",
    "distillery": "Strathearn Distillers",
-   "region": "Scotland",
+   "region": "Highland",
    "location": null,
    "country": null,
    "owner": null,
@@ -3243,13 +3243,13 @@
    "closed": null,
    "wikipedia": null,
    "wikidata": null,
-   "confidence": null,
+   "confidence": "unverified",
    "last_verified": "2026-08-17"
   },
   {
    "code": "GN3",
    "distillery": "The Borders Distillery",
-   "region": "Scotland",
+   "region": "Lowland",
    "location": "Scottish Borders",
    "country": "United Kingdom",
    "owner": null,
@@ -3273,13 +3273,13 @@
    "closed": null,
    "wikipedia": null,
    "wikidata": null,
-   "confidence": null,
+   "confidence": "unverified",
    "last_verified": "2026-08-17"
   },
   {
    "code": "GN5",
    "distillery": "Glenrinnes",
-   "region": "Scotland",
+   "region": "Speyside",
    "location": "Keith",
    "country": "United Kingdom",
    "owner": null,
@@ -3294,7 +3294,7 @@
   {
    "code": "GN6",
    "distillery": "Holyrood Distillery",
-   "region": "Edinburgh, Scotland",
+   "region": "Lowland",
    "location": "Edinburgh",
    "country": "United Kingdom",
    "owner": null,
@@ -3333,7 +3333,7 @@
    "closed": null,
    "wikipedia": null,
    "wikidata": null,
-   "confidence": null,
+   "confidence": "unverified",
    "last_verified": "2026-08-17"
   },
   {
@@ -3378,7 +3378,7 @@
    "closed": null,
    "wikipedia": null,
    "wikidata": null,
-   "confidence": null,
+   "confidence": "unverified",
    "last_verified": "2026-08-17"
   },
   {
@@ -3393,7 +3393,7 @@
    "closed": null,
    "wikipedia": null,
    "wikidata": null,
-   "confidence": null,
+   "confidence": "unverified",
    "last_verified": "2026-08-17"
   },
   {
@@ -3438,7 +3438,7 @@
    "closed": null,
    "wikipedia": null,
    "wikidata": null,
-   "confidence": null,
+   "confidence": "unverified",
    "last_verified": "2026-08-17"
   },
   {
@@ -3453,7 +3453,7 @@
    "closed": null,
    "wikipedia": null,
    "wikidata": null,
-   "confidence": null,
+   "confidence": "unverified",
    "last_verified": "2026-08-17"
   },
   {
@@ -3483,7 +3483,7 @@
    "closed": null,
    "wikipedia": null,
    "wikidata": null,
-   "confidence": null,
+   "confidence": "unverified",
    "last_verified": "2026-08-17"
   },
   {
@@ -3513,7 +3513,7 @@
    "closed": null,
    "wikipedia": null,
    "wikidata": null,
-   "confidence": null,
+   "confidence": "unverified",
    "last_verified": "2026-08-17"
   },
   {
@@ -3558,7 +3558,7 @@
    "closed": null,
    "wikipedia": null,
    "wikidata": null,
-   "confidence": null,
+   "confidence": "unverified",
    "last_verified": "2026-08-17"
   },
   {
@@ -3573,7 +3573,7 @@
    "closed": null,
    "wikipedia": null,
    "wikidata": null,
-   "confidence": null,
+   "confidence": "unverified",
    "last_verified": "2026-08-17"
   },
   {
@@ -3633,7 +3633,7 @@
    "closed": null,
    "wikipedia": null,
    "wikidata": null,
-   "confidence": null,
+   "confidence": "unverified",
    "last_verified": "2026-08-17"
   },
   {
