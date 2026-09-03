@@ -1,6 +1,10 @@
 
+@font-face{font-family:'Oswald';font-style:normal;font-weight:400;font-display:optional;src:url(fonts/oswald-400.woff2) format('woff2');}
+@font-face{font-family:'Oswald';font-style:normal;font-weight:500;font-display:optional;src:url(fonts/oswald-500.woff2) format('woff2');}
+@font-face{font-family:'Oswald';font-style:normal;font-weight:600;font-display:optional;src:url(fonts/oswald-600.woff2) format('woff2');}
+@font-face{font-family:'Oswald Fallback';src:local('Arial Narrow'),local('Arial');size-adjust:88%;}
 :root{--navy:#202448;--ink:#0e1322;--rule:#e4e4e4;--muted:#767676;--tint:#f5f6f9;
- --cond:'Oswald','Arial Narrow',Arial,sans-serif;--serif:Georgia,'Times New Roman',serif;}
+ --cond:'Oswald','Oswald Fallback','Arial Narrow',Arial,sans-serif;--serif:Georgia,'Times New Roman',serif;}
 *{box-sizing:border-box;}
 body{margin:0;background:#fff;color:var(--ink);font-family:var(--serif);}
 a{color:var(--navy);}
@@ -29,7 +33,7 @@ nav.site a:hover,nav.site a[aria-current]{opacity:1;border-bottom:2px solid #fff
 .intro strong{color:var(--navy);}
 .sec{font-family:var(--cond);text-transform:uppercase;color:var(--navy);letter-spacing:1px;font-size:22px;
  border-bottom:2px solid var(--navy);padding-bottom:8px;margin:38px 0 18px;}
-.sec span{font-weight:300;color:var(--muted);font-size:14px;}
+.sec span{font-weight:400;color:var(--muted);font-size:14px;}
 .note{font-size:14px;line-height:1.55;color:#333;font-family:var(--serif);margin:0 0 22px;padding-left:14px;border-left:3px solid var(--navy);}
 .note b{color:var(--navy);}
 .toggle{display:flex;margin-bottom:22px;}

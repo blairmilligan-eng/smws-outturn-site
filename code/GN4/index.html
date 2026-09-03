@@ -6,14 +6,11 @@
 <link rel="canonical" href="https://caskcode.co.uk/code/GN4/">
 <meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1">
 <meta name="author" content="Blair Milligan">
-<meta name="build" content="20260903T104810Z">
-<meta property="og:type" content="website"><meta property="og:title" content="SMWS Code GN4: Boatyard Distillery (Northern Ireland)"><meta property="og:description" content="SMWS code GN4 is Boatyard Distillery, in Northern Ireland. Society casks numbered GN4.x."><meta property="og:url" content="https://caskcode.co.uk/code/GN4/"><meta property="og:image" content="https://caskcode.co.uk/SMWS-WhineLogo.png"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:image" content="https://caskcode.co.uk/SMWS-WhineLogo.png"><link rel="icon" href="../../SMWS-WhineLogo.png">
-<link rel="preconnect" href="https://cdn11.bigcommerce.com" crossorigin>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500;600&display=swap">
+<meta name="build" content="20260903T114754Z">
+<meta property="og:type" content="website"><meta property="og:title" content="SMWS Code GN4: Boatyard Distillery (Northern Ireland)"><meta property="og:description" content="SMWS code GN4 is Boatyard Distillery, in Northern Ireland. Society casks numbered GN4.x."><meta property="og:url" content="https://caskcode.co.uk/code/GN4/"><meta property="og:image" content="https://caskcode.co.uk/SMWS-WhineLogo.png"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:image" content="https://caskcode.co.uk/SMWS-WhineLogo.png"><link rel="icon" type="image/png" sizes="32x32" href="../../favicon-32.png"><link rel="apple-touch-icon" sizes="180x180" href="../../apple-touch-icon.png">
+<link rel="preload" href="../../fonts/oswald-500.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="../../style.css">
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://caskcode.co.uk/"}, {"@type": "ListItem", "position": 2, "name": "SMWS codes", "item": "https://caskcode.co.uk/codes/"}, {"@type": "ListItem", "position": 3, "name": "Code GN4", "item": "https://caskcode.co.uk/code/GN4/"}]}</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebPage", "url": "https://caskcode.co.uk/code/GN4/", "name": "SMWS Code GN4: Boatyard Distillery", "dateModified": "2026-09-03", "author": {"@type": "Person", "name": "Blair Milligan"}, "mainEntity": {"@type": "DefinedTerm", "termCode": "GN4", "name": "SMWS GN4", "description": "Boatyard Distillery (Northern Ireland)"}}</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Which distillery is SMWS code GN4?", "acceptedAnswer": {"@type": "Answer", "text": "SMWS code GN4 is Boatyard Distillery, in Northern Ireland. Any Society bottling numbered GN4.x (for example GN4.1 or GN4.42) is a single cask from Boatyard Distillery."}}]}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://caskcode.co.uk/"}, {"@type": "ListItem", "position": 2, "name": "SMWS codes", "item": "https://caskcode.co.uk/codes/"}, {"@type": "ListItem", "position": 3, "name": "Code GN4", "item": "https://caskcode.co.uk/code/GN4/"}]}</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebPage", "url": "https://caskcode.co.uk/code/GN4/", "name": "SMWS Code GN4: Boatyard Distillery", "datePublished": "2026-08-19", "dateModified": "2026-08-19", "author": {"@type": "Person", "name": "Blair Milligan"}, "mainEntity": {"@type": "DefinedTerm", "termCode": "GN4", "name": "SMWS GN4", "description": "Boatyard Distillery (Northern Ireland)"}}</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Which distillery is SMWS code GN4?", "acceptedAnswer": {"@type": "Answer", "text": "SMWS code GN4 is Boatyard Distillery, in Northern Ireland. Any Society bottling numbered GN4.x (for example GN4.1 or GN4.42) is a single cask from Boatyard Distillery."}}]}</script>
 </head><body>
 <a class="skip" href="#main">Skip to content</a>
 <div class="logo-bar"><picture><source srcset="../../SMWS-WhineLogo.webp" type="image/webp"><img class="logo" width="781" height="410" decoding="async" src="../../SMWS-WhineLogo.png" alt="Cask Code"></picture></div>
@@ -75,17 +72,28 @@ function sortT(th,col){var tb=document.getElementById('table').tBodies[0];if(!tb
  var input=document.getElementById('lk'),ans=document.getElementById('lkans');
  var rel=form.getAttribute('data-rel')||'';var data={};
  try{data=JSON.parse(document.getElementById('lkdata').textContent);}catch(e){}
- function norm(v){return (v||'').trim().split('.')[0].trim().toUpperCase();}
- function match(){var k=norm(input.value),d=k&&data[k];
-  if(d){ans.style.display='flex';ans.style.background=d[2]||'#202448';
-   ans.setAttribute('href',rel+'code/'+encodeURIComponent(k)+'/');
-   ans.innerHTML='';
+ var names=[];for(var kk in data){names.push([kk,(data[kk][0]||'').toLowerCase()]);}
+ // Resolve a query to a code. Numbers match the code map; text matches distillery names.
+ // exact=true for an exact code or exact name (Enter jumps to the page); a partial name
+ // still previews the best guess but Enter falls through to the filtered /codes/ list.
+ function resolve(raw){raw=(raw||'').trim();if(!raw)return null;
+  var code=raw.split('.')[0].trim().toUpperCase();
+  if(data[code])return {code:code,exact:true};
+  var q=raw.toLowerCase(),starts=null,incl=null;
+  for(var i=0;i<names.length;i++){var nm=names[i][1];if(!nm)continue;
+   if(nm===q)return {code:names[i][0],exact:true};
+   if(starts===null&&nm.indexOf(q)===0)starts=names[i][0];
+   if(incl===null&&nm.indexOf(q)>=0)incl=names[i][0];}
+  var k=starts||incl;return k?{code:k,exact:false}:null;}
+ function match(){var r=resolve(input.value);
+  if(r){var k=r.code,d=data[k];ans.style.display='flex';ans.style.background=d[2]||'#202448';
+   ans.setAttribute('href',rel+'code/'+encodeURIComponent(k)+'/');ans.innerHTML='';
    var c=document.createElement('span');c.className='lkcode';c.textContent=k;
    var n=document.createElement('span');n.className='lkname';n.textContent=d[0]+(d[1]?' · '+d[1]:'');
-   ans.appendChild(c);ans.appendChild(n);return k;}
+   ans.appendChild(c);ans.appendChild(n);return r;}
   ans.style.display='none';return null;}
  input.addEventListener('input',match);
- form.addEventListener('submit',function(e){var k=match();
-  if(k){e.preventDefault();location.href=rel+'code/'+encodeURIComponent(k)+'/';}});})();
+ form.addEventListener('submit',function(e){var r=match();
+  if(r&&r.exact){e.preventDefault();location.href=rel+'code/'+encodeURIComponent(r.code)+'/';}});})();
 </script>
 </body></html>
