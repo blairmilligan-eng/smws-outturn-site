@@ -93,6 +93,8 @@ a.wiki::after{content:" \2197";font-size:.8em;opacity:.6;}
 .card.sold .price{color:var(--muted);text-decoration:line-through;}
 .releasebadge{position:absolute;top:12px;left:12px;background:#1c2a5e;color:#fff;font-family:var(--cond);
  text-transform:uppercase;letter-spacing:1px;font-size:12px;font-weight:600;padding:4px 10px;}
+.archivebadge{position:absolute;top:12px;right:12px;background:var(--navy);color:#fff;font-family:var(--cond);
+ text-transform:uppercase;letter-spacing:.5px;font-size:11px;font-weight:500;padding:4px 8px;}
 .btn{font-family:var(--cond);text-transform:uppercase;letter-spacing:2px;font-size:12px;background:var(--navy);
  color:#fff;text-decoration:none;padding:11px 16px;white-space:nowrap;display:inline-block;margin:0 8px 8px 0;}
 .btn:hover{background:var(--ink);}
