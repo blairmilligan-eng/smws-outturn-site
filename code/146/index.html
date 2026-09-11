@@ -28,7 +28,7 @@
 <p>The <strong>Scotch Malt Whisky Society</strong> bottles single casks under numeric codes rather than distillery names, so a label reading <strong>146.403</strong> means cask 403 from distillery 146. That distillery is <strong>Cotswolds</strong>, in England. More on <a href="https://en.wikipedia.org/wiki/Cotswolds_Distillery" target="_blank" rel="noopener">Cotswolds at Wikipedia</a>.</p>
 </div>
 <h2 class="sec">Cotswolds in past Outturns <span>1 bottle(s)</span></h2>
-<div class="grid"><article class="card sold"><div class="imgwrap"><img loading="lazy" decoding="async" fetchpriority="low" width="386" height="513" src="https://cdn11.bigcommerce.com/s-vagfena5nz/products/3682/images/8304/146.2-web__42234.1715694813.386.513.png?c=1" alt="Join the great tumult - SMWS 146.2"><span class="soldout">Sold out</span><span class="archivebadge">Mar 2023</span></div><div class="titlebar" style="background:#202448"><span class="cask">146.2</span><h3>Join the great tumult</h3></div><div class="body"><div class="specs"><div class="cell"><span class="k">SMWS region</span><span class="v">England</span></div><div class="cell"><span class="k">Age</span><span class="v">6 years</span></div><div class="cell"><span class="k">ABV</span><span class="v">62.2%</span></div><div class="cell"><span class="k">Profile</span><span class="v">&mdash;</span></div><div class="cell full"><span class="k">Cask</span><span class="v">1st fill STR barrique</span></div><div class="cell full"><span class="k">Spirit</span><span class="v">Malt Whisky</span></div></div><div class="codeblock"><div class="codeblock-cap">Distillery from SMWS code 146</div><div class="cell"><span class="k">Distillery</span><span class="v"><a class="wiki" href="../../code/146/">Cotswolds</a></span></div><div class="cell"><span class="k">Region</span><span class="v">England</span></div></div><p class="summ"><b>In short</b> &middot; Cotswolds (England), 6 years.</p><blockquote class="qt">&ldquo;This almost started a ‘rumbullion’ in the Panel – a Devonshire word meaning ‘a great tumult’.&hellip;&rdquo;<span class="src">Extract &middot; <a href="https://smws.com/join-the-great-tumult/" target="_blank" rel="noopener">full tasting notes at SMWS</a></span></blockquote><div class="foot"><span class="price">&pound;79.5</span><a class="btn" href="https://smws.com/join-the-great-tumult/" target="_blank" rel="noopener">View on SMWS</a></div></div></article></div>
+<div class="grid"><article class="card sold" id="cask-146-2"><div class="imgwrap"><img loading="lazy" decoding="async" fetchpriority="low" width="386" height="513" src="https://cdn11.bigcommerce.com/s-vagfena5nz/products/3682/images/8304/146.2-web__42234.1715694813.386.513.png?c=1" alt="Join the great tumult - SMWS 146.2"><span class="soldout">Sold out</span><span class="archivebadge">Mar 2023</span></div><div class="titlebar" style="background:#202448"><span class="cask">146.2</span><h3>Join the great tumult</h3></div><div class="body"><div class="specs"><div class="cell"><span class="k">SMWS region</span><span class="v">England</span></div><div class="cell"><span class="k">Age</span><span class="v">6 years</span></div><div class="cell"><span class="k">ABV</span><span class="v">62.2%</span></div><div class="cell"><span class="k">Profile</span><span class="v">&mdash;</span></div><div class="cell full"><span class="k">Cask</span><span class="v">1st fill STR barrique</span></div><div class="cell full"><span class="k">Spirit</span><span class="v">Malt Whisky</span></div></div><div class="codeblock"><div class="codeblock-cap">Distillery from SMWS code 146</div><div class="cell"><span class="k">Distillery</span><span class="v"><a class="wiki" href="../../code/146/">Cotswolds</a></span></div><div class="cell"><span class="k">Region</span><span class="v">England</span></div></div><p class="summ"><b>In short</b> &middot; Cotswolds (England), 6 years.</p><blockquote class="qt">&ldquo;This almost started a ‘rumbullion’ in the Panel – a Devonshire word meaning ‘a great tumult’.&hellip;&rdquo;<span class="src">Extract &middot; <a href="https://smws.com/join-the-great-tumult/" target="_blank" rel="noopener">full tasting notes at SMWS</a></span></blockquote><div class="foot"><span class="price">&pound;79.5</span><a class="btn" href="https://smws.com/join-the-great-tumult/" target="_blank" rel="noopener">View on SMWS</a></div></div></article></div>
 <div class="prose" style="margin-top:26px"><p><b>Cotswolds is also bottled under:</b> <a href="../../code/GN7/">GN7</a></p><p><b>Other England distilleries:</b> <a href="../../code/137/">137 St. George’s (The English Whisky Co.)</a>, <a href="../../code/GN7/">GN7 Cotswolds</a> &middot; <a href="../../region/england/">all England codes</a></p></div>
 <p style="margin-top:20px;font-family:var(--cond);text-transform:uppercase;letter-spacing:1px;font-size:13px"><a href="../../codes/">&larr; Back to the full SMWS code list</a></p>
 <h2 class="sec">FAQ</h2><details class="faq" open><summary>Which distillery is SMWS code 146?</summary><div>SMWS code 146 is Cotswolds, in England. It is an operating distillery, founded in 2014. Any Society bottling numbered 146.x (for example 146.1 or 146.42) is a single cask from Cotswolds.</div></details>
@@ -79,27 +79,38 @@ function sortT(th,col){var tb=document.getElementById('table').tBodies[0];if(!tb
  // Resolve a query to a code. Numbers match the code map; text matches distillery names.
  // exact=true for an exact code or exact name (Enter jumps to the page); a partial name
  // still previews the best guess but Enter falls through to the filtered /codes/ list.
+ function anchor(code,cask){return 'cask-'+(code+'-'+cask).toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');}
  function resolve(raw){raw=(raw||'').trim();if(!raw)return null;
-  var code=raw.split('.')[0].trim().toUpperCase();
-  if(data[code])return {code:code,exact:true};
+  var bits=raw.split('.');
+  var code=bits[0].trim().toUpperCase();
+  var cask=bits.length>1?bits.slice(1).join('.').trim():'';
+  if(data[code])return {code:code,exact:true,cask:cask};
   var q=raw.toLowerCase(),starts=null,incl=null;
   for(var i=0;i<names.length;i++){var nm=names[i][1];if(!nm)continue;
    if(nm===q)return {code:names[i][0],exact:true};
    if(starts===null&&nm.indexOf(q)===0)starts=names[i][0];
    if(incl===null&&nm.indexOf(q)>=0)incl=names[i][0];}
   var k=starts||incl;return k?{code:k,exact:false}:null;}
+ function dest(r){return rel+'code/'+encodeURIComponent(r.code)+'/'+(r.cask?'#'+anchor(r.code,r.cask):'');}
  function match(){var r=resolve(input.value);
   if(r){var k=r.code,d=data[k];ans.style.display='flex';ans.style.background=d[2]||'#202448';
-   ans.setAttribute('href',rel+'code/'+encodeURIComponent(k)+'/');ans.innerHTML='';
-   var c=document.createElement('span');c.className='lkcode';c.textContent=k;
+   ans.setAttribute('href',dest(r));ans.innerHTML='';
+   var c=document.createElement('span');c.className='lkcode';c.textContent=k+(r.cask?'.'+r.cask:'');
    var n=document.createElement('span');n.className='lkname';n.textContent=d[0]+(d[1]?' · '+d[1]:'');
    ans.appendChild(c);ans.appendChild(n);return r;}
   ans.style.display='none';return null;}
  input.addEventListener('input',match);
  form.addEventListener('submit',function(e){var r=match();
-  if(r&&r.exact){e.preventDefault();location.href=rel+'code/'+encodeURIComponent(r.code)+'/';}});
+  if(r&&r.exact){e.preventDefault();location.href=dest(r);}});
  // Back-button on mobile restores the page from the bfcache with the answer strip still
  // showing but the box empty. Reset to a clean state whenever the page is re-shown.
  window.addEventListener('pageshow',function(){input.value='';ans.style.display='none';});})();
+(function(){ // #cask-N-NNN deep link: if that bottle isn't on this page but there's a fuller
+ // archive page linked from it, carry the anchor through so a cask number always lands.
+ function jump(){var h=location.hash;if(!h||h.indexOf('#cask-')!==0)return;
+  if(document.getElementById(h.slice(1)))return;
+  var a=document.querySelector('a[href$="archive/"]');
+  if(a){var u=a.getAttribute('href');if(u&&u.indexOf('#')<0)location.replace(u+h);}}
+ jump();window.addEventListener('hashchange',jump);})();
 </script>
 </body></html>

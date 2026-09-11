@@ -90,6 +90,7 @@ a.wiki::after{content:" \2197";font-size:.8em;opacity:.6;}
 .soldout{position:absolute;top:12px;left:12px;background:#8a1f1f;color:#fff;font-family:var(--cond);
  text-transform:uppercase;letter-spacing:1px;font-size:12px;font-weight:600;padding:4px 10px;}
 .card.sold .imgwrap img{opacity:.55;filter:grayscale(35%);}
+.card:target{outline:3px solid var(--navy);outline-offset:4px;scroll-margin-top:20px;}
 .card.sold .price{color:var(--muted);text-decoration:line-through;}
 .releasebadge{position:absolute;top:12px;left:12px;background:#1c2a5e;color:#fff;font-family:var(--cond);
  text-transform:uppercase;letter-spacing:1px;font-size:12px;font-weight:600;padding:4px 10px;}
