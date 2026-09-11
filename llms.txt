@@ -29,7 +29,6 @@ An SMWS code like 4.403 means distillery 4 (before the dot) and cask 403 (after 
 - 95.117 "Perfumed fruits and cherry blossoms" - Auchroisk (Speyside) - https://smws.com/perfumed-fruits-and-cherry-blossoms/
 - 100.52 "Balsamic glow" - Strathmill (Speyside) - https://smws.com/balsamic-glow/
 - 108.78 "If I had a hamper" - Allt-a-Bhainne (Speyside) - https://smws.com/if-i-had-a-hamper/
-- 121.127 "Mocktail vibes" - Isle of Arran (Islands) - https://smws.com/mocktail-vibes/
 - 149.27 "Popcorn by the old pier" - Ardnamurchan (Highland) - https://smws.com/popcorn-by-the-old-pier/
 - 167.6 "A tropical treat" - Clydeside Distillery (Lowland) - https://smws.com/a-tropical-treat/
 - 168.4 "A foodie's dream dram" - InchDairnie Distillery (KinGlassie) (Lowland) - https://smws.com/a-foodie-s-dream-dram/
