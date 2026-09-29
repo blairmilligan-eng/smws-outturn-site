@@ -16,7 +16,6 @@ An SMWS code like 4.403 means distillery 4 (before the dot) and cask 403 (after 
 - Yin & Yang Duo (multi-bottle bundle) - https://smws.com/yin-yang-duo/
 - 4.404 "A tugboat smokery sails through Orkney mist" - Highland Park (Islands) - https://smws.com/a-tugboat-smokery-sails-through-orkney-mist/
 - 8.58 "Honey or caramel blonde?" - Tamdhu (Speyside) - https://smws.com/honey-or-caramel-blonde/
-- 36.237 "The village pâtisserie at dawn" - Benrinnes (Speyside) - https://smws.com/the-village-patisserie-at-dawn/
 - 44.201 "Gingerbread space-time continuum" - Craigellachie (Speyside) - https://smws.com/gingerbread-space-time-continuum/
 - 53.518 "The ashy brunch club" - Caol Ila (Islay) - https://smws.com/the-ashy-brunch-club/
 - 64.173 "A crisp classic" - Mannochmore (Speyside) - https://smws.com/a-crisp-classic/
