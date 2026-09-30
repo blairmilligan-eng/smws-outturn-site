@@ -10,26 +10,24 @@ An SMWS code like 4.403 means distillery 4 (before the dot) and cask 403 (after 
 
 ## Current Outturn
 
-- The Whisky Equinox Pair (multi-bottle bundle) - https://smws.com/the-whisky-equinox-pair/
-- 28.119 "Spice it up after dark" - Tullibardine (Highland) - https://smws.com/spice-it-up-after-dark/
-- 39.334 "Riesling spritz in the sun" - Linkwood (Speyside) - https://smws.com/riesling-spritz-in-the-sun/
-- Yin & Yang Duo (multi-bottle bundle) - https://smws.com/yin-yang-duo/
-- 4.404 "A tugboat smokery sails through Orkney mist" - Highland Park (Islands) - https://smws.com/a-tugboat-smokery-sails-through-orkney-mist/
-- 8.58 "Honey or caramel blonde?" - Tamdhu (Speyside) - https://smws.com/honey-or-caramel-blonde/
-- 44.201 "Gingerbread space-time continuum" - Craigellachie (Speyside) - https://smws.com/gingerbread-space-time-continuum/
-- 53.518 "The ashy brunch club" - Caol Ila (Islay) - https://smws.com/the-ashy-brunch-club/
-- 64.173 "A crisp classic" - Mannochmore (Speyside) - https://smws.com/a-crisp-classic/
-- 66.263 "Sip manzanilla in an orange grove" - Ardmore (Highland) - https://smws.com/sip-manzanilla-in-an-orange-grove/
-- 76.167 "Triple-vine playtime" - Mortlach (Speyside) - https://smws.com/triple-vine-playtime/
-- 78.102 "Panko's popcorn" - Ben Nevis (Highland) - https://smws.com/panko-s-popcorn/
-- 79.17 "Let the springtime flourish" - Deanston (Highland) - https://smws.com/let-the-springtime-flourish/
-- 95.117 "Perfumed fruits and cherry blossoms" - Auchroisk (Speyside) - https://smws.com/perfumed-fruits-and-cherry-blossoms/
-- 100.52 "Balsamic glow" - Strathmill (Speyside) - https://smws.com/balsamic-glow/
-- 108.78 "If I had a hamper" - Allt-a-Bhainne (Speyside) - https://smws.com/if-i-had-a-hamper/
-- 149.27 "Popcorn by the old pier" - Ardnamurchan (Highland) - https://smws.com/popcorn-by-the-old-pier/
-- 167.6 "A tropical treat" - Clydeside Distillery (Lowland) - https://smws.com/a-tropical-treat/
-- Batch 43 "Noble drop" - unknown distillery - https://smws.com/noble-drop/
-- G15.41 "A summer landscape" - Loch Lomond (Rhosdhu) (Highland) - https://smws.com/a-summer-landscape/
+- 4.406 "Sweetly soothing smoke" - Highland Park (Islands) - https://smws.com/sweetly-soothing-smoke/
+- 6.94 "A colleague's raincoat" - Macduff (Highland) - https://smws.com/a-colleague-s-raincoat/
+- 16.106 "Coastal daunder to a blazing pomander" - Glenturret (Highland) - https://smws.com/coastal-daunder-to-a-blazing-pomander/
+- 34.7 "Affinity for salinity" - Tamnavulin (Speyside) - https://smws.com/affinity-for-salinity/
+- 35.413 "Two short planks and a basket case" - Glen Moray (Speyside) - https://smws.com/two-short-planks-and-a-basket-case/
+- 48.189 "Fruit wax on flapjacks" - Balmenach (Speyside) - https://smws.com/fruit-wax-on-flapjacks/
+- 53.527 "Seraphic sea symphony" - Caol Ila (Islay) - https://smws.com/seraphic-sea-symphony/
+- 53.537 "Smoked cardamom ice cream with salty honey" - Caol Ila (Islay) - https://smws.com/smoked-cardamom-ice-cream-with-salty-honey/
+- 55.102 "First light amid the casks" - Royal Brackla (Highland) - https://smws.com/first-light-amid-the-casks/
+- 66.264 "Eau de huckleberry taffy" - Ardmore (Highland) - https://smws.com/eau-de-huckleberry-taffy/
+- 73.177 "A little bit of everything" - Aultmore (Speyside) - https://smws.com/a-little-bit-of-everything/
+- 79.19 "A champion rises from the suds" - Deanston (Highland) - https://smws.com/a-champion-rises-from-the-suds/
+- 135.83 "Feel irie" - Loch Lomond (Highland) - https://smws.com/feel-irie/
+- 163.6 "Avast, me hearties!" - Isle of Harris Distillery (Islands) - https://smws.com/avast-me-hearties/
+- 167.4 "Spice oddity" - Clydeside Distillery (Lowland) - https://smws.com/spice-oddity/
+- 168.6 "Textural healing" - InchDairnie Distillery (KinGlassie) (Lowland) - https://smws.com/textural-healing/
+- G15.42 "Loaded afters" - Loch Lomond (Rhosdhu) (Highland) - https://smws.com/loaded-afters/
+- Batch 44 "The Blender's Notebook" - unknown distillery - https://smws.com/the-blender-s-notebook/
 
 ## Every SMWS code -> distillery (with page URLs)
 
