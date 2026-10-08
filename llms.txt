@@ -15,7 +15,6 @@ An SMWS code like 4.403 means distillery 4 (before the dot) and cask 403 (after 
 - 6.94 "A colleague's raincoat" - Macduff (Highland) - https://smws.com/a-colleague-s-raincoat/
 - 16.106 "Coastal daunder to a blazing pomander" - Glenturret (Highland) - https://smws.com/coastal-daunder-to-a-blazing-pomander/
 - 34.7 "Affinity for salinity" - Tamnavulin (Speyside) - https://smws.com/affinity-for-salinity/
-- 35.413 "Two short planks and a basket case" - Glen Moray (Speyside) - https://smws.com/two-short-planks-and-a-basket-case/
 - 48.189 "Fruit wax on flapjacks" - Balmenach (Speyside) - https://smws.com/fruit-wax-on-flapjacks/
 - 53.527 "Seraphic sea symphony" - Caol Ila (Islay) - https://smws.com/seraphic-sea-symphony/
 - 53.537 "Smoked cardamom ice cream with salty honey" - Caol Ila (Islay) - https://smws.com/smoked-cardamom-ice-cream-with-salty-honey/
