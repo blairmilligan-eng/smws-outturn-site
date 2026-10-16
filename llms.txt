@@ -11,13 +11,16 @@ An SMWS code like 4.403 means distillery 4 (before the dot) and cask 403 (after 
 ## Current Outturn
 
 - The Winter Series 2026 (multi-bottle bundle) - https://smws.com/the-winter-series-2026/
+- 3.369 "Tempest in the tropics" - Bowmore (Islay) - https://smws.com/tempest-in-the-tropics/
 - 4.406 "Sweetly soothing smoke" - Highland Park (Islands) - https://smws.com/sweetly-soothing-smoke/
 - 6.94 "A colleague's raincoat" - Macduff (Highland) - https://smws.com/a-colleague-s-raincoat/
 - 10.304 "Witches' bonfire brew" - Bunnahabhain (Islay) - https://smws.com/witches-bonfire-brew/
+- 27.115 "Sweet-smoked olive oil" - Springbank (Campbeltown) - https://smws.com/sweet-smoked-olive-oil/
 - 34.7 "Affinity for salinity" - Tamnavulin (Speyside) - https://smws.com/affinity-for-salinity/
 - 48.189 "Fruit wax on flapjacks" - Balmenach (Speyside) - https://smws.com/fruit-wax-on-flapjacks/
 - 53.527 "Seraphic sea symphony" - Caol Ila (Islay) - https://smws.com/seraphic-sea-symphony/
 - 53.530 "Monster Mash Malt" - Caol Ila (Islay) - https://smws.com/monster-mash-malt/
+- 53.533 "The skipper's kippers" - Caol Ila (Islay) - https://smws.com/the-skipper-s-kippers/
 - 53.537 "Smoked cardamom ice cream with salty honey" - Caol Ila (Islay) - https://smws.com/smoked-cardamom-ice-cream-with-salty-honey/
 - 55.102 "First light amid the casks" - Royal Brackla (Highland) - https://smws.com/first-light-amid-the-casks/
 - 66.264 "Eau de huckleberry taffy" - Ardmore (Highland) - https://smws.com/eau-de-huckleberry-taffy/
