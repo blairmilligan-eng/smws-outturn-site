@@ -54,6 +54,27 @@ nav.site a:hover,nav.site a[aria-current]{opacity:1;border-bottom:2px solid #fff
 .titlebar .cask{display:block;font-family:var(--cond);letter-spacing:2px;font-size:12px;opacity:.9;}
 .titlebar h3{font-family:var(--cond);text-transform:uppercase;font-weight:500;letter-spacing:.5px;
  font-size:19px;margin:2px 0 0;line-height:1.12;}
+.titlebar a.tlink{color:inherit;text-decoration:none;}
+.titlebar a.tlink:hover{text-decoration:underline;text-underline-offset:3px;}
+a.bottlelink{display:inline-block;margin:10px 0 0;font-family:var(--cond);text-transform:uppercase;letter-spacing:.5px;
+ font-size:12px;color:var(--navy);text-decoration:none;border-bottom:1px solid var(--navy);align-self:flex-start;}
+a.bottlelink:hover{opacity:.6;}
+.bottlehero{display:grid;grid-template-columns:minmax(0,420px) minmax(0,1fr);gap:32px;align-items:start;}
+.bottlehero .card .foot .btn{margin-bottom:0;}
+@media (max-width:820px){.bottlehero{grid-template-columns:1fr;gap:8px;}}
+.pricebox{background:var(--tint);border-left:4px solid var(--navy);padding:14px 18px;margin:0 0 22px;font-family:var(--serif);font-size:15.5px;line-height:1.6;}
+.pricebox .pb-cap{font-family:var(--cond);text-transform:uppercase;letter-spacing:1px;font-size:12px;color:var(--navy);margin-bottom:4px;}
+.pricebar{position:relative;height:10px;background:#dfe1ea;margin:14px 0 6px;border-radius:5px;}
+.pricebar .rng{position:absolute;top:0;bottom:0;background:#b9bed3;border-radius:5px;}
+.pricebar .me{position:absolute;top:-5px;width:4px;height:20px;background:var(--navy);margin-left:-2px;}
+.pricebar-l{display:flex;justify-content:space-between;font-family:var(--cond);font-size:12px;color:var(--muted);}
+.sibs{list-style:none;padding:0;margin:0 0 10px;max-width:800px;}
+.sibs li{border-bottom:1px solid var(--rule);}
+.sibs a{display:flex;gap:12px;align-items:baseline;padding:9px 0;text-decoration:none;color:var(--ink);}
+.sibs .sc{font-family:var(--cond);font-weight:600;color:var(--navy);min-width:66px;}
+.sibs .sn{flex:1;font-family:var(--serif);}
+.sibs a:hover .sn{text-decoration:underline;}
+.sibs .sm{font-family:var(--cond);font-size:13px;color:var(--muted);white-space:nowrap;}
 .body{padding:0 16px 16px;display:flex;flex-direction:column;flex:1;}
 .specs{display:grid;grid-template-columns:1fr 1fr;column-gap:16px;}
 .cell{display:flex;justify-content:space-between;gap:10px;padding:9px 0;border-bottom:1px solid var(--rule);font-size:14px;}

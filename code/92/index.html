@@ -88,7 +88,10 @@ function sortT(th,col){var tb=document.getElementById('table').tBodies[0];if(!tb
    if(starts===null&&nm.indexOf(q)===0)starts=names[i][0];
    if(incl===null&&nm.indexOf(q)>=0)incl=names[i][0];}
   var k=starts||incl;return k?{code:k,exact:false}:null;}
- function dest(r){return rel+'code/'+encodeURIComponent(r.code)+'/'+(r.cask?'#'+anchor(r.code,r.cask):'');}
+ function hasPage(r){var c=r.cask.replace(/\s+/g,'');if(!/^\d+$/.test(c))return false;
+  var l=(data[r.code][3]||'').split(',');return l.indexOf(String(parseInt(c,10)))>=0;}
+ function dest(r){if(r.cask&&hasPage(r))return rel+'cask/'+(r.code+'.'+parseInt(r.cask.replace(/\s+/g,''),10)).toLowerCase()+'/';
+  return rel+'code/'+encodeURIComponent(r.code)+'/'+(r.cask?'#'+anchor(r.code,r.cask):'');}
  function match(){var r=resolve(input.value);
   if(r){var k=r.code,d=data[k];ans.style.display='flex';ans.style.background=d[2]||'#202448';
    ans.setAttribute('href',dest(r));ans.innerHTML='';
