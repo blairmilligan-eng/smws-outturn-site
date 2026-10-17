@@ -75,6 +75,7 @@ a.bottlelink:hover{opacity:.6;}
 .sibs .sn{flex:1;font-family:var(--serif);}
 .sibs a:hover .sn{text-decoration:underline;}
 .sibs .sm{font-family:var(--cond);font-size:13px;color:var(--muted);white-space:nowrap;}
+.muted{color:var(--muted);font-weight:400;}
 .body{padding:0 16px 16px;display:flex;flex-direction:column;flex:1;}
 .specs{display:grid;grid-template-columns:1fr 1fr;column-gap:16px;}
 .cell{display:flex;justify-content:space-between;gap:10px;padding:9px 0;border-bottom:1px solid var(--rule);font-size:14px;}
