@@ -14,6 +14,8 @@ a{color:var(--navy);}
  text-transform:uppercase;letter-spacing:3px;font-size:13px;padding:12px;}
 .logo-bar{background:#131c40;padding:0;line-height:0;min-height:205px;}
 .logo{display:block;margin:0 auto;max-width:100%;max-height:205px;height:auto;width:auto;}
+.logo-home{display:block;}
+.logo-home:focus-visible{outline:3px solid #fff;outline-offset:-3px;}
 nav.site{background:var(--navy);}
 nav.site .in{max-width:1280px;margin:0 auto;padding:0 24px;display:flex;gap:18px;flex-wrap:wrap;}
 nav.site a{color:#fff;font-family:var(--cond);text-transform:uppercase;letter-spacing:1px;
@@ -193,7 +195,7 @@ footer.ft .ind{max-width:820px;margin:0 auto 8px;}
  color:var(--xm-gold);font-family:var(--cond);text-transform:uppercase;letter-spacing:3px;font-size:13px;padding:11px 12px;white-space:nowrap;}
 .xmas .xm-short{display:none;}
 .xmas .logo-bar{position:relative;overflow:hidden;}
-.xmas .logo-bar picture,.xmas .logo{position:relative;z-index:1;}
+.xmas .logo-bar picture,.xmas .logo,.xmas .logo-home{position:relative;z-index:1;}
 .xm-deco{position:absolute;inset:0;z-index:2;pointer-events:none;}
 .xm-flake{position:absolute;top:-10px;border-radius:50%;background:#fff;animation:xm-fall linear infinite;}
 @keyframes xm-fall{from{transform:translate(0,-10px)}to{transform:translate(18px,225px)}}
