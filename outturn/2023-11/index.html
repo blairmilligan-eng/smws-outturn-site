@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en"><head><meta charset="utf-8">
+<html lang="en"><head><meta charset="utf-8"><script>try{if(sessionStorage.getItem('ccv:'+location.pathname)==='table'){var t=document.documentElement;t.classList.add('tv');document.addEventListener('DOMContentLoaded',function(){if(window.show)show('table');t.classList.remove('tv')})}}catch(e){}</script>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>SMWS releases November 2023 - bottles decoded</title>
 <meta name="description" content="SMWS bottlings released in November 2023, each decoded to its distillery. A partial record from the Society&#x27;s bottle archive.">
@@ -30,7 +30,8 @@
 function show(v){var c=document.getElementById('cards'),t=document.getElementById('table');
  if(!c||!t)return;c.style.display=v==='cards'?'grid':'none';t.style.display=v==='table'?'table':'none';
  var bc=document.getElementById('bCards'),bt=document.getElementById('bTable');
- if(bc)bc.setAttribute('aria-pressed',v==='cards');if(bt)bt.setAttribute('aria-pressed',v==='table');}
+ if(bc)bc.setAttribute('aria-pressed',v==='cards');if(bt)bt.setAttribute('aria-pressed',v==='table');
+ try{sessionStorage.setItem('ccv:'+location.pathname,v);}catch(e){}}
 function filt(){var q=(document.getElementById('refq').value||'').trim().toLowerCase();
  try{history.replaceState(null,'',q?('?q='+encodeURIComponent(q)):location.pathname);}catch(e){}
  document.querySelectorAll('#refbody tr').forEach(function(r){var c=r.getAttribute('data-code'),d=r.getAttribute('data-dist');
