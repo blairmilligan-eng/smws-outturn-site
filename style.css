@@ -129,6 +129,9 @@ table.tbl th{background:var(--navy);color:#fff;font-family:var(--cond);text-tran
 table.tbl th:hover{background:#1a2350;}
 table.tbl th .sar{font-size:.85em;opacity:.9;}
 table.tbl td{font-family:var(--cond);}
+table.tbl td a.tcask{color:var(--navy);font-weight:600;text-decoration:underline;text-underline-offset:2px;}
+table.tbl td a.tname{color:var(--ink);text-decoration:none;}
+table.tbl td a.tname:hover{text-decoration:underline;}
 table.tbl tr:nth-child(even) td{background:#fafafa;}
 .swatch{display:inline-block;width:12px;height:12px;border-radius:2px;margin-right:8px;vertical-align:-1px;border:1px solid rgba(0,0,0,.15);}
 .refhelp{font-family:var(--cond);text-transform:uppercase;letter-spacing:.5px;font-size:12px;color:var(--muted);margin:0 0 8px;}
