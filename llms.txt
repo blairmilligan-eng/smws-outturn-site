@@ -17,7 +17,6 @@ An SMWS code like 4.403 means distillery 4 (before the dot) and cask 403 (after 
 - 10.304 "Witches' bonfire brew" - Bunnahabhain (Islay) - https://smws.com/witches-bonfire-brew/
 - 27.115 "Sweet-smoked olive oil" - Springbank (Campbeltown) - https://smws.com/sweet-smoked-olive-oil/
 - 34.7 "Affinity for salinity" - Tamnavulin (Speyside) - https://smws.com/affinity-for-salinity/
-- 48.189 "Fruit wax on flapjacks" - Balmenach (Speyside) - https://smws.com/fruit-wax-on-flapjacks/
 - 53.527 "Seraphic sea symphony" - Caol Ila (Islay) - https://smws.com/seraphic-sea-symphony/
 - 53.530 "Monster Mash Malt" - Caol Ila (Islay) - https://smws.com/monster-mash-malt/
 - 53.533 "The skipper's kippers" - Caol Ila (Islay) - https://smws.com/the-skipper-s-kippers/
@@ -30,8 +29,6 @@ An SMWS code like 4.403 means distillery 4 (before the dot) and cask 403 (after 
 - 163.6 "Avast, me hearties!" - Isle of Harris Distillery (Islands) - https://smws.com/avast-me-hearties/
 - 167.4 "Spice oddity" - Clydeside Distillery (Lowland) - https://smws.com/spice-oddity/
 - 168.6 "Textural healing" - InchDairnie Distillery (KinGlassie) (Lowland) - https://smws.com/textural-healing/
-- G15.42 "Loaded afters" - Loch Lomond (Rhosdhu) (Highland) - https://smws.com/loaded-afters/
-- Batch 44 "The Blender's Notebook" - unknown distillery - https://smws.com/the-blender-s-notebook/
 
 ## Every SMWS code -> distillery (with page URLs)
 
