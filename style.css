@@ -78,6 +78,8 @@ a.bottlelink:hover{opacity:.6;}
 .sibs a:hover .sn{text-decoration:underline;}
 .sibs .sm{font-family:var(--cond);font-size:13px;color:var(--muted);white-space:nowrap;}
 .muted{color:var(--muted);font-weight:400;}
+.abvline{font-family:var(--serif);font-size:15.5px;color:#333;margin:-8px 0 18px;padding-left:20px;}
+.abvline strong{color:var(--navy);}
 .body{padding:0 16px 16px;display:flex;flex-direction:column;flex:1;}
 .specs{display:grid;grid-template-columns:1fr 1fr;column-gap:16px;}
 .cell{display:flex;justify-content:space-between;gap:10px;padding:9px 0;border-bottom:1px solid var(--rule);font-size:14px;}
