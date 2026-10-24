@@ -35,7 +35,7 @@ function show(v){var c=document.getElementById('cards'),t=document.getElementByI
 function filt(){var q=(document.getElementById('refq').value||'').trim().toLowerCase();
  try{history.replaceState(null,'',q?('?q='+encodeURIComponent(q)):location.pathname);}catch(e){}
  document.querySelectorAll('#refbody tr').forEach(function(r){var c=r.getAttribute('data-code'),d=r.getAttribute('data-dist');
-  r.style.display=(!q||c.indexOf(q)>=0||d.indexOf(q)>=0)?'':'none';});}
+  r.style.display=(!q||c.toLowerCase().indexOf(q)>=0||d.indexOf(q)>=0)?'':'none';});}
 (function(){var m=location.search.match(/[?&]q=([^&]*)/);if(m){var i=document.getElementById('refq');if(i){i.value=decodeURIComponent(m[1]);filt();}}})();
 function sortT(th,col){var tb=document.getElementById('table').tBodies[0];if(!tb)return;
  var rows=Array.prototype.slice.call(tb.rows);
