@@ -140,6 +140,7 @@ table.tbl tr:nth-child(even) td{background:#fafafa;}
 .refq{width:100%;max-width:440px;font:inherit;font-size:15px;padding:10px 12px;border:1px solid var(--navy);margin:0 0 16px;}
 .tablewrap{overflow-x:auto;}
 .codestats .statnote{font-size:13px;color:#777;margin-top:-6px;}
+.finding{border-left:3px solid var(--navy);padding:8px 14px;margin:18px 0 24px;background:#fafafa;font-size:15px;}
 table.reftbl{width:100%;border-collapse:collapse;font-size:14px;}
 table.reftbl th,table.reftbl td{text-align:left;padding:9px 12px;border-bottom:1px solid var(--rule);}
 table.reftbl th{background:var(--navy);color:#fff;font-family:var(--cond);text-transform:uppercase;letter-spacing:1px;font-size:12px;font-weight:400;position:sticky;top:0;}
