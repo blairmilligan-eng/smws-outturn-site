@@ -20,10 +20,8 @@ An SMWS code like 4.403 means distillery 4 (before the dot) and cask 403 (after 
 - 13.115 "Polished plums and orange sponge" - Dalmore (Highland) - https://smws.com/polished-plums-and-orange-sponge/
 - 18.88 "Essence of elegance" - Inchgower (Speyside) - https://smws.com/essence-of-elegance/
 - 19.114 "Submit to the fruit" - Glen Garioch (Highland) - https://smws.com/submit-to-the-fruit/
-- 24.193 "PX marks the spot" - Macallan (Speyside) - https://smws.com/px-marks-the-spot/
 - 28.121 "Herbaceous ploom" - Tullibardine (Highland) - https://smws.com/herbaceous-ploom/
 - 35.419 "Southern European comfort" - Glen Moray (Speyside) - https://smws.com/southern-european-comfort/
-- 42.92 "Cinco de mayo on Mull" - Tobermory (Islands) - https://smws.com/cinco-de-mayo-on-mull/
 - 46.158 "Jamplification" - Glenlossie (Speyside) - https://smws.com/jamplification/
 - 52.52 "Breakfast with a beekeeper" - Old Pulteney (Highland) - https://smws.com/breakfast-with-a-beekeeper/
 - 53.538 "Set your watch to Islay time" - Caol Ila (Islay) - https://smws.com/set-your-watch-to-islay-time/
@@ -38,7 +36,6 @@ An SMWS code like 4.403 means distillery 4 (before the dot) and cask 403 (after 
 - 85.113 "Blue blazer brunch" - Glen Elgin (Speyside) - https://smws.com/blue-blazer-brunch/
 - 88.35 "Café Bombon" - Speyburn (Speyside) - https://smws.com/cafe-bombon/
 - 95.118 "Odontal Dionysian dancing" - Auchroisk (Speyside) - https://smws.com/odontal-dionysian-dancing/
-- 96.45 "Choco jaffa macarons" - GlenDronach (Highland) - https://smws.com/choco-jaffa-macarons/
 - 100.55 "Daiquiri baba" - Strathmill (Speyside) - https://smws.com/daiquiri-baba/
 - 105.58 "Autumnal allure" - Tormore (Speyside) - https://smws.com/autumnal-allure/
 - 108.79 "Van Gogh would like the colour of this taste" - Allt-a-Bhainne (Speyside) - https://smws.com/van-gogh-would-like-the-colour-of-this-taste/
