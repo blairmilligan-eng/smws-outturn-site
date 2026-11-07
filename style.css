@@ -107,6 +107,8 @@ a.wiki::after{content:" \2197";font-size:.8em;opacity:.6;}
 .qt .src a{color:var(--navy);}
 .summ{font-family:var(--serif);font-size:13.5px;color:#444;margin:0 0 6px;}
 .summ b{font-family:var(--cond);text-transform:uppercase;letter-spacing:.5px;font-size:11px;color:var(--muted);}
+.eutag{font-family:var(--cond);text-transform:uppercase;letter-spacing:1px;font-size:12px;color:#fff;background:#2b4c9b;display:inline-block;padding:3px 8px;margin:12px 0 0;}
+.euline{font-size:15px;margin:-6px 0 18px;padding-left:20px;}
 .tag{font-family:var(--cond);text-transform:uppercase;letter-spacing:1.5px;font-size:12px;color:var(--navy);margin:16px 0 2px;}
 .na{color:var(--muted);font-style:italic;}
 .foot{margin-top:auto;padding-top:14px;display:flex;align-items:center;justify-content:space-between;gap:12px;}
