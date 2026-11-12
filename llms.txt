@@ -23,7 +23,6 @@ An SMWS code like 4.403 means distillery 4 (before the dot) and cask 403 (after 
 - 28.121 "Herbaceous ploom" - Tullibardine (Highland) - https://smws.com/herbaceous-ploom/
 - 35.419 "Southern European comfort" - Glen Moray (Speyside) - https://smws.com/southern-european-comfort/
 - 46.158 "Jamplification" - Glenlossie (Speyside) - https://smws.com/jamplification/
-- 52.52 "Breakfast with a beekeeper" - Old Pulteney (Highland) - https://smws.com/breakfast-with-a-beekeeper/
 - 53.538 "Set your watch to Islay time" - Caol Ila (Islay) - https://smws.com/set-your-watch-to-islay-time/
 - 59.99 "Moroccan mint tea" - Teaninich (Highland) - https://smws.com/moroccan-mint-tea/
 - 63.122 "Goldilocks' beach bag" - Glentauchers (Speyside) - https://smws.com/goldilocks-beach-bag/
@@ -43,7 +42,6 @@ An SMWS code like 4.403 means distillery 4 (before the dot) and cask 403 (after 
 - 113.90 "Bewitched" - Braeval (Braes of Glenlivet) (Speyside) - https://smws.com/bewitched/
 - 115.43 "Chamois the sherry!" - Knockdhu (AnCnoc) (Speyside) - https://smws.com/chamois-the-sherry/
 - 121.129 "Lushly layered" - Isle of Arran (Islands) - https://smws.com/lushly-layered/
-- 123.36 "Stately home sophistication" - Glengoyne (Highland) - https://smws.com/stately-home-sophistication/
 - 135.84 "Rugby boys in the Bahamas" - Loch Lomond (Highland) - https://smws.com/rugby-boys-in-the-bahamas/
 - 163.4 "The tide thymes" - Isle of Harris Distillery (Islands) - https://smws.com/the-tide-thymes/
 - 168.11 "A succulent Chinese meal" - InchDairnie Distillery (KinGlassie) (Lowland) - https://smws.com/a-succulent-chinese-meal/
