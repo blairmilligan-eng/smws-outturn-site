@@ -10,8 +10,10 @@ An SMWS code like 4.403 means distillery 4 (before the dot) and cask 403 (after 
 
 ## Current Outturn
 
-- The long and winding roads pair (multi-bottle bundle) - https://smws.com/the-long-and-winding-roads-pair/
+- 19.116 "Home for a Christmas Sherry" - Glen Garioch (Highland) - https://smws.com/home-for-a-christmas-sherry/
+- 85.110 "'Twas the night before Christmas" - Glen Elgin (Speyside) - https://smws.com/twas-the-night-before-christmas/
 - 1.309 "Barrelbutt" - Glenfarclas (Speyside) - https://smws.com/barrelbutt/
+- The long and winding roads pair (multi-bottle bundle) - https://smws.com/the-long-and-winding-roads-pair/
 - 3.368 "Interstellar cough syrup" - Bowmore (Islay) - https://smws.com/interstellar-cough-syrup/
 - 4.405 "McLaren's first XV" - Highland Park (Islands) - https://smws.com/mclaren-s-first-xv/
 - 10.298 "Kelp-capped beastie" - Bunnahabhain (Islay) - https://smws.com/kelp-capped-beastie/
