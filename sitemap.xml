@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://caskcode.co.uk/</loc><lastmod>2026-11-14</lastmod></url>
-  <url><loc>https://caskcode.co.uk/codes/</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://caskcode.co.uk/codes/</loc><lastmod>2026-11-14</lastmod></url>
   <url><loc>https://caskcode.co.uk/data/</loc><lastmod>2026-11-06</lastmod></url>
   <url><loc>https://caskcode.co.uk/distilleries/</loc><lastmod>2026-11-06</lastmod></url>
   <url><loc>https://caskcode.co.uk/code/1/</loc><lastmod>2026-11-11</lastmod></url>
@@ -3194,5 +3194,5 @@
   <url><loc>https://caskcode.co.uk/cask/a6.1/</loc><lastmod>2026-11-11</lastmod></url>
   <url><loc>https://caskcode.co.uk/cask/c8.1/</loc><lastmod>2026-11-11</lastmod></url>
   <url><loc>https://caskcode.co.uk/about/</loc><lastmod>2026-11-06</lastmod></url>
-  <url><loc>https://caskcode.co.uk/methodology/</loc><lastmod>2026-11-06</lastmod></url>
+  <url><loc>https://caskcode.co.uk/methodology/</loc><lastmod>2026-11-14</lastmod></url>
 </urlset>
