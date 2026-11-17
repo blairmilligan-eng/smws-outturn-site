@@ -17,6 +17,7 @@ An SMWS code like 4.403 means distillery 4 (before the dot) and cask 403 (after 
 - 3.368 "Interstellar cough syrup" - Bowmore (Islay) - https://smws.com/interstellar-cough-syrup/
 - 4.405 "McLaren's first XV" - Highland Park (Islands) - https://smws.com/mclaren-s-first-xv/
 - 10.298 "Kelp-capped beastie" - Bunnahabhain (Islay) - https://smws.com/kelp-capped-beastie/
+- 11.72 "Sugar-coated nostalgia" - Tomatin (Highland) - https://smws.com/sugar-coated-nostalgia/
 - 11.79 "Fizzy lifting drink" - Tomatin (Highland) - https://smws.com/fizzy-lifting-drink/
 - 11.87 "A Christmas Cracker" - Tomatin (Highland) - https://smws.com/a-christmas-cracker/
 - 13.115 "Polished plums and orange sponge" - Dalmore (Highland) - https://smws.com/polished-plums-and-orange-sponge/
