@@ -11,7 +11,6 @@ An SMWS code like 4.403 means distillery 4 (before the dot) and cask 403 (after 
 ## Current Outturn
 
 - 19.116 "Home for a Christmas Sherry" - Glen Garioch (Highland) - https://smws.com/home-for-a-christmas-sherry/
-- 85.110 "'Twas the night before Christmas" - Glen Elgin (Speyside) - https://smws.com/twas-the-night-before-christmas/
 - 1.309 "Barrelbutt" - Glenfarclas (Speyside) - https://smws.com/barrelbutt/
 - The long and winding roads pair (multi-bottle bundle) - https://smws.com/the-long-and-winding-roads-pair/
 - 3.368 "Interstellar cough syrup" - Bowmore (Islay) - https://smws.com/interstellar-cough-syrup/
@@ -30,7 +29,6 @@ An SMWS code like 4.403 means distillery 4 (before the dot) and cask 403 (after 
 - 64.176 "Vive la effervescent revolution" - Mannochmore (Speyside) - https://smws.com/vive-la-effervescent-revolution/
 - 66.262 "Lochside glacier" - Ardmore (Highland) - https://smws.com/lochside-glacier/
 - 73.178 "Zingy fizzy" - Aultmore (Speyside) - https://smws.com/zingy-fizzy/
-- 78.103 "Barky monkey magic" - Ben Nevis (Highland) - https://smws.com/barky-monkey-magic/
 - 79.18 "Precocious sophistication" - Deanston (Highland) - https://smws.com/precocious-sophistication/
 - 80.71 "The plot thickens" - Glen Spey (Speyside) - https://smws.com/the-plot-thickens/
 - 85.113 "Blue blazer brunch" - Glen Elgin (Speyside) - https://smws.com/blue-blazer-brunch/

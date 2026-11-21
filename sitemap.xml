@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://caskcode.co.uk/</loc><lastmod>2026-11-19</lastmod></url>
-  <url><loc>https://caskcode.co.uk/codes/</loc><lastmod>2026-11-19</lastmod></url>
+  <url><loc>https://caskcode.co.uk/</loc><lastmod>2026-11-21</lastmod></url>
+  <url><loc>https://caskcode.co.uk/codes/</loc><lastmod>2026-11-21</lastmod></url>
   <url><loc>https://caskcode.co.uk/data/</loc><lastmod>2026-11-06</lastmod></url>
   <url><loc>https://caskcode.co.uk/distilleries/</loc><lastmod>2026-11-06</lastmod></url>
   <url><loc>https://caskcode.co.uk/code/1/</loc><lastmod>2026-11-11</lastmod></url>
@@ -126,8 +126,8 @@
   <url><loc>https://caskcode.co.uk/code/76/</loc><lastmod>2026-11-11</lastmod></url>
   <url><loc>https://caskcode.co.uk/code/76/archive/</loc><lastmod>2026-11-11</lastmod></url>
   <url><loc>https://caskcode.co.uk/code/77/</loc><lastmod>2026-11-06</lastmod></url>
-  <url><loc>https://caskcode.co.uk/code/78/</loc><lastmod>2026-11-19</lastmod></url>
-  <url><loc>https://caskcode.co.uk/code/78/archive/</loc><lastmod>2026-11-11</lastmod></url>
+  <url><loc>https://caskcode.co.uk/code/78/</loc><lastmod>2026-11-21</lastmod></url>
+  <url><loc>https://caskcode.co.uk/code/78/archive/</loc><lastmod>2026-11-21</lastmod></url>
   <url><loc>https://caskcode.co.uk/code/79/</loc><lastmod>2026-11-06</lastmod></url>
   <url><loc>https://caskcode.co.uk/code/80/</loc><lastmod>2026-11-11</lastmod></url>
   <url><loc>https://caskcode.co.uk/code/80/archive/</loc><lastmod>2026-11-11</lastmod></url>
@@ -136,8 +136,8 @@
   <url><loc>https://caskcode.co.uk/code/82/archive/</loc><lastmod>2026-11-11</lastmod></url>
   <url><loc>https://caskcode.co.uk/code/83/</loc><lastmod>2026-11-06</lastmod></url>
   <url><loc>https://caskcode.co.uk/code/84/</loc><lastmod>2026-11-06</lastmod></url>
-  <url><loc>https://caskcode.co.uk/code/85/</loc><lastmod>2026-11-13</lastmod></url>
-  <url><loc>https://caskcode.co.uk/code/85/archive/</loc><lastmod>2026-11-11</lastmod></url>
+  <url><loc>https://caskcode.co.uk/code/85/</loc><lastmod>2026-11-21</lastmod></url>
+  <url><loc>https://caskcode.co.uk/code/85/archive/</loc><lastmod>2026-11-21</lastmod></url>
   <url><loc>https://caskcode.co.uk/code/86/</loc><lastmod>2026-11-06</lastmod></url>
   <url><loc>https://caskcode.co.uk/code/87/</loc><lastmod>2026-11-06</lastmod></url>
   <url><loc>https://caskcode.co.uk/code/88/</loc><lastmod>2026-11-11</lastmod></url>
@@ -355,7 +355,7 @@
   <url><loc>https://caskcode.co.uk/outturn/2026-08/</loc><lastmod>2026-11-11</lastmod></url>
   <url><loc>https://caskcode.co.uk/outturn/2026-09/</loc><lastmod>2026-11-06</lastmod></url>
   <url><loc>https://caskcode.co.uk/outturn/2026-10/</loc><lastmod>2026-11-06</lastmod></url>
-  <url><loc>https://caskcode.co.uk/outturn/2026-11/</loc><lastmod>2026-11-19</lastmod></url>
+  <url><loc>https://caskcode.co.uk/outturn/2026-11/</loc><lastmod>2026-11-21</lastmod></url>
   <url><loc>https://caskcode.co.uk/outturn/2021-04/</loc><lastmod>2026-11-16</lastmod></url>
   <url><loc>https://caskcode.co.uk/outturn/2021-05/</loc><lastmod>2026-11-11</lastmod></url>
   <url><loc>https://caskcode.co.uk/outturn/2022-03/</loc><lastmod>2026-11-11</lastmod></url>
@@ -429,7 +429,6 @@
   <url><loc>https://caskcode.co.uk/smws-prices/</loc><lastmod>2026-11-16</lastmod></url>
   <url><loc>https://caskcode.co.uk/smws-abv/</loc><lastmod>2026-11-13</lastmod></url>
   <url><loc>https://caskcode.co.uk/cask/19.116/</loc><lastmod>2026-11-13</lastmod></url>
-  <url><loc>https://caskcode.co.uk/cask/85.110/</loc><lastmod>2026-11-13</lastmod></url>
   <url><loc>https://caskcode.co.uk/cask/1.309/</loc><lastmod>2026-11-11</lastmod></url>
   <url><loc>https://caskcode.co.uk/cask/3.368/</loc><lastmod>2026-11-07</lastmod></url>
   <url><loc>https://caskcode.co.uk/cask/4.405/</loc><lastmod>2026-11-07</lastmod></url>
@@ -447,7 +446,6 @@
   <url><loc>https://caskcode.co.uk/cask/64.176/</loc><lastmod>2026-11-11</lastmod></url>
   <url><loc>https://caskcode.co.uk/cask/66.262/</loc><lastmod>2026-11-11</lastmod></url>
   <url><loc>https://caskcode.co.uk/cask/73.178/</loc><lastmod>2026-11-09</lastmod></url>
-  <url><loc>https://caskcode.co.uk/cask/78.103/</loc><lastmod>2026-11-19</lastmod></url>
   <url><loc>https://caskcode.co.uk/cask/79.18/</loc><lastmod>2026-11-07</lastmod></url>
   <url><loc>https://caskcode.co.uk/cask/80.71/</loc><lastmod>2026-11-07</lastmod></url>
   <url><loc>https://caskcode.co.uk/cask/85.113/</loc><lastmod>2026-11-13</lastmod></url>
@@ -1345,6 +1343,7 @@
   <url><loc>https://caskcode.co.uk/cask/73.127/</loc><lastmod>2026-11-11</lastmod></url>
   <url><loc>https://caskcode.co.uk/cask/73.138/</loc><lastmod>2026-11-11</lastmod></url>
   <url><loc>https://caskcode.co.uk/cask/73.116/</loc><lastmod>2026-11-11</lastmod></url>
+  <url><loc>https://caskcode.co.uk/cask/78.103/</loc><lastmod>2026-11-21</lastmod></url>
   <url><loc>https://caskcode.co.uk/cask/78.102/</loc><lastmod>2026-11-07</lastmod></url>
   <url><loc>https://caskcode.co.uk/cask/78.101/</loc><lastmod>2026-11-07</lastmod></url>
   <url><loc>https://caskcode.co.uk/cask/78.98/</loc><lastmod>2026-11-07</lastmod></url>
@@ -1432,6 +1431,7 @@
   <url><loc>https://caskcode.co.uk/cask/80.16/</loc><lastmod>2026-11-11</lastmod></url>
   <url><loc>https://caskcode.co.uk/cask/80.17/</loc><lastmod>2026-11-11</lastmod></url>
   <url><loc>https://caskcode.co.uk/cask/80.18/</loc><lastmod>2026-11-11</lastmod></url>
+  <url><loc>https://caskcode.co.uk/cask/85.110/</loc><lastmod>2026-11-21</lastmod></url>
   <url><loc>https://caskcode.co.uk/cask/85.111/</loc><lastmod>2026-11-13</lastmod></url>
   <url><loc>https://caskcode.co.uk/cask/85.107/</loc><lastmod>2026-11-13</lastmod></url>
   <url><loc>https://caskcode.co.uk/cask/85.106/</loc><lastmod>2026-11-13</lastmod></url>
